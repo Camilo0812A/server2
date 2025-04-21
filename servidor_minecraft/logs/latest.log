@@ -542,3 +542,11 @@ java.lang.NullPointerException: null
 [21Apr2025 21:21:58.212] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityDragonfly from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
 [21Apr2025 21:21:58.213] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityDragonfly from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
 [21Apr2025 21:22:37.360] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityGoat from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[21Apr2025 21:26:38.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to dokato]
+[21Apr2025 21:28:12.839] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col has made the advancement [Ice Maze]
+[21Apr2025 21:28:23.207] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityBadger from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[21Apr2025 21:29:58.099] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set the time to 1000
+[21Apr2025 21:31:02.446] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was doomed to fall by Ice Dragon
+[21Apr2025 21:31:18.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was turned to ice by Ice Dragon
+[21Apr2025 21:31:19.632] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col was shot by Pillager
+[21Apr2025 21:32:42.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was frozen by Ice Dragon
