@@ -550,3 +550,61 @@ java.lang.NullPointerException: null
 [21Apr2025 21:31:18.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was turned to ice by Ice Dragon
 [21Apr2025 21:31:19.632] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col was shot by Pillager
 [21Apr2025 21:32:42.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was frozen by Ice Dragon
+[21Apr2025 21:33:03.851] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DARKFIRE lost connection: Disconnected
+[21Apr2025 21:33:03.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE left the game
+[21Apr2025 21:33:04.066] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col was slain by Vindicator
+[21Apr2025 21:33:25.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col was shot by Pillager
+[21Apr2025 21:33:29.150] [Worker-Main-4/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityLammergeier from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[21Apr2025 21:33:42.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col was slain by Vindicator
+[21Apr2025 21:34:17.268] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col was slain by Vindicator
+[21Apr2025 21:34:22.089] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@77f8f558
+[21Apr2025 21:34:22.121] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DARKFIRE[/127.9.21.201:57519] logged in with entity id 12468 at (139.6449634112389, 63.0, 828.6724031500784)
+[21Apr2025 21:34:22.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE joined the game
+[21Apr2025 21:34:28.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col was slain by Vindicator
+[21Apr2025 21:34:35.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kevin99col> nah
+[21Apr2025 21:34:37.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kevin99col> xd
+[21Apr2025 21:34:58.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to 144.53, 66.0, -207.9]
+[21Apr2025 21:35:42.094] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to dokato]
+[21Apr2025 21:35:49.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DARKFIRE> ty
+[21Apr2025 21:36:26.236] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DARKFIRE lost connection: Disconnected
+[21Apr2025 21:36:26.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE left the game
+[21Apr2025 21:36:35.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported dokato to 0.5, 0.0, 0.5
+[21Apr2025 21:36:37.911] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7174fe0d
+[21Apr2025 21:36:37.944] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DARKFIRE[/127.9.21.201:38485] logged in with entity id 14760 at (-503.69999998807907, 66.0, 413.57348157434416)
+[21Apr2025 21:36:37.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE joined the game
+[21Apr2025 21:36:39.476] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: dokato fell out of the world
+[21Apr2025 21:36:40.394] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: dokato was kicked for floating too long!
+[21Apr2025 21:36:40.395] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: dokato lost connection: Flying is not enabled on this server
+[21Apr2025 21:36:40.395] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: dokato left the game
+[21Apr2025 21:36:40.458] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[21Apr2025 21:37:07.691] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@37d8fdf2
+[21Apr2025 21:37:07.715] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: dokato[/127.62.247.192:35851] logged in with entity id 15102 at (0.5016112910234369, -170.05536978019975, -0.20787087827920914)
+[21Apr2025 21:37:07.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: dokato joined the game
+[21Apr2025 21:37:14.448] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: dokato was kicked for floating too long!
+[21Apr2025 21:37:14.489] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: dokato lost connection: Flying is not enabled on this server
+[21Apr2025 21:37:14.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: dokato left the game
+[21Apr2025 21:37:27.384] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col has made the advancement [Exploration]
+[21Apr2025 21:37:28.245] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@67647391
+[21Apr2025 21:37:28.270] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: dokato[/127.238.39.35:44389] logged in with entity id 15259 at (0.5042359021026641, -275.9061144649702, -1.3609126955270767)
+[21Apr2025 21:37:28.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: dokato joined the game
+[21Apr2025 21:37:33.998] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DARKFIRE lost connection: Disconnected
+[21Apr2025 21:37:33.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE left the game
+[21Apr2025 21:37:35.182] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: dokato was kicked for floating too long!
+[21Apr2025 21:37:35.230] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: dokato lost connection: Flying is not enabled on this server
+[21Apr2025 21:37:35.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: dokato left the game
+[21Apr2025 21:37:47.585] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@e4bd917
+[21Apr2025 21:37:47.610] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: dokato[/127.214.188.40:55511] logged in with entity id 15388 at (0.5068605131818913, -352.2968545442311, -2.5139545127749443)
+[21Apr2025 21:37:47.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: dokato joined the game
+[21Apr2025 21:37:52.244] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported dokato to 0.5, 70.0, 0.5
+[21Apr2025 21:37:54.528] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: dokato lost connection: Disconnected
+[21Apr2025 21:37:54.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: dokato left the game
+[21Apr2025 21:39:38.538] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6018fdab
+[21Apr2025 21:39:38.565] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DARKFIRE[/127.9.21.201:59893] logged in with entity id 15639 at (-503.69999998807907, 66.0, 413.57348157434416)
+[21Apr2025 21:39:38.571] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE joined the game
+[21Apr2025 21:39:39.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col has made the advancement [Voluntary Exile]
+[21Apr2025 21:40:32.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col has made the advancement [The Light In The Darkness]
+[21Apr2025 21:40:43.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col has made the advancement [Almost Like a Fan]
+[21Apr2025 21:41:55.852] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityButterfly from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[21Apr2025 21:41:55.853] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityButterfly from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[21Apr2025 21:42:08.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nothing changed. The player isn't banned
+[21Apr2025 21:42:44.954] [Worker-Main-6/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntitySquirrel from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer

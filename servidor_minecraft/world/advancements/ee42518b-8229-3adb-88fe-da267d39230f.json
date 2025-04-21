@@ -3081,7 +3081,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-21 21:30:21 +0000",
       "minecraft:skeleton": "2025-04-21 20:36:58 +0000",
+      "minecraft:vindicator": "2025-04-21 21:38:00 +0000",
       "minecraft:spider": "2025-04-21 20:08:08 +0000",
       "minecraft:witch": "2025-04-21 20:16:36 +0000",
       "minecraft:husk": "2025-04-21 21:19:33 +0000",
@@ -3926,6 +3928,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/pirate_pouch": {
+    "criteria": {
+      "has_item": "2025-04-21 21:32:09 +0000"
     },
     "done": true
   },
@@ -8366,6 +8374,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_shell_horn": {
+    "criteria": {
+      "shell_horn": "2025-04-21 21:37:27 +0000"
     },
     "done": true
   },
