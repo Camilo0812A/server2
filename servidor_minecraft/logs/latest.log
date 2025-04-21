@@ -4392,3 +4392,21 @@ java.lang.NullPointerException: null
 [21Apr2025 20:18:59.329] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=754, y=63, z=486} BlockPos{x=758, y=63, z=485}
 [21Apr2025 20:19:00.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col has made the advancement [Chompy]
 [21Apr2025 20:19:04.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col was slain by Crocodile
+[21Apr2025 20:22:10.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col drowned whilst trying to escape Lobster
+[21Apr2025 20:25:42.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made kevin99col a server operator
+[21Apr2025 20:27:33.635] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6d0ef185
+[21Apr2025 20:27:33.640] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: dokato[/127.54.240.110:49987] logged in with entity id 16750 at (-162.5, 70.0, 70.5)
+[21Apr2025 20:27:33.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: dokato joined the game
+[21Apr2025 20:27:34.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: dokato has made the advancement [Ice and Fire]
+[21Apr2025 20:28:18.090] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set the time to 1000
+[21Apr2025 20:28:40.186] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-175, y=69, z=69}
+[21Apr2025 20:28:40.387] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-175, y=69, z=69}
+[21Apr2025 20:28:40.546] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-175, y=69, z=69}
+[21Apr2025 20:28:43.082] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-175, y=69, z=69}
+[21Apr2025 20:28:44.433] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-175, y=69, z=69}
+[21Apr2025 20:29:03.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE has made the advancement [Monster Hunter]
+[21Apr2025 20:29:28.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Incorrect argument for command
+[21Apr2025 20:29:28.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /gamemode dokato survival<--[HERE]
+[21Apr2025 20:29:40.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Incorrect argument for command
+[21Apr2025 20:29:40.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /gamemode @a survival<--[HERE]
+[21Apr2025 20:29:47.243] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made dokato a server operator
