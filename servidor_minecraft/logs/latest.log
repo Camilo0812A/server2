@@ -4369,3 +4369,26 @@ java.lang.NullPointerException: null
 [21Apr2025 20:08:33.762] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntitySaltwaterEel from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
 [21Apr2025 20:08:40.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> puede pero on es lo mismo
 [21Apr2025 20:09:25.586] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityLamprey['Lamprey'/2470, l='ServerLevel[world]', x=-169.58, y=60.38, z=481.79]
+[21Apr2025 20:11:12.116] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE has made the advancement [Suit Up]
+[21Apr2025 20:12:48.392] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Camilo0812A lost connection: Timed out
+[21Apr2025 20:12:48.393] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilo0812A left the game
+[21Apr2025 20:12:48.467] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[21Apr2025 20:13:14.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE has made the advancement [Taxidermist]
+[21Apr2025 20:14:28.501] [Worker-Main-7/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityMoose from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[21Apr2025 20:15:41.502] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[21Apr2025 20:17:01.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was frozen by Ice Dragon
+[21Apr2025 20:17:40.735] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DARKFIRE> [name:"Muerte 15:17:05 04-21-2025", x:110, y:70, z:886, dim:minecraft:overworld]
+[21Apr2025 20:18:23.880] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=858, y=0, z=184} but found not block entity block Block{minecraft:bedrock} at location
+[21Apr2025 20:18:23.880] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=858, y=0, z=184}
+[21Apr2025 20:18:23.880] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=852, y=0, z=186} but found not block entity block Block{minecraft:bedrock} at location
+[21Apr2025 20:18:23.881] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=852, y=0, z=186}
+[21Apr2025 20:18:23.881] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=850, y=0, z=186} but found not block entity block Block{minecraft:bedrock} at location
+[21Apr2025 20:18:23.881] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=850, y=0, z=186}
+[21Apr2025 20:18:23.881] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=851, y=0, z=186} but found not block entity block Block{minecraft:bedrock} at location
+[21Apr2025 20:18:23.881] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=851, y=0, z=186}
+[21Apr2025 20:18:38.230] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityLamprey['Lamprey'/11073, l='ServerLevel[world]', x=757.05, y=62.35, z=371.45]
+[21Apr2025 20:18:59.236] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=754, y=63, z=486} BlockPos{x=758, y=63, z=485}
+[21Apr2025 20:18:59.277] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=754, y=63, z=486} BlockPos{x=758, y=63, z=485}
+[21Apr2025 20:18:59.329] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=754, y=63, z=486} BlockPos{x=758, y=63, z=485}
+[21Apr2025 20:19:00.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col has made the advancement [Chompy]
+[21Apr2025 20:19:04.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col was slain by Crocodile

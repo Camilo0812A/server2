@@ -3035,6 +3035,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2025-04-21 20:08:08 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/brown_glazed_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
@@ -8597,6 +8603,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2025-04-21 20:08:08 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/cut_white_sandstone_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
@@ -8635,9 +8647,17 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-04-21 20:08:55 +0000",
+      "minecraft:taiga": "2025-04-21 20:08:20 +0000",
+      "environmental:marsh": "2025-04-21 20:13:49 +0000",
       "minecraft:giant_tree_taiga": "2025-04-21 19:56:55 +0000",
       "minecraft:taiga_hills": "2025-04-21 19:53:23 +0000",
-      "minecraft:giant_tree_taiga_hills": "2025-04-21 19:59:19 +0000"
+      "minecraft:beach": "2025-04-21 20:08:48 +0000",
+      "minecraft:dark_forest": "2025-04-21 20:10:37 +0000",
+      "minecraft:river": "2025-04-21 20:08:52 +0000",
+      "minecraft:giant_tree_taiga_hills": "2025-04-21 19:59:19 +0000",
+      "environmental:mushroom_marsh": "2025-04-21 20:13:47 +0000",
+      "minecraft:plains": "2025-04-21 20:10:56 +0000"
     },
     "done": false
   },
@@ -9090,6 +9110,12 @@
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "sweet_berries": "2025-04-21 20:06:06 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/gray_terracotta": {
     "criteria": {

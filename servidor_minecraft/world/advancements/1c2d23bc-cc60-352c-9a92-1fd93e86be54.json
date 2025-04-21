@@ -407,6 +407,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-04-21 20:11:12 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/chiseled_white_sandstone": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
@@ -896,6 +902,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/boomerang_gold": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-21 20:06:04 +0000"
     },
     "done": true
   },
@@ -1553,6 +1565,12 @@
     },
     "done": true
   },
+  "betteranimalsplus:animal_head_variants": {
+    "criteria": {
+      "boarhead_gray": "2025-04-21 20:13:14 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/building_blocks/orange_sandstone_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
@@ -1786,6 +1804,12 @@
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
     },
     "done": true
+  },
+  "betteranimalsplus:animal_head_all": {
+    "criteria": {
+      "head16": "2025-04-21 20:13:14 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
     "criteria": {
@@ -2480,6 +2504,12 @@
   "biomesoplenty:recipes/redstone/fir_fence_gate": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-21 20:05:42 +0000"
     },
     "done": true
   },
@@ -5630,6 +5660,12 @@
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
+    },
+    "done": true
+  },
+  "betteranimalsplus:animal_head_first": {
+    "criteria": {
+      "head16": "2025-04-21 20:13:14 +0000"
     },
     "done": true
   },
@@ -9094,6 +9130,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-04-21 20:14:23 +0000",
+      "cooked_chicken": "2025-04-21 20:12:49 +0000",
       "sweet_berries": "2025-04-21 20:05:35 +0000"
     },
     "done": false
