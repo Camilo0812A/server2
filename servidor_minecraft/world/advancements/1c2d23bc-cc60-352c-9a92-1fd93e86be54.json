@@ -1679,6 +1679,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "frozen_ocean": "2025-04-21 21:50:48 +0000"
+    },
+    "done": true
+  },
   "cavesandcliffs:recipes/building_blocks/exposed_cut_copper_from_exposed_copper_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
@@ -8724,6 +8730,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-04-21 21:51:36 +0000",
       "minecraft:forest": "2025-04-21 21:42:17 +0000",
       "minecraft:taiga": "2025-04-21 20:16:38 +0000",
       "environmental:marsh": "2025-04-21 20:49:25 +0000",
@@ -9198,6 +9205,7 @@
       "cooked_chicken": "2025-04-21 20:12:49 +0000",
       "cooked_mutton": "2025-04-21 21:45:31 +0000",
       "sweet_berries": "2025-04-21 20:05:35 +0000",
+      "apple": "2025-04-21 21:54:51 +0000",
       "bread": "2025-04-21 21:08:20 +0000",
       "rotten_flesh": "2025-04-21 21:19:37 +0000"
     },

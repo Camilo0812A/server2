@@ -4223,6 +4223,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-21 21:51:38 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/heavy_crossbow_gold": {
     "criteria": {
       "has_the_recipe": "2025-04-21 21:45:06 +0000"
@@ -5642,6 +5648,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/quarterstaff_netherite_smithing": {
     "criteria": {
       "has_the_recipe": "2025-04-21 21:45:06 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/wisteria_niveis": {
+    "criteria": {
+      "has_item": "2025-04-21 21:49:03 +0000"
     },
     "done": true
   },
@@ -8620,6 +8632,7 @@
       "minecraft:cold_ocean": "2025-04-21 21:46:53 +0000",
       "minecraft:taiga": "2025-04-21 21:46:47 +0000",
       "minecraft:giant_tree_taiga": "2025-04-21 21:45:06 +0000",
+      "minecraft:deep_frozen_ocean": "2025-04-21 21:51:33 +0000",
       "minecraft:beach": "2025-04-21 21:46:48 +0000",
       "minecraft:river": "2025-04-21 21:46:09 +0000",
       "minecraft:giant_tree_taiga_hills": "2025-04-21 21:46:26 +0000"
@@ -9081,6 +9094,12 @@
       "has_the_recipe": "2025-04-21 21:45:06 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "mushroom_stew": "2025-04-21 21:51:38 +0000"
+    },
+    "done": false
   },
   "silentgear:recipes/silentgear/netherwood_door": {
     "criteria": {
