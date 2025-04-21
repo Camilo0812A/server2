@@ -7031,6 +7031,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-21 21:06:43 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/mahogany_button": {
     "criteria": {
       "has_the_recipe": "2025-04-21 20:27:33 +0000"
@@ -8624,7 +8630,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:giant_tree_taiga": "2025-04-21 20:28:39 +0000",
-      "minecraft:taiga_hills": "2025-04-21 20:27:34 +0000"
+      "minecraft:taiga_hills": "2025-04-21 20:27:34 +0000",
+      "minecraft:river": "2025-04-21 21:15:37 +0000"
     },
     "done": false
   },

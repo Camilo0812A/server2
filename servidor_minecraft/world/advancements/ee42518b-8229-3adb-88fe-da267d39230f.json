@@ -407,6 +407,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-04-21 21:16:51 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/chiseled_white_sandstone": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
@@ -896,6 +902,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/boomerang_gold": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-21 21:17:22 +0000"
     },
     "done": true
   },
@@ -1582,6 +1594,14 @@
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
     },
     "done": true
+  },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "creeper_head": "2025-04-21 21:09:48 +0000",
+      "zombie_head": "2025-04-21 21:09:59 +0000",
+      "skeleton_skull": "2025-04-21 21:09:56 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
@@ -2483,6 +2503,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-21 21:15:22 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/sturdy_repair_kit": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
@@ -2498,6 +2524,12 @@
   "minecraft:recipes/decorations/light_blue_bed": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:battleaxe": {
+    "criteria": {
+      "has_battleaxe": "2025-04-21 21:07:49 +0000"
     },
     "done": true
   },
@@ -3045,7 +3077,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-04-21 20:36:58 +0000",
       "minecraft:spider": "2025-04-21 20:08:08 +0000",
-      "minecraft:witch": "2025-04-21 20:16:36 +0000"
+      "minecraft:witch": "2025-04-21 20:16:36 +0000",
+      "minecraft:zombie": "2025-04-21 21:09:39 +0000"
     },
     "done": false
   },
@@ -9133,7 +9166,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "sweet_berries": "2025-04-21 20:06:06 +0000"
+      "sweet_berries": "2025-04-21 20:06:06 +0000",
+      "bread": "2025-04-21 21:08:11 +0000"
     },
     "done": false
   },
@@ -9461,6 +9495,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-21 21:10:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
@@ -9770,6 +9810,12 @@
   "minecraft:recipes/misc/slime_ball": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
+    },
+    "done": true
+  },
+  "dungeons_plus:adventure/find_bigger_dungeon": {
+    "criteria": {
+      "structure": "2025-04-21 21:04:29 +0000"
     },
     "done": true
   },

@@ -839,6 +839,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-21 21:00:50 +0000"
+    },
+    "done": true
+  },
   "cavesandcliffs:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
@@ -2531,6 +2537,12 @@
     },
     "done": true
   },
+  "spartanweaponry:battleaxe": {
+    "criteria": {
+      "has_battleaxe": "2025-04-21 21:07:23 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/magic_door": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
@@ -3073,8 +3085,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-04-21 21:00:47 +0000",
       "minecraft:spider": "2025-04-21 20:31:55 +0000",
       "minecraft:creeper": "2025-04-21 20:29:03 +0000",
+      "minecraft:husk": "2025-04-21 21:16:20 +0000",
       "minecraft:zombie": "2025-04-21 20:40:31 +0000",
       "minecraft:zombie_villager": "2025-04-21 20:30:43 +0000"
     },
@@ -7910,6 +7924,12 @@
     },
     "done": true
   },
+  "environmental:adventure/obtain_explorer_gear": {
+    "criteria": {
+      "thief_hood": "2025-04-21 21:17:04 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_restock_upgrade": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
@@ -9167,7 +9187,8 @@
     "criteria": {
       "cooked_porkchop": "2025-04-21 20:14:23 +0000",
       "cooked_chicken": "2025-04-21 20:12:49 +0000",
-      "sweet_berries": "2025-04-21 20:05:35 +0000"
+      "sweet_berries": "2025-04-21 20:05:35 +0000",
+      "bread": "2025-04-21 21:08:20 +0000"
     },
     "done": false
   },
@@ -9804,6 +9825,12 @@
   "minecraft:recipes/misc/slime_ball": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
+    },
+    "done": true
+  },
+  "dungeons_plus:adventure/find_bigger_dungeon": {
+    "criteria": {
+      "structure": "2025-04-21 21:02:06 +0000"
     },
     "done": true
   },
