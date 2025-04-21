@@ -608,3 +608,66 @@ java.lang.NullPointerException: null
 [21Apr2025 21:41:55.853] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityButterfly from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
 [21Apr2025 21:42:08.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nothing changed. The player isn't banned
 [21Apr2025 21:42:44.954] [Worker-Main-6/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntitySquirrel from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[21Apr2025 21:43:27.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col has made the advancement [Greed]
+[21Apr2025 21:43:29.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE has made the advancement [Battle Towers?]
+[21Apr2025 21:43:36.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was slain by Spider
+[21Apr2025 21:45:06.091] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@31c7cf75
+[21Apr2025 21:45:06.095] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: sairux[/127.218.112.177:40409] logged in with entity id 18571 at (-161.5, 64.0, 89.5)
+[21Apr2025 21:45:06.098] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sairux joined the game
+[21Apr2025 21:45:06.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sairux has made the advancement [Ice and Fire]
+[21Apr2025 21:45:21.847] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: sairux lost connection: Timed out
+[21Apr2025 21:45:21.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sairux left the game
+[21Apr2025 21:45:53.392] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2e8f3c04
+[21Apr2025 21:45:53.413] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: sairux[/127.218.112.177:40265] logged in with entity id 18863 at (-161.69999998807907, 64.0, 89.30000001192093)
+[21Apr2025 21:45:53.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sairux joined the game
+[21Apr2025 21:46:13.837] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set the time to 1000
+[21Apr2025 21:47:23.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <sairux> voy a ponerme en creativo un segundito. trabe el sv xd
+[21Apr2025 21:47:33.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made sairux a server operator
+[21Apr2025 21:47:36.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [sairux: Set own game mode to Creative Mode]
+[21Apr2025 21:47:51.778] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sairux has made the advancement [Stone Age]
+[21Apr2025 21:47:51.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sairux has made the advancement [Getting an Upgrade]
+[21Apr2025 21:48:16.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [sairux: Set own game mode to Survival Mode]
+[21Apr2025 21:48:51.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sairux has made the advancement [Ice Maze]
+[21Apr2025 21:49:31.511] [Worker-Main-4/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityHorseshoeCrab from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[21Apr2025 21:49:31.512] [Worker-Main-4/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityHorseshoeCrab from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[21Apr2025 21:49:43.623] [Worker-Main-6/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityCrab from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[21Apr2025 21:49:43.623] [Worker-Main-6/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityCrab from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[21Apr2025 21:50:47.901] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to kevin99col]
+[21Apr2025 21:50:48.837] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE has made the advancement [Ice Maze]
+[21Apr2025 21:51:03.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col was slain by Ghost of Captain Cornelia
+[21Apr2025 21:51:19.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col was slain by Ghost of Captain Cornelia
+[21Apr2025 21:51:29.944] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=642, y=28, z=-320} but found not block entity block Block{minecraft:stone} at location
+[21Apr2025 21:51:29.944] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=642, y=28, z=-320}
+[21Apr2025 21:51:29.944] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=649, y=33, z=-302} but found not block entity block Block{minecraft:stone} at location
+[21Apr2025 21:51:29.945] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=649, y=33, z=-302}
+[21Apr2025 21:51:32.106] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.world.server.TicketManager.func_219367_b(TicketManager.java:227) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219183_a(ChunkManager.java:884) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217221_a(ServerChunkProvider.java:450) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147347_a(ServerPlayNetHandler.java:845) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket.func_148833_a(SourceFile:122) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket$PositionRotationPacket.func_148833_a(SourceFile:18) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[21Apr2025 21:51:44.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col was slain by Ghost of Captain Cornelia
+[21Apr2025 21:51:46.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to DARKFIRE]
+[21Apr2025 21:51:50.336] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: kevin99col lost connection: Timed out
+[21Apr2025 21:51:50.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col left the game
+[21Apr2025 21:52:08.593] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6f97e466
+[21Apr2025 21:52:08.613] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: kevin99col[/127.21.209.171:36855] logged in with entity id 22690 at (144.84012836425305, 63.0, -195.16146825870075)
+[21Apr2025 21:52:08.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col joined the game
+[21Apr2025 21:52:16.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to DARKFIRE]
+[21Apr2025 21:53:09.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col was slain by Ghost of Captain Cornelia

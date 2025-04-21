@@ -3007,6 +3007,12 @@
     },
     "done": true
   },
+  "aquamirae:recipes/spinefish": {
+    "criteria": {
+      "has_item": "2025-04-21 21:40:32 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/parrying_dagger_diamond": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
@@ -3178,6 +3184,12 @@
   "biomesoplenty:recipes/redstone/dead_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-21 21:39:39 +0000"
     },
     "done": true
   },
@@ -3412,6 +3424,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_fin": {
+    "criteria": {
+      "fin": "2025-04-21 21:40:43 +0000"
     },
     "done": true
   },
@@ -5155,6 +5173,12 @@
     },
     "done": true
   },
+  "aquamirae:recipes/esca": {
+    "criteria": {
+      "has_item": "2025-04-21 21:40:32 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/heavy_crossbow_diamond": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
@@ -5803,6 +5827,12 @@
     },
     "done": true
   },
+  "aquamirae:recipes/fin": {
+    "criteria": {
+      "has_item": "2025-04-21 21:40:43 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/mattock_template": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
@@ -6025,6 +6055,12 @@
     },
     "done": true
   },
+  "aquamirae:recipes/sea_stew": {
+    "criteria": {
+      "has_item": "2025-04-21 21:43:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_red_sandstone_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
@@ -6112,6 +6148,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stack_upgrade_tier_1": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_esca": {
+    "criteria": {
+      "esca": "2025-04-21 21:40:32 +0000"
     },
     "done": true
   },
@@ -8617,6 +8659,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/obtain_dagger_of_greed": {
+    "criteria": {
+      "dagger_of_greed": "2025-04-21 21:43:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
@@ -9188,9 +9236,11 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-04-21 21:22:40 +0000",
+      "salmon": "2025-04-21 21:41:43 +0000",
       "cooked_mutton": "2025-04-21 21:20:33 +0000",
       "sweet_berries": "2025-04-21 20:06:06 +0000",
-      "bread": "2025-04-21 21:08:11 +0000"
+      "bread": "2025-04-21 21:08:11 +0000",
+      "cod": "2025-04-21 21:45:34 +0000"
     },
     "done": false
   },
