@@ -549,3 +549,37 @@ java.lang.NullPointerException: null
 [21Apr2025 20:53:37.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ...r":"red"} 
 /title @a subtitle {"text":"si quiere le doy coordenadas o no se si prefiera buscarla ud","color":"gray"}
 /title @a times 10 70 20  # fadeIn, stay, fadeOut (en ticks)<--[HERE]
+[21Apr2025 20:55:21.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Expected whitespace to end one argument, but found trailing data
+[21Apr2025 20:55:21.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ...r":"red"}
+/title @a times 20 120 20<--[HERE]
+[21Apr2025 20:55:26.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Expected whitespace to end one argument, but found trailing data
+[21Apr2025 20:55:26.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ...r":"red"}
+/title @a times 20 120 20<--[HERE]
+[21Apr2025 20:56:10.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Expected whitespace to end one argument, but found trailing data
+[21Apr2025 20:56:10.013] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ...r":"red"}
+/title @a times 20 120 20<--[HERE]
+[21Apr2025 20:56:24.805] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Showing new title for 2 players
+[21Apr2025 20:56:50.353] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: You whisper to DARKFIRE: También hay ciudades abandonadas. Si quiere le doy coordenadas o no sé si prefiera buscarla usted
+[21Apr2025 20:57:03.470] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DARKFIRE> despues bro
+[21Apr2025 20:57:05.362] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@625e4dc4
+[21Apr2025 20:57:05.408] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: kevin99col[/127.21.209.171:55435] logged in with entity id 3884 at (146.01093025647194, 23.0, 868.3000000119209)
+[21Apr2025 20:57:05.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col joined the game
+[21Apr2025 20:58:16.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to dokato]
+[21Apr2025 20:58:28.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kevin99col> quien es dokato?
+[21Apr2025 20:58:47.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: You whisper to kevin99col: una amiga de la u
+[21Apr2025 20:58:52.723] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kevin99col> oka
+[21Apr2025 20:59:02.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kevin99col> que si me presta el horno
+[21Apr2025 20:59:05.514] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <dokato> ola
+[21Apr2025 20:59:18.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <dokato> si:b
+[21Apr2025 20:59:19.547] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kevin99col> puedo usar su horno por fa
+[21Apr2025 20:59:22.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kevin99col> ty
+[21Apr2025 21:00:50.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE has made the advancement [Not Today, Thank You]
+[21Apr2025 21:02:06.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE has made the advancement [Now this is a Dungeon]
+[21Apr2025 21:02:11.303] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kevin99col> laloooo
+[21Apr2025 21:02:13.672] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kevin99col> voyyyy
+[21Apr2025 21:02:16.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was shot by Skeleton
+[21Apr2025 21:02:20.720] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kevin99col> ya no
+[21Apr2025 21:02:22.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kevin99col> xd
+[21Apr2025 21:02:23.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DARKFIRE> no xd
+[21Apr2025 21:03:02.414] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityGoose from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[21Apr2025 21:04:23.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to dokato]

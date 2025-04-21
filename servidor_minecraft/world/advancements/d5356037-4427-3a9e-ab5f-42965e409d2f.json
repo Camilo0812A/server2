@@ -1067,6 +1067,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-04-21 20:52:04 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/stripped_palm_wood": {
     "criteria": {
       "has_the_recipe": "2025-04-21 20:27:34 +0000"
@@ -1262,6 +1268,12 @@
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_the_recipe": "2025-04-21 20:27:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-21 20:52:04 +0000"
     },
     "done": true
   },
@@ -1580,6 +1592,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_the_recipe": "2025-04-21 20:27:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-21 20:52:04 +0000"
     },
     "done": true
   },
@@ -2648,6 +2666,12 @@
   "cavesandcliffs:recipes/search/waxed_exposed_cut_copper_vertical_slab_from_honeycomb": {
     "criteria": {
       "has_the_recipe": "2025-04-21 20:27:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-21 20:52:04 +0000"
     },
     "done": true
   },
@@ -6209,6 +6233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-21 20:52:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_the_recipe": "2025-04-21 20:27:34 +0000"
@@ -9294,6 +9324,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-21 20:52:04 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/flanged_mace_diamond": {
     "criteria": {
       "has_the_recipe": "2025-04-21 20:27:33 +0000"
@@ -9567,6 +9603,12 @@
   "silentgear:recipes/silentgear/crimson_steel_ingot": {
     "criteria": {
       "has_the_recipe": "2025-04-21 20:27:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-04-21 20:52:04 +0000"
     },
     "done": true
   },
