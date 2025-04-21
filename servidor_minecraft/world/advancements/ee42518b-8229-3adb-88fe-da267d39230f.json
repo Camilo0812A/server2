@@ -7404,6 +7404,12 @@
     },
     "done": true
   },
+  "dungeons_plus:adventure/find_tower": {
+    "criteria": {
+      "structure": "2025-04-21 20:32:31 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/tyrian_steel_dust": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"

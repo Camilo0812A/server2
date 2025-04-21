@@ -4410,3 +4410,29 @@ java.lang.NullPointerException: null
 [21Apr2025 20:29:40.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Incorrect argument for command
 [21Apr2025 20:29:40.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /gamemode @a survival<--[HERE]
 [21Apr2025 20:29:47.243] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made dokato a server operator
+[21Apr2025 20:30:57.797] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kevin99col> los demas we
+[21Apr2025 20:31:46.342] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nothing changed. The player already is an operator
+[21Apr2025 20:32:31.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col has made the advancement [Battle Towers?]
+[21Apr2025 20:32:36.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: You whisper to DARKFIRE: carlos mande un mesnsaje pa poder ponerlo de op
+[21Apr2025 20:32:53.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: You whisper to DARKFIRE: soy camilo
+[21Apr2025 20:32:58.451] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DARKFIRE> 4
+[21Apr2025 20:33:12.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made DARKFIRE a server operator
+[21Apr2025 20:33:21.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: You whisper to DARKFIRE: ya?
+[21Apr2025 20:33:26.252] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DARKFIRE> sisa
+[21Apr2025 20:33:42.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: You whisper to DARKFIRE: dele, el otro q esta es un amigo
+[21Apr2025 20:33:50.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DARKFIRE> r
+[21Apr2025 20:34:12.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Set the weather to clear]
+[21Apr2025 20:34:52.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Summoned new Bee
+[21Apr2025 20:35:00.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DARKFIRE> ..
+[21Apr2025 20:35:03.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kevin99col> ?
+[21Apr2025 20:35:11.741] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DARKFIRE> ya ponga a kevin camilo
+[21Apr2025 20:35:35.498] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: You whisper to DARKFIRE: kevin ya esta de op desde hace rato
+[21Apr2025 20:36:24.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE has made the advancement [Hammer Time!]
+[21Apr2025 20:36:36.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: You whisper to DARKFIRE: yo hice la abeja a ver si hacia choque con un mod, por lo que un mod pone cosas de las versiones nuevas de minecraft y hay cosas de la abeja que no estan en la 1.16.5
+[21Apr2025 20:37:37.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col was shot by Skeleton
+[21Apr2025 20:37:39.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: dokato has made the advancement [Alex's Mobs]
+[21Apr2025 20:38:29.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col was slain by Spider
+[21Apr2025 20:39:07.842] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Showing new title for 3 players
+[21Apr2025 20:39:32.640] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Set the time to 1000]
+[21Apr2025 20:39:35.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Set the weather to clear]
+[21Apr2025 20:40:24.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to dokato]
