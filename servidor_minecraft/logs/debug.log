@@ -12747,3 +12747,108 @@ java.lang.NullPointerException: null
 [21Apr2025 19:59:13.138] [Worker-Main-7/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityBadger from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
 [21Apr2025 19:59:18.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> callen a kevinnnnnnnnnnnn
 [21Apr2025 19:59:20.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> xd
+[21Apr2025 19:59:35.488] [Server thread/DEBUG] [mixin/]: Mixing common.entity.BrainUtilMixin from cavesandcliffs.mixins.json into net.minecraft.entity.ai.brain.BrainUtil
+[21Apr2025 19:59:41.234] [Worker-Main-6/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityGoat from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[21Apr2025 20:00:03.953] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col has made the advancement [Stone Age]
+[21Apr2025 20:00:06.061] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityButterfly from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[21Apr2025 20:00:06.061] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityButterfly from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[21Apr2025 20:00:06.209] [Worker-Main-14/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntitySquirrel from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[21Apr2025 20:00:09.784] [Worker-Main-6/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityLammergeier from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[21Apr2025 20:00:40.814] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[21Apr2025 20:00:40.822] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[21Apr2025 20:00:40.893] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> borre 10 por carlos
+[21Apr2025 20:00:49.529] [Worker-Main-7/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntitySongbird from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[21Apr2025 20:01:26.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> xD
+[21Apr2025 20:01:33.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> lo voy a mutear
+[21Apr2025 20:02:52.906] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityLamprey['Lamprey'/2470, l='ServerLevel[world]', x=-169.58, y=60.38, z=481.79]
+[21Apr2025 20:03:21.106] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityLamprey['Lamprey'/2470, l='ServerLevel[world]', x=-169.58, y=60.38, z=481.79]
+[21Apr2025 20:03:22.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> con la r
+[21Apr2025 20:03:27.286] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> es pa la animacion de pelea
+[21Apr2025 20:03:33.890] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> como la que decia jhonatan
+[21Apr2025 20:03:51.959] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityLamprey['Lamprey'/2470, l='ServerLevel[world]', x=-169.58, y=60.38, z=481.79]
+[21Apr2025 20:05:01.863] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col has made the advancement [Getting an Upgrade]
+[21Apr2025 20:05:02.532] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[21Apr2025 20:05:02.532] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:05:03.343] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[21Apr2025 20:05:03.343] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:05:03.646] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[21Apr2025 20:05:03.646] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:05:03.789] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:05:03.987] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:05:04.284] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[21Apr2025 20:05:04.284] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:05:04.582] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[21Apr2025 20:05:04.582] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:05:04.589] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:05:04.639] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:05:04.889] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[21Apr2025 20:05:04.890] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:05:04.890] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:05:04.989] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:05:05.182] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:05:05.182] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:05:05.242] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:05:05.292] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:05:05.494] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:05:05.494] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:05:05.541] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:05:05.644] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:05:05.797] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:05:05.799] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:05:05.888] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:05:06.138] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[21Apr2025 20:05:06.138] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:05:06.139] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:05:06.240] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:05:06.290] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:05:06.435] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:05:06.488] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:05:06.585] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:05:06.739] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:05:06.740] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:05:06.840] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:05:07.038] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:05:07.333] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[21Apr2025 20:05:07.333] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:05:07.700] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[21Apr2025 20:05:07.700] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:05:08.034] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[21Apr2025 20:05:08.034] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:05:08.290] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[21Apr2025 20:05:08.290] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:05:08.745] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[21Apr2025 20:05:08.745] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:05:08.797] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:05:08.988] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:05:09.439] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[21Apr2025 20:05:09.439] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:05:09.695] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[21Apr2025 20:05:09.695] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:05:09.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilo0812A was slain by Zombie
+[21Apr2025 20:05:09.956] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[21Apr2025 20:05:09.956] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:05:14.340] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityLamprey['Lamprey'/2470, l='ServerLevel[world]', x=-169.58, y=60.38, z=481.79]
+[21Apr2025 20:05:15.934] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityLamprey['Lamprey'/2470, l='ServerLevel[world]', x=-169.58, y=60.38, z=481.79]
+[21Apr2025 20:05:17.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> xD
+[21Apr2025 20:05:40.444] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[21Apr2025 20:05:40.453] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[21Apr2025 20:05:42.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE has made the advancement [Acquire Hardware]
+[21Apr2025 20:06:04.564] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE has made the advancement [Isn't It Iron Pick]
+[21Apr2025 20:06:49.535] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[21Apr2025 20:06:49.535] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:06:49.686] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:06:52.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> como?
+[21Apr2025 20:06:59.513] [Worker-Main-7/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityCrab from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[21Apr2025 20:06:59.514] [Worker-Main-7/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityCrab from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[21Apr2025 20:08:08.634] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[21Apr2025 20:08:08.634] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:08:08.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col has made the advancement [Monster Hunter]
+[21Apr2025 20:08:08.790] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:08:08.934] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[21Apr2025 20:08:19.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> perp con espada bot
+[21Apr2025 20:08:19.934] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityLamprey['Lamprey'/2470, l='ServerLevel[world]', x=-169.58, y=60.38, z=481.79]
+[21Apr2025 20:08:31.295] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> con hacha no es lo mismo
+[21Apr2025 20:08:33.762] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntitySaltwaterEel from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[21Apr2025 20:08:33.762] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntitySaltwaterEel from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[21Apr2025 20:08:40.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> puede pero on es lo mismo
+[21Apr2025 20:09:25.586] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityLamprey['Lamprey'/2470, l='ServerLevel[world]', x=-169.58, y=60.38, z=481.79]

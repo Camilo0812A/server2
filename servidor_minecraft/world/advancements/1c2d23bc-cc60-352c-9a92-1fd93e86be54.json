@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-04-21 19:56:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_nether_brick_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
@@ -1055,6 +1061,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-04-21 19:57:06 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/jacaranda_fence": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
@@ -1256,6 +1268,12 @@
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-21 19:57:06 +0000"
     },
     "done": true
   },
@@ -1574,6 +1592,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-21 19:57:06 +0000"
     },
     "done": true
   },
@@ -3464,6 +3488,12 @@
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
+    },
+    "done": true
+  },
+  "silentgear:root": {
+    "criteria": {
+      "get_item": "2025-04-21 19:56:32 +0000"
     },
     "done": true
   },
@@ -6203,6 +6233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-21 19:57:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
@@ -6992,6 +7028,12 @@
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-21 19:57:39 +0000"
     },
     "done": true
   },
@@ -7949,6 +7991,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-21 19:58:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
@@ -8588,7 +8636,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:giant_tree_taiga": "2025-04-21 19:54:47 +0000",
-      "minecraft:taiga_hills": "2025-04-21 19:54:13 +0000"
+      "minecraft:taiga_hills": "2025-04-21 19:54:13 +0000",
+      "minecraft:river": "2025-04-21 19:59:49 +0000",
+      "minecraft:giant_tree_taiga_hills": "2025-04-21 19:58:45 +0000"
     },
     "done": false
   },
@@ -9042,6 +9092,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "sweet_berries": "2025-04-21 20:05:35 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/gray_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
@@ -9288,6 +9344,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-21 19:57:06 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/flanged_mace_diamond": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
@@ -9486,6 +9548,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2025-04-21 19:56:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
@@ -9555,6 +9623,12 @@
   "silentgear:recipes/silentgear/crimson_steel_ingot": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-04-21 19:57:06 +0000"
     },
     "done": true
   },
@@ -9645,6 +9719,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-04-21 19:56:32 +0000"
     },
     "done": true
   },

@@ -7943,6 +7943,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-04-21 20:05:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:51:45 +0000"
@@ -8581,7 +8587,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:taiga_hills": "2025-04-21 19:51:46 +0000"
+      "minecraft:giant_tree_taiga": "2025-04-21 19:56:12 +0000",
+      "minecraft:taiga_hills": "2025-04-21 19:51:46 +0000",
+      "minecraft:river": "2025-04-21 19:56:11 +0000",
+      "minecraft:giant_tree_taiga_hills": "2025-04-21 19:56:23 +0000"
     },
     "done": false
   },
