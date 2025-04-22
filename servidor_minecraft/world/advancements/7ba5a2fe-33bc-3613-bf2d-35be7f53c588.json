@@ -1607,6 +1607,12 @@
     },
     "done": true
   },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "creeper_head": "2025-04-22 19:25:09 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2025-04-22 16:35:18 +0000"
@@ -3083,6 +3089,7 @@
       "minecraft:spider": "2025-04-22 16:50:04 +0000",
       "minecraft:witch": "2025-04-22 18:10:48 +0000",
       "minecraft:husk": "2025-04-22 17:09:05 +0000",
+      "minecraft:cave_spider": "2025-04-22 19:25:08 +0000",
       "minecraft:zombie": "2025-04-22 16:50:02 +0000"
     },
     "done": false
@@ -9546,6 +9553,12 @@
   "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-22 16:35:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-22 19:29:34 +0000"
     },
     "done": true
   },
