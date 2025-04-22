@@ -1150,3 +1150,9 @@ java.lang.NullPointerException: null
 [22Apr2025 19:36:11.805] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> ssy
 [22Apr2025 19:36:32.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> mimesa
 [22Apr2025 19:36:53.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> pq no hablan
+[22Apr2025 19:37:51.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> si
+[22Apr2025 19:38:46.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 was slain by Forgotten
+[22Apr2025 19:39:30.772] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Teleported correcamin0 to kevin99col]
+[22Apr2025 19:43:16.387] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to -728.48, 21.0, -2609.03]
+[22Apr2025 19:43:31.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 was slain by Zombie
+[22Apr2025 19:44:35.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Killed 242 entities]

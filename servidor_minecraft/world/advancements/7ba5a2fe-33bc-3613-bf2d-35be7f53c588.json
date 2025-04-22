@@ -3087,6 +3087,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-04-22 18:08:50 +0000",
       "minecraft:spider": "2025-04-22 16:50:04 +0000",
+      "minecraft:creeper": "2025-04-22 19:37:45 +0000",
+      "minecraft:slime": "2025-04-22 19:40:26 +0000",
       "minecraft:witch": "2025-04-22 18:10:48 +0000",
       "minecraft:husk": "2025-04-22 17:09:05 +0000",
       "minecraft:cave_spider": "2025-04-22 19:25:08 +0000",

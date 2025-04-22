@@ -3105,6 +3105,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-04-22 19:03:11 +0000",
       "minecraft:spider": "2025-04-22 18:57:30 +0000",
+      "minecraft:creeper": "2025-04-22 19:37:33 +0000",
       "minecraft:husk": "2025-04-22 19:24:09 +0000",
       "minecraft:enderman": "2025-04-22 18:48:55 +0000",
       "minecraft:zombie": "2025-04-22 19:02:56 +0000"
@@ -7980,6 +7981,12 @@
   "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:51:46 +0000"
+    },
+    "done": true
+  },
+  "environmental:adventure/obtain_explorer_gear": {
+    "criteria": {
+      "thief_hood": "2025-04-22 19:34:49 +0000"
     },
     "done": true
   },
