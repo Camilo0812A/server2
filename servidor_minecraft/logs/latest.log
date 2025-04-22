@@ -1282,3 +1282,41 @@ java.lang.NullPointerException: null
 [22Apr2025 20:38:34.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> sisi
 [22Apr2025 20:39:41.090] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
 [22Apr2025 20:39:58.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Set own game mode to Spectator Mode]
+[22Apr2025 20:40:04.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Set own game mode to Survival Mode]
+[22Apr2025 20:40:08.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> report jeremy
+[22Apr2025 20:40:14.066] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> ?
+[22Apr2025 20:40:16.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Set own game mode to Spectator Mode]
+[22Apr2025 20:40:20.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Set own game mode to Survival Mode]
+[22Apr2025 20:40:24.997] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> deje de buscar ores
+[22Apr2025 20:40:30.013] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> que?
+[22Apr2025 20:41:24.361] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Set the time to 1000]
+[22Apr2025 20:41:38.711] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Teleported Camilo0812A to DARKFIRE]
+[22Apr2025 20:41:44.262] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to DARKFIRE]
+[22Apr2025 20:43:42.509] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Camilo0812A lost connection: Disconnected
+[22Apr2025 20:43:42.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilo0812A left the game
+[22Apr2025 20:44:05.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> bueno creativo pa sacar staks de diamantes
+[22Apr2025 20:44:32.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[22Apr2025 20:44:34.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> y cual es mi casa?
+[22Apr2025 20:45:35.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Showing new title for 3 players
+[22Apr2025 20:45:43.821] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> xd
+[22Apr2025 20:45:55.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> le hackeo el svr
+[22Apr2025 20:46:07.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> e broma
+[22Apr2025 20:46:08.313] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Showing new title for 3 players
+[22Apr2025 20:46:13.406] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kevin99col> alaaa
+[22Apr2025 20:46:34.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kicked correcamin0: Kicked by an operator
+[22Apr2025 20:46:34.811] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: correcamin0 lost connection: Kicked by an operator
+[22Apr2025 20:46:34.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 left the game
+[22Apr2025 20:46:50.057] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5681c5a2
+[22Apr2025 20:46:50.086] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: correcamin0[/127.95.243.109:46355] logged in with entity id 180219 at (-4186.603642685935, 8.0, 1256.278349255616)
+[22Apr2025 20:46:50.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 joined the game
+[22Apr2025 20:46:54.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Showing new title for 3 players
+[22Apr2025 20:46:59.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> joder
+[22Apr2025 20:48:31.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> que pereza farmear xp
+[22Apr2025 20:48:49.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> alguno tiene toque de seda?
+[22Apr2025 20:49:00.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> vendamelooo
+[22Apr2025 20:49:04.566] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> que si
+[22Apr2025 20:50:15.864] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=345, y=16, z=-3087} but found not block entity block Block{quark:deepslate}[axis=y] at location
+[22Apr2025 20:50:15.865] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:deepslate}[axis=y] but failed at location BlockPos{x=345, y=16, z=-3087}
+[22Apr2025 20:50:15.865] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=344, y=14, z=-3086} but found not block entity block Block{iceandfire:silver_ore} at location
+[22Apr2025 20:50:15.865] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{iceandfire:silver_ore} but failed at location BlockPos{x=344, y=14, z=-3086}
+[22Apr2025 20:50:33.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> carlos
