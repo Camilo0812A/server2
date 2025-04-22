@@ -1320,3 +1320,114 @@ java.lang.NullPointerException: null
 [22Apr2025 20:50:15.865] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=344, y=14, z=-3086} but found not block entity block Block{iceandfire:silver_ore} at location
 [22Apr2025 20:50:15.865] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{iceandfire:silver_ore} but failed at location BlockPos{x=344, y=14, z=-3086}
 [22Apr2025 20:50:33.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> carlos
+[22Apr2025 20:50:38.901] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> le cambio el toque de seda
+[22Apr2025 20:50:51.043] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[22Apr2025 20:50:52.223] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> conductividad pal tridente
+[22Apr2025 20:50:53.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> a
+[22Apr2025 20:51:40.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Set the time to 1000]
+[22Apr2025 20:52:20.769] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col was doomed to fall by Cyclops
+[22Apr2025 20:52:32.978] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Nitwit'/183799, l='ServerLevel[world]', x=700.80, y=70.84, z=-3058.90] died, message: 'Nitwit was slain by Cyclops'
+[22Apr2025 20:52:40.171] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=739, y=21, z=-3217} but found not block entity block Block{minecraft:cave_air} at location
+[22Apr2025 20:52:40.171] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=739, y=21, z=-3217}
+[22Apr2025 20:52:48.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col was doomed to fall by Cyclops
+[22Apr2025 20:53:03.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col was doomed to fall by Cyclops
+[22Apr2025 20:53:11.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> hablalo
+[22Apr2025 20:53:21.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col was slain by Cyclops
+[22Apr2025 20:53:36.004] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col was slain by Cyclops
+[22Apr2025 20:53:48.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col was slain by Cyclops
+[22Apr2025 20:53:52.315] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4086, y=0, z=-2267} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 20:53:52.315] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-4086, y=0, z=-2267}
+[22Apr2025 20:53:52.315] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4094, y=0, z=-2269} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 20:53:52.315] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-4094, y=0, z=-2269}
+[22Apr2025 20:53:52.315] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4085, y=0, z=-2267} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 20:53:52.315] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-4085, y=0, z=-2267}
+[22Apr2025 20:55:21.751] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/189119, l='ServerLevel[world]', x=675.63, y=74.20, z=-3085.87] died, message: 'Villager was slain by Cyclops'
+[22Apr2025 20:58:26.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col has made the advancement [My Name is Nobody]
+[22Apr2025 20:58:43.867] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4152, y=0, z=-2265} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 20:58:43.868] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-4152, y=0, z=-2265}
+[22Apr2025 20:58:46.501] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4164, y=0, z=-2253} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 20:58:46.501] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-4164, y=0, z=-2253}
+[22Apr2025 20:58:46.502] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4168, y=0, z=-2255} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 20:58:46.502] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-4168, y=0, z=-2255}
+[22Apr2025 20:58:46.502] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4173, y=0, z=-2253} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 20:58:46.502] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-4173, y=0, z=-2253}
+[22Apr2025 20:58:46.502] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4175, y=0, z=-2255} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 20:58:46.502] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-4175, y=0, z=-2255}
+[22Apr2025 20:58:56.212] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4180, y=0, z=-2255} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 20:58:56.212] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-4180, y=0, z=-2255}
+[22Apr2025 20:58:56.212] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4186, y=0, z=-2255} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 20:58:56.212] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-4186, y=0, z=-2255}
+[22Apr2025 20:58:56.213] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4189, y=0, z=-2255} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 20:58:56.213] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-4189, y=0, z=-2255}
+[22Apr2025 20:58:56.213] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4190, y=0, z=-2255} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 20:58:56.213] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-4190, y=0, z=-2255}
+[22Apr2025 20:59:00.220] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4197, y=0, z=-2271} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 20:59:00.220] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-4197, y=0, z=-2271}
+[22Apr2025 20:59:00.220] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4197, y=0, z=-2266} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 20:59:00.220] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-4197, y=0, z=-2266}
+[22Apr2025 20:59:00.221] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4193, y=0, z=-2253} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 20:59:00.221] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-4193, y=0, z=-2253}
+[22Apr2025 20:59:47.344] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: kevin99col moved too quickly! 7.745433481432883,1.2046003784434305,-6.548760564177428
+[22Apr2025 20:59:47.353] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2279ms or 45 ticks behind
+[22Apr2025 21:00:26.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> que son chakras?
+[22Apr2025 21:00:42.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> no hay un libro que incrementa los chakras
+[22Apr2025 21:01:12.845] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Set the time to 1000]
+[22Apr2025 21:01:39.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> coño
+[22Apr2025 21:02:06.367] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4707, y=31, z=-2566} but found not block entity block Block{minecraft:stone} at location
+[22Apr2025 21:02:06.367] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-4707, y=31, z=-2566}
+[22Apr2025 21:02:06.367] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4718, y=29, z=-2564} but found not block entity block Block{quark:marble} at location
+[22Apr2025 21:02:06.367] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:marble} but failed at location BlockPos{x=-4718, y=29, z=-2564}
+[22Apr2025 21:02:06.367] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4717, y=28, z=-2562} but found not block entity block Block{quark:marble} at location
+[22Apr2025 21:02:06.367] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:marble} but failed at location BlockPos{x=-4717, y=28, z=-2562}
+[22Apr2025 21:02:36.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 tried to swim in lava
+[22Apr2025 21:02:44.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> hay dio
+[22Apr2025 21:02:53.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 tried to swim in lava
+[22Apr2025 21:03:12.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Set own game mode to Spectator Mode]
+[22Apr2025 21:03:13.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to DARKFIRE]
+[22Apr2025 21:03:35.554] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Set own game mode to Survival Mode]
+[22Apr2025 21:03:38.571] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Set own game mode to Spectator Mode]
+[22Apr2025 21:03:40.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Set own game mode to Survival Mode]
+[22Apr2025 21:03:45.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Set own game mode to Spectator Mode]
+[22Apr2025 21:04:04.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Set own game mode to Survival Mode]
+[22Apr2025 21:04:20.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Set own game mode to Spectator Mode]
+[22Apr2025 21:04:22.088] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Set own game mode to Survival Mode]
+[22Apr2025 21:04:34.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Set own game mode to Spectator Mode]
+[22Apr2025 21:04:39.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Set own game mode to Survival Mode]
+[22Apr2025 21:04:42.563] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Set own game mode to Spectator Mode]
+[22Apr2025 21:04:49.472] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2148ms or 42 ticks behind
+[22Apr2025 21:04:53.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Set own game mode to Survival Mode]
+[22Apr2025 21:04:53.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 tried to swim in lava
+[22Apr2025 21:04:53.913] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to DARKFIRE]
+[22Apr2025 21:05:04.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Set own game mode to Spectator Mode]
+[22Apr2025 21:05:23.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Set own game mode to Survival Mode]
+[22Apr2025 21:05:26.050] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Set own game mode to Spectator Mode]
+[22Apr2025 21:05:29.502] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Set own game mode to Survival Mode]
+[22Apr2025 21:05:32.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Set own game mode to Spectator Mode]
+[22Apr2025 21:05:35.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Set own game mode to Survival Mode]
+[22Apr2025 21:05:38.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Set own game mode to Spectator Mode]
+[22Apr2025 21:05:41.807] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to DARKFIRE]
+[22Apr2025 21:05:41.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Set own game mode to Survival Mode]
+[22Apr2025 21:05:46.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col has made the advancement [No Step on Snake]
+[22Apr2025 21:05:47.250] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 suffocated in a wall
+[22Apr2025 21:05:51.605] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Rattlesnake Rattle'/200566, l='ServerLevel[world]', x=-4827.76, y=63.00, z=-2665.50]
+[22Apr2025 21:05:51.606] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Rattlesnake Rattle'/200566, l='ServerLevel[world]', x=-4827.76, y=63.00, z=-2665.50]
+[22Apr2025 21:06:04.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Set own game mode to Spectator Mode]
+[22Apr2025 21:06:17.006] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Set own game mode to Survival Mode]
+[22Apr2025 21:06:23.265] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4719, y=35, z=-2962} but found not block entity block Block{minecraft:stone} at location
+[22Apr2025 21:06:23.266] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-4719, y=35, z=-2962}
+[22Apr2025 21:06:34.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Set own game mode to Spectator Mode]
+[22Apr2025 21:06:38.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE has made the advancement [Eye of The Storm]
+[22Apr2025 21:06:40.763] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Set own game mode to Survival Mode]
+[22Apr2025 21:07:44.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was slain by Death Worm
+[22Apr2025 21:09:13.520] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4275, y=30, z=-2625} but found not block entity block Block{minecraft:andesite} at location
+[22Apr2025 21:09:13.520] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:andesite} but failed at location BlockPos{x=-4275, y=30, z=-2625}
+[22Apr2025 21:09:13.520] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4286, y=25, z=-2626} but found not block entity block Block{minecraft:andesite} at location
+[22Apr2025 21:09:13.520] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:andesite} but failed at location BlockPos{x=-4286, y=25, z=-2626}
+[22Apr2025 21:09:14.912] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4285, y=25, z=-2623} but found not block entity block Block{minecraft:andesite} at location
+[22Apr2025 21:09:14.912] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:andesite} but failed at location BlockPos{x=-4285, y=25, z=-2623}
+[22Apr2025 21:09:14.912] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4284, y=29, z=-2619} but found not block entity block Block{minecraft:andesite} at location
+[22Apr2025 21:09:14.912] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:andesite} but failed at location BlockPos{x=-4284, y=29, z=-2619}
+[22Apr2025 21:09:24.066] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE has made the advancement [My Name is Nobody]
+[22Apr2025 21:09:51.692] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2268ms or 45 ticks behind
+[22Apr2025 21:10:21.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE has made the advancement [The Desert Swimmers]
+[22Apr2025 21:10:45.979] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of DARKFIRE) moved too quickly! -3.5311092731844838,0.0,-9.51890323495536

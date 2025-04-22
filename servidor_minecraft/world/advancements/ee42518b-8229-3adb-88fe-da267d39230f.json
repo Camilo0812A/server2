@@ -407,6 +407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-22 20:58:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-04-21 21:16:51 +0000"
@@ -857,6 +863,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-22 20:58:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_glazed_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
@@ -1271,6 +1283,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-22 20:58:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
@@ -1280,6 +1298,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/halberd_copper": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-22 20:58:44 +0000"
     },
     "done": true
   },
@@ -1526,6 +1550,12 @@
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed_by": "2025-04-22 21:05:46 +0000"
     },
     "done": true
   },
@@ -2449,9 +2479,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-22 20:58:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-22 20:58:44 +0000"
     },
     "done": true
   },
@@ -3607,6 +3649,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-22 20:58:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
@@ -4108,6 +4156,12 @@
   "biomesoplenty:recipes/misc/pink_dye_from_pink_hibiscus": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-22 20:58:44 +0000"
     },
     "done": true
   },
@@ -4696,6 +4750,12 @@
   "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-22 20:58:44 +0000"
     },
     "done": true
   },
@@ -5380,6 +5440,12 @@
   "silentgear:recipes/silentgear/hammer_blueprint": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-22 20:58:44 +0000"
     },
     "done": true
   },
@@ -6619,6 +6685,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-22 20:58:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
@@ -6790,6 +6862,12 @@
   "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-22 20:58:44 +0000"
     },
     "done": true
   },
@@ -7036,6 +7114,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-22 20:58:44 +0000"
     },
     "done": true
   },
@@ -8443,6 +8527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-22 20:58:44 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/white_sandstone": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
@@ -9729,6 +9819,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-22 20:58:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
@@ -9768,6 +9864,12 @@
   "silentgear:recipes/silentgear/ring_blueprint_alt": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-22 20:58:44 +0000"
     },
     "done": true
   },
