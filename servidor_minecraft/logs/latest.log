@@ -1752,3 +1752,7 @@ java.lang.NullPointerException: null
 [22Apr2025 22:27:08.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE has made the advancement [Voluntary Exile]
 [22Apr2025 22:32:29.289] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DARKFIRE lost connection: Disconnected
 [22Apr2025 22:32:29.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE left the game
+[22Apr2025 22:57:29.240] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@238455ad
+[22Apr2025 22:57:29.271] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: kevin99col[/127.21.209.171:35725] logged in with entity id 259081 at (-4186.841572327944, 8.0, 1255.300000011921)
+[22Apr2025 22:57:29.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col joined the game
+[22Apr2025 23:01:19.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Set the time to 1000]
