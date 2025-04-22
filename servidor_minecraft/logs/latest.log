@@ -572,3 +572,17 @@ java.lang.NullPointerException: null
 [22Apr2025 16:52:53.630] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: kevin99col moved too quickly! 2.5792206065702885,1.252203340253729,9.776072242603277
 [22Apr2025 16:55:34.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Set the weather to clear]
 [22Apr2025 17:00:31.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col was burnt to a crisp whilst fighting Fire Dragon
+[22Apr2025 17:02:08.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Set the time to 1000]
+[22Apr2025 17:02:12.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Set the weather to clear]
+[22Apr2025 17:04:15.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col has made the advancement [Swiper, No Swiping!]
+[22Apr2025 17:05:26.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col was shot by Skeleton
+[22Apr2025 17:07:00.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 was turned to stone by Gorgon
+[22Apr2025 17:08:46.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Teleported correcamin0 to kevin99col]
+[22Apr2025 17:09:00.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col was slain by Husk
+[22Apr2025 17:09:00.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 has made the advancement [Its Like Printing my Own Money!]
+[22Apr2025 17:09:01.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 has made the advancement [The Only Good Bug...]
+[22Apr2025 17:09:51.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col was slain by Myrmex Worker
+[22Apr2025 17:09:56.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 was slain by Myrmex Soldier
+[22Apr2025 17:10:16.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 was slain by Myrmex Soldier
+[22Apr2025 17:10:30.995] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col has made the advancement [The Only Good Bug...]
+[22Apr2025 17:11:13.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 has made the advancement [Suit Up]

@@ -8013,6 +8013,12 @@
     },
     "done": true
   },
+  "environmental:adventure/obtain_explorer_gear": {
+    "criteria": {
+      "thief_hood": "2025-04-22 17:04:15 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_restock_upgrade": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
@@ -8808,6 +8814,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2025-04-21 20:08:55 +0000",
+      "environmental:blossom_highlands": "2025-04-22 17:01:30 +0000",
       "minecraft:forest": "2025-04-22 02:56:47 +0000",
       "minecraft:mountains": "2025-04-22 16:03:15 +0000",
       "minecraft:taiga": "2025-04-21 20:08:20 +0000",
