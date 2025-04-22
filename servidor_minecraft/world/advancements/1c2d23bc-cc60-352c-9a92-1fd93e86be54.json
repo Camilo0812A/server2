@@ -5798,6 +5798,12 @@
     },
     "done": true
   },
+  "spartanweaponry:greatsword": {
+    "criteria": {
+      "has_greatsword": "2025-04-22 18:46:09 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/fluffy_puff_from_fabric": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
@@ -9251,6 +9257,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-21 20:14:23 +0000",
+      "cooked_beef": "2025-04-22 18:49:48 +0000",
       "salmon": "2025-04-21 22:07:14 +0000",
       "cooked_chicken": "2025-04-21 20:12:49 +0000",
       "cooked_mutton": "2025-04-21 21:45:31 +0000",

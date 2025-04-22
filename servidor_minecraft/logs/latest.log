@@ -886,3 +886,95 @@ java.lang.NullPointerException: null
 [22Apr2025 18:45:14.293] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: correcamin0 lost connection: Timed out
 [22Apr2025 18:45:14.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 left the game
 [22Apr2025 18:45:14.341] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[22Apr2025 18:46:09.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE has made the advancement [A Cut Above the Rest]
+[22Apr2025 18:47:52.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to DARKFIRE]
+[22Apr2025 18:48:55.144] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilo0812A has made the advancement [Monster Hunter]
+[22Apr2025 18:49:35.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilo0812A has made the advancement [Battle Towers?]
+[22Apr2025 18:50:00.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col has made the advancement [A Cut Above the Rest]
+[22Apr2025 18:50:04.506] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3d60a08d
+[22Apr2025 18:50:04.534] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: correcamin0[/127.95.243.109:40425] logged in with entity id 87369 at (-2373.730908357733, 81.0, -331.96385794242894)
+[22Apr2025 18:50:04.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 joined the game
+[22Apr2025 18:51:28.852] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to correcamin0]
+[22Apr2025 18:51:41.173] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-64, y=13, z=-2860} but found not block entity block Block{cavesandcliffs:copper_ore} at location
+[22Apr2025 18:51:41.173] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{cavesandcliffs:copper_ore} but failed at location BlockPos{x=-64, y=13, z=-2860}
+[22Apr2025 18:51:41.173] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-59, y=14, z=-2863} but found not block entity block Block{quark:deepslate}[axis=y] at location
+[22Apr2025 18:51:41.173] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:deepslate}[axis=y] but failed at location BlockPos{x=-59, y=14, z=-2863}
+[22Apr2025 18:51:58.014] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-38, y=20, z=-2852} but found not block entity block Block{minecraft:stone} at location
+[22Apr2025 18:51:58.014] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-38, y=20, z=-2852}
+[22Apr2025 18:51:58.014] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-39, y=19, z=-2851} but found not block entity block Block{minecraft:stone} at location
+[22Apr2025 18:51:58.014] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-39, y=19, z=-2851}
+[22Apr2025 18:52:23.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 has made the advancement [Unpleasant Sucking]
+[22Apr2025 18:52:27.817] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-10, y=14, z=-2461} but found not block entity block Block{cavesandcliffs:smooth_basalt} at location
+[22Apr2025 18:52:27.817] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{cavesandcliffs:smooth_basalt} but failed at location BlockPos{x=-10, y=14, z=-2461}
+[22Apr2025 18:52:27.817] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2, y=18, z=-2460} but found not block entity block Block{minecraft:stone} at location
+[22Apr2025 18:52:27.818] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-2, y=18, z=-2460}
+[22Apr2025 18:52:36.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to 148.76, 69.5, -206.85]
+[22Apr2025 18:52:40.949] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: correcamin0 moved too quickly! -7.7007194718135,10.378617703151939,-0.4532966538552614
+[22Apr2025 18:52:44.595] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[22Apr2025 18:53:05.917] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to kevin99col]
+[22Apr2025 18:53:05.962] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6388ms or 127 ticks behind
+[22Apr2025 18:53:23.206] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2282ms or 45 ticks behind
+[22Apr2025 18:54:08.765] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityHorseshoeCrab from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[22Apr2025 18:54:08.765] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityHorseshoeCrab from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[22Apr2025 18:54:22.093] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was slain by Fire Dragon
+[22Apr2025 18:54:23.143] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.world.server.TicketManager.func_219367_b(TicketManager.java:227) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219183_a(ChunkManager.java:884) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217221_a(ServerChunkProvider.java:450) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147347_a(ServerPlayNetHandler.java:845) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket.func_148833_a(SourceFile:122) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket$PositionPacket.func_148833_a(SourceFile:56) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213160_bf(SourceFile:103) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:696) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[22Apr2025 18:54:33.748] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: correcamin0 moved too quickly! 0.7119768822767583,16.562466575009637,1.0015179594175265
+[22Apr2025 18:54:53.966] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to DARKFIRE]
+[22Apr2025 18:54:57.271] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Teleported correcamin0 to DARKFIRE]
+[22Apr2025 18:54:58.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was slain by Fire Dragon
+[22Apr2025 18:55:01.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 walked into fire whilst fighting Fire Dragon
+[22Apr2025 18:55:04.288] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.world.server.TicketManager.func_219367_b(TicketManager.java:227) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219183_a(ChunkManager.java:884) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217221_a(ServerChunkProvider.java:450) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147347_a(ServerPlayNetHandler.java:845) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket.func_148833_a(SourceFile:122) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket$PositionRotationPacket.func_148833_a(SourceFile:18) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213160_bf(SourceFile:103) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:696) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[22Apr2025 18:55:36.016] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-297, y=15, z=-3108} but found not block entity block Block{minecraft:stone} at location
+[22Apr2025 18:55:36.016] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-297, y=15, z=-3108}
+[22Apr2025 18:55:36.016] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-289, y=19, z=-3092} but found not block entity block Block{minecraft:stone} at location
+[22Apr2025 18:55:36.017] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-289, y=19, z=-3092}
+[22Apr2025 18:55:36.017] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-296, y=14, z=-3102} but found not block entity block Block{cavesandcliffs:deepslate}[axis=y] at location
+[22Apr2025 18:55:36.017] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{cavesandcliffs:deepslate}[axis=y] but failed at location BlockPos{x=-296, y=14, z=-3102}
+[22Apr2025 18:55:36.017] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-292, y=16, z=-3104} but found not block entity block Block{minecraft:stone} at location
+[22Apr2025 18:55:36.017] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-292, y=16, z=-3104}
+[22Apr2025 18:55:36.017] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-297, y=21, z=-3081} but found not block entity block Block{minecraft:stone} at location
+[22Apr2025 18:55:36.017] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-297, y=21, z=-3081}
+[22Apr2025 18:55:49.721] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: correcamin0 moved too quickly! -0.8633001591121001,13.595949388502731,0.767582148548172
+[22Apr2025 18:55:50.218] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 has made the advancement [Unfriendly Cube]

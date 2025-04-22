@@ -5835,6 +5835,12 @@
     },
     "done": true
   },
+  "spartanweaponry:greatsword": {
+    "criteria": {
+      "has_greatsword": "2025-04-22 18:50:00 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/fluffy_puff_from_fabric": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"

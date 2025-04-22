@@ -7083,6 +7083,12 @@
     },
     "done": true
   },
+  "betteranimalsplus:lamprey_succ": {
+    "criteria": {
+      "lamprey_succ": "2025-04-22 18:52:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_red_sandstone_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-22 16:35:17 +0000"
