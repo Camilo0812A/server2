@@ -8943,6 +8943,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-22 20:28:28 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/palm_trapdoor": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"

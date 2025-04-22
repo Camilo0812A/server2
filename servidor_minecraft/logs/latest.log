@@ -1193,3 +1193,46 @@ java.lang.NullPointerException: null
 [22Apr2025 20:18:43.923] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7d826b7f
 [22Apr2025 20:18:43.943] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DARKFIRE[/127.9.21.201:56749] logged in with entity id 157669 at (-2323.5131455055257, 77.0, -3512.9800136341746)
 [22Apr2025 20:18:43.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE joined the game
+[22Apr2025 20:19:00.749] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[22Apr2025 20:19:07.424] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: kevin99col moved too quickly! -10.108255415568692,-1.495200877005928,-0.2643472117387091
+[22Apr2025 20:19:09.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> lag
+[22Apr2025 20:19:18.626] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Killed 264 entities]
+[22Apr2025 20:19:22.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6689ms or 133 ticks behind
+[22Apr2025 20:21:06.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilo0812A hit the ground too hard
+[22Apr2025 20:21:08.717] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[22Apr2025 20:21:13.106] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/159712, l='ServerLevel[world]', x=-738.57, y=22.10, z=-2616.01]
+[22Apr2025 20:21:15.082] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: DARKFIRE moved wrongly!
+[22Apr2025 20:22:04.075] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[22Apr2025 20:22:07.093] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was slain by Ghost
+[22Apr2025 20:22:31.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was slain by Ghost
+[22Apr2025 20:22:44.361] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/161047, l='ServerLevel[world]', x=-2284.94, y=76.25, z=-3496.28]
+[22Apr2025 20:23:16.700] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/161524, l='ServerLevel[world]', x=-4249.51, y=74.63, z=1338.59]
+[22Apr2025 20:24:18.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[22Apr2025 20:24:18.890] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DARKFIRE lost connection: Disconnected
+[22Apr2025 20:24:18.890] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE left the game
+[22Apr2025 20:24:56.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> mamilo elimine las cosas
+[22Apr2025 20:25:14.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> pls
+[22Apr2025 20:25:23.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Killed 165 entities]
+[22Apr2025 20:26:05.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Teleported Camilo0812A to kevin99col]
+[22Apr2025 20:26:21.611] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@62a210fc
+[22Apr2025 20:26:21.634] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DARKFIRE[/127.9.21.201:53945] logged in with entity id 162823 at (148.30000001192093, 70.0, -209.15795490421365)
+[22Apr2025 20:26:21.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE joined the game
+[22Apr2025 20:26:49.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 tried to swim in lava
+[22Apr2025 20:26:55.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> joder
+[22Apr2025 20:27:17.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 tried to swim in lava
+[22Apr2025 20:27:23.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> peeero
+[22Apr2025 20:27:37.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> quedo la tumba debajo de la lava
+[22Apr2025 20:27:38.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> xd
+[22Apr2025 20:27:53.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Set own game mode to Spectator Mode]
+[22Apr2025 20:28:18.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Set own game mode to Survival Mode]
+[22Apr2025 20:28:28.660] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE has made the advancement [Who You Gonna Call?]
+[22Apr2025 20:28:42.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> xd
+[22Apr2025 20:28:52.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Set own game mode to Spectator Mode]
+[22Apr2025 20:28:59.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Set own game mode to Survival Mode]
+[22Apr2025 20:29:02.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Set own game mode to Spectator Mode]
+[22Apr2025 20:29:05.051] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilo0812A was shot by Skeleton
+[22Apr2025 20:29:05.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> ishhhhh
+[22Apr2025 20:29:18.718] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: correcamin0 moved too quickly! -5.852819420889318,-7.866286752056347,3.633798993773098
+[22Apr2025 20:29:18.734] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: kevin99col moved too quickly! -4.642634341684243,0.41999998688697815,-9.282529741302369
+[22Apr2025 20:29:18.736] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: DARKFIRE moved too quickly! -6.1710863975176835,0.2522033402537289,7.9489237858092565
+[22Apr2025 20:29:18.752] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3228ms or 64 ticks behind
