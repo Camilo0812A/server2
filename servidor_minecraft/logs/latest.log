@@ -811,3 +811,57 @@ java.lang.NullPointerException: null
 [22Apr2025 18:24:33.915] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityLamprey['Lamprey'/71192, l='ServerLevel[world]', x=-2282.52, y=62.35, z=-204.12]
 [22Apr2025 18:24:33.916] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityLamprey['Lamprey'/71326, l='ServerLevel[world]', x=-2259.04, y=61.60, z=-232.85]
 [22Apr2025 18:24:33.928] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityLamprey['Lamprey'/72047, l='ServerLevel[world]', x=-2173.94, y=62.24, z=-226.01]
+[22Apr2025 18:25:03.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilo0812A has made the advancement [Getting an Upgrade]
+[22Apr2025 18:26:02.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> kevin tiene piedra?
+[22Apr2025 18:26:07.660] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2180, y=0, z=-436} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 18:26:07.661] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-2180, y=0, z=-436}
+[22Apr2025 18:26:07.661] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2182, y=0, z=-446} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 18:26:07.663] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-2182, y=0, z=-446}
+[22Apr2025 18:26:07.663] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2180, y=0, z=-443} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 18:26:07.663] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-2180, y=0, z=-443}
+[22Apr2025 18:26:07.663] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2180, y=0, z=-444} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 18:26:07.663] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-2180, y=0, z=-444}
+[22Apr2025 18:26:07.663] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2182, y=0, z=-439} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 18:26:07.664] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-2182, y=0, z=-439}
+[22Apr2025 18:26:07.664] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2180, y=0, z=-441} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 18:26:07.664] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-2180, y=0, z=-441}
+[22Apr2025 18:26:07.664] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2180, y=0, z=-438} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 18:26:07.665] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-2180, y=0, z=-438}
+[22Apr2025 18:26:17.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> entre a dc manco
+[22Apr2025 18:26:47.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> no puedo
+[22Apr2025 18:26:53.266] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2182, y=0, z=-450} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 18:26:53.267] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-2182, y=0, z=-450}
+[22Apr2025 18:26:53.267] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2180, y=0, z=-458} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 18:26:53.267] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-2180, y=0, z=-458}
+[22Apr2025 18:26:53.267] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2182, y=0, z=-454} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 18:26:53.267] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-2182, y=0, z=-454}
+[22Apr2025 18:26:53.267] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2182, y=0, z=-452} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 18:26:53.268] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-2182, y=0, z=-452}
+[22Apr2025 18:27:15.072] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2180, y=0, z=-467} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 18:27:15.073] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-2180, y=0, z=-467}
+[22Apr2025 18:28:05.429] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Camilo0812A lost connection: Disconnected
+[22Apr2025 18:28:05.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilo0812A left the game
+[22Apr2025 18:28:11.483] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4cceb0fa
+[22Apr2025 18:28:11.508] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Camilo0812A[/127.127.19.167:52947] logged in with entity id 79368 at (-361.69999998807907, 56.05489334703208, -2754.300000011921)
+[22Apr2025 18:28:11.514] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilo0812A joined the game
+[22Apr2025 18:28:29.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> piedra
+[22Apr2025 18:29:06.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kevin99col> tira pa aca
+[22Apr2025 18:29:11.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> k
+[22Apr2025 18:29:26.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> ya tiene la espada
+[22Apr2025 18:29:43.013] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kevin99col> pegame uno
+[22Apr2025 18:29:45.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> se la regalo
+[22Apr2025 18:29:55.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kevin99col> mia
+[22Apr2025 18:30:17.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to DARKFIRE]
+[22Apr2025 18:30:52.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to Camilo0812A]
+[22Apr2025 18:31:55.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilo0812A has made the advancement [Acquire Hardware]
+[22Apr2025 18:32:43.552] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityLamprey['Lamprey'/71192, l='ServerLevel[world]', x=-2282.52, y=62.35, z=-204.12]
+[22Apr2025 18:32:56.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 was killed by Witch using magic
+[22Apr2025 18:32:58.822] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityLamprey['Lamprey'/71192, l='ServerLevel[world]', x=-2282.52, y=62.35, z=-204.12]
+[22Apr2025 18:32:58.824] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityLamprey['Lamprey'/71326, l='ServerLevel[world]', x=-2259.04, y=61.60, z=-232.85]
+[22Apr2025 18:32:58.843] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityLamprey['Lamprey'/72047, l='ServerLevel[world]', x=-2173.94, y=62.24, z=-226.01]
+[22Apr2025 18:33:09.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> joder esa bruja tiro la posion con rabia
+[22Apr2025 18:33:21.855] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityLamprey['Lamprey'/71192, l='ServerLevel[world]', x=-2282.52, y=62.35, z=-204.12]
+[22Apr2025 18:33:50.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kevin99col> jere dc
+[22Apr2025 18:33:56.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> no puedo
+[22Apr2025 18:34:02.862] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kevin99col> por que no peude bro
+[22Apr2025 18:34:11.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> haga video llamada
