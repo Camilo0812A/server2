@@ -525,3 +525,4 @@ java.lang.NullPointerException: null
 [22Apr2025 16:09:51.694] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3570ms or 71 ticks behind
 [22Apr2025 16:09:52.720] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1035, y=25, z=-1617} but found not block entity block Block{minecraft:cave_air} at location
 [22Apr2025 16:09:52.721] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=-1035, y=25, z=-1617}
+[22Apr2025 16:14:22.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col has made the advancement [Sweet Dreams]

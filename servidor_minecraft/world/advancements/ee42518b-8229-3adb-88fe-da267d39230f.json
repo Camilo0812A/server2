@@ -2983,6 +2983,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-22 16:14:22 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/glaive_stone": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
@@ -8785,13 +8791,17 @@
       "minecraft:giant_tree_taiga": "2025-04-21 19:56:55 +0000",
       "minecraft:taiga_hills": "2025-04-21 19:53:23 +0000",
       "minecraft:deep_frozen_ocean": "2025-04-21 21:57:41 +0000",
+      "minecraft:savanna_plateau": "2025-04-22 16:07:53 +0000",
       "minecraft:beach": "2025-04-21 20:08:48 +0000",
+      "environmental:blossom_hills": "2025-04-22 16:07:38 +0000",
       "minecraft:dark_forest": "2025-04-21 20:10:37 +0000",
       "minecraft:river": "2025-04-21 20:08:52 +0000",
       "minecraft:wooded_hills": "2025-04-22 02:57:00 +0000",
       "minecraft:giant_tree_taiga_hills": "2025-04-21 19:59:19 +0000",
+      "minecraft:swamp": "2025-04-22 16:15:53 +0000",
       "environmental:blossom_woods": "2025-04-22 16:04:23 +0000",
       "environmental:mushroom_marsh": "2025-04-21 20:13:47 +0000",
+      "minecraft:savanna": "2025-04-22 16:07:46 +0000",
       "minecraft:plains": "2025-04-21 20:10:56 +0000"
     },
     "done": false
