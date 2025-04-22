@@ -3239,6 +3239,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-22 22:27:08 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/jacaranda_planks": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
@@ -5243,6 +5249,12 @@
     },
     "done": true
   },
+  "aquamirae:recipes/esca": {
+    "criteria": {
+      "has_item": "2025-04-22 22:26:41 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/heavy_crossbow_diamond": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
@@ -6224,6 +6236,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stack_upgrade_tier_1": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_esca": {
+    "criteria": {
+      "esca": "2025-04-22 22:26:41 +0000"
     },
     "done": true
   },
@@ -8534,6 +8552,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_shell_horn": {
+    "criteria": {
+      "shell_horn": "2025-04-22 22:26:04 +0000"
     },
     "done": true
   },

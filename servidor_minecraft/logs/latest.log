@@ -1747,3 +1747,8 @@ java.lang.NullPointerException: null
 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
 	at java.lang.Thread.run(Thread.java:829) [?:?]
 [22Apr2025 22:23:13.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was slain by Vindicator
+[22Apr2025 22:26:04.737] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE has made the advancement [Exploration]
+[22Apr2025 22:26:41.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE has made the advancement [The Light In The Darkness]
+[22Apr2025 22:27:08.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE has made the advancement [Voluntary Exile]
+[22Apr2025 22:32:29.289] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DARKFIRE lost connection: Disconnected
+[22Apr2025 22:32:29.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE left the game
