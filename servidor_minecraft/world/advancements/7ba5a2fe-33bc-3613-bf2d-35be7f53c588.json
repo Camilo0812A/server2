@@ -407,6 +407,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-04-22 17:11:13 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/chiseled_white_sandstone": {
     "criteria": {
       "has_the_recipe": "2025-04-22 16:35:17 +0000"
@@ -614,6 +620,12 @@
   "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-22 16:35:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_myrmex": {
+    "criteria": {
+      "desert": "2025-04-22 17:09:01 +0000"
     },
     "done": true
   },
@@ -3044,6 +3056,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2025-04-22 16:50:04 +0000",
+      "minecraft:husk": "2025-04-22 17:09:05 +0000",
       "minecraft:zombie": "2025-04-22 16:50:02 +0000"
     },
     "done": false
@@ -4179,6 +4192,12 @@
   "silentgear:recipes/silentgear/leggings_template": {
     "criteria": {
       "has_the_recipe": "2025-04-22 16:35:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/myrmex_resin": {
+    "criteria": {
+      "desert": "2025-04-22 17:09:00 +0000"
     },
     "done": true
   },
@@ -8670,10 +8689,13 @@
       "minecraft:mountains": "2025-04-22 16:36:58 +0000",
       "minecraft:giant_tree_taiga": "2025-04-22 16:35:18 +0000",
       "minecraft:taiga_hills": "2025-04-22 16:36:27 +0000",
+      "minecraft:desert": "2025-04-22 17:08:47 +0000",
       "minecraft:beach": "2025-04-22 16:48:06 +0000",
       "minecraft:river": "2025-04-22 16:48:12 +0000",
       "minecraft:wooded_hills": "2025-04-22 16:38:49 +0000",
-      "minecraft:stone_shore": "2025-04-22 17:04:31 +0000"
+      "minecraft:stone_shore": "2025-04-22 17:04:31 +0000",
+      "minecraft:savanna": "2025-04-22 17:16:17 +0000",
+      "minecraft:plains": "2025-04-22 17:16:23 +0000"
     },
     "done": false
   },

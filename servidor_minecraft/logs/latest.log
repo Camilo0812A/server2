@@ -586,3 +586,28 @@ java.lang.NullPointerException: null
 [22Apr2025 17:10:16.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 was slain by Myrmex Soldier
 [22Apr2025 17:10:30.995] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col has made the advancement [The Only Good Bug...]
 [22Apr2025 17:11:13.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 has made the advancement [Suit Up]
+[22Apr2025 17:12:14.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 was slain by Myrmex Queen
+[22Apr2025 17:13:39.678] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 was slain by Myrmex Queen
+[22Apr2025 17:14:28.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col was slain by Myrmex Queen
+[22Apr2025 17:14:36.778] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col was slain by Myrmex Queen
+[22Apr2025 17:14:46.877] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Desert Myrmex Resin'/31139, l='ServerLevel[world]', x=-1876.17, y=58.26, z=-983.13]
+[22Apr2025 17:14:50.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col was doomed to fall
+[22Apr2025 17:15:24.015] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to correcamin0]
+[22Apr2025 17:16:14.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Set the weather to clear]
+[22Apr2025 17:16:17.112] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Teleported correcamin0 to kevin99col]
+[22Apr2025 17:16:17.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Set the time to 1000]
+[22Apr2025 17:18:48.294] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2149, y=17, z=-760} but found not block entity block Block{minecraft:stone} at location
+[22Apr2025 17:18:48.294] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-2149, y=17, z=-760}
+[22Apr2025 17:19:23.687] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2141, y=0, z=-1211} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 17:19:23.687] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-2141, y=0, z=-1211}
+[22Apr2025 17:19:23.687] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2142, y=0, z=-1209} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 17:19:23.687] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-2142, y=0, z=-1209}
+[22Apr2025 17:19:23.688] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2129, y=0, z=-1215} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 17:19:23.688] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-2129, y=0, z=-1215}
+[22Apr2025 17:19:33.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col has made the advancement [The Desert Swimmers]
+[22Apr2025 17:20:59.577] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@20be712f
+[22Apr2025 17:20:59.617] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DARKFIRE[/127.9.21.201:33155] logged in with entity id 34620 at (272.7418941587383, 72.41999998688698, -1417.4349553292986)
+[22Apr2025 17:20:59.625] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE joined the game
+[22Apr2025 17:21:45.935] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: DARKFIRE moved too quickly! -2.221442112351781,1.0,-9.779355101707324
+[22Apr2025 17:21:49.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col has made the advancement [Eye of The Storm]
+[22Apr2025 17:22:07.570] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/32945, l='ServerLevel[world]', x=-2217.54, y=70.25, z=-957.26] died, message: 'Farmer was slain by Guster'
