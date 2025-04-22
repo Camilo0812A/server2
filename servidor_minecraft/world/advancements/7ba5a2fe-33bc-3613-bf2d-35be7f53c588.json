@@ -5109,6 +5109,12 @@
     },
     "done": true
   },
+  "betteranimalsplus:jellyfish_sting": {
+    "criteria": {
+      "jellyfish_sting": "2025-04-22 18:55:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_the_recipe": "2025-04-22 16:35:17 +0000"
@@ -8731,6 +8737,7 @@
     "criteria": {
       "minecraft:forest": "2025-04-22 16:37:40 +0000",
       "minecraft:mountains": "2025-04-22 16:36:58 +0000",
+      "minecraft:taiga": "2025-04-22 18:53:15 +0000",
       "environmental:marsh": "2025-04-22 17:21:11 +0000",
       "minecraft:giant_tree_taiga": "2025-04-22 16:35:18 +0000",
       "minecraft:taiga_hills": "2025-04-22 16:36:27 +0000",

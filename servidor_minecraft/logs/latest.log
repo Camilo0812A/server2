@@ -978,3 +978,40 @@ java.lang.NullPointerException: null
 [22Apr2025 18:55:36.017] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-297, y=21, z=-3081}
 [22Apr2025 18:55:49.721] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: correcamin0 moved too quickly! -0.8633001591121001,13.595949388502731,0.767582148548172
 [22Apr2025 18:55:50.218] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 has made the advancement [Unfriendly Cube]
+[22Apr2025 18:56:13.736] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 was incinerated by Fire Dragon
+[22Apr2025 18:56:40.312] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: correcamin0 moved too quickly! -15.663078243305108,0.0,-0.8546606042509666
+[22Apr2025 18:56:41.877] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: correcamin0 moved too quickly! -17.129581718730833,-0.12669627156478214,1.0698518517351658
+[22Apr2025 18:56:43.253] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 was burnt to a crisp whilst fighting Fire Dragon
+[22Apr2025 18:57:04.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was burnt to a crisp whilst fighting Fire Dragon
+[22Apr2025 18:57:57.216] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: correcamin0 moved too quickly! -9.709961789002705,7.433338664683774,-8.787707850644438
+[22Apr2025 18:58:04.269] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: correcamin0 moved wrongly!
+[22Apr2025 18:58:04.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 was doomed to fall
+[22Apr2025 18:58:08.552] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=16, y=13, z=-2484} but found not block entity block Block{minecraft:gravel} at location
+[22Apr2025 18:58:08.552] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:gravel} but failed at location BlockPos{x=16, y=13, z=-2484}
+[22Apr2025 18:58:08.552] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=18, y=13, z=-2485} but found not block entity block Block{minecraft:gravel} at location
+[22Apr2025 18:58:08.552] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:gravel} but failed at location BlockPos{x=18, y=13, z=-2485}
+[22Apr2025 18:58:08.552] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=21, y=18, z=-2495} but found not block entity block Block{quark:smooth_basalt} at location
+[22Apr2025 18:58:08.552] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:smooth_basalt} but failed at location BlockPos{x=21, y=18, z=-2495}
+[22Apr2025 18:58:08.554] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=18, y=16, z=-2480} but found not block entity block Block{quark:deepslate}[axis=y] at location
+[22Apr2025 18:58:08.554] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:deepslate}[axis=y] but failed at location BlockPos{x=18, y=16, z=-2480}
+[22Apr2025 18:58:23.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Set own game mode to Spectator Mode]
+[22Apr2025 18:58:57.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 was turned into KFC by Fire Dragon
+[22Apr2025 18:59:22.090] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col was turned to ice by Ice Dragon
+[22Apr2025 18:59:27.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 was slain by Fire Dragon
+[22Apr2025 18:59:38.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to Camilo0812A]
+[22Apr2025 18:59:46.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 suffocated in a wall
+[22Apr2025 18:59:50.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Set own game mode to Survival Mode]
+[22Apr2025 18:59:57.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Teleported correcamin0 to DARKFIRE]
+[22Apr2025 19:00:17.762] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Set own game mode to Creative Mode]
+[22Apr2025 19:00:47.763] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Set own game mode to Spectator Mode]
+[22Apr2025 19:00:51.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Teleported correcamin0 to DARKFIRE]
+[22Apr2025 19:00:57.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Set own game mode to Spectator Mode]
+[22Apr2025 19:01:00.394] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to DARKFIRE]
+[22Apr2025 19:01:16.451] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Set own game mode to Survival Mode]
+[22Apr2025 19:01:29.744] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was slain by Spider
+[22Apr2025 19:02:04.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Set own game mode to Survival Mode]
+[22Apr2025 19:02:13.920] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Set own game mode to Survival Mode]
+[22Apr2025 19:03:09.904] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2080ms or 41 ticks behind
+[22Apr2025 19:03:37.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Set own game mode to Spectator Mode]
+[22Apr2025 19:04:43.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 was shot by Skeleton
+[22Apr2025 19:05:40.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Set own game mode to Survival Mode]

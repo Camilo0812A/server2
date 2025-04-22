@@ -6848,6 +6848,12 @@
     },
     "done": true
   },
+  "silentgear:material_grader": {
+    "criteria": {
+      "get_catalyst": "2025-04-22 18:55:18 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
