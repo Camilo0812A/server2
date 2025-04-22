@@ -1236,3 +1236,49 @@ java.lang.NullPointerException: null
 [22Apr2025 20:29:18.734] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: kevin99col moved too quickly! -4.642634341684243,0.41999998688697815,-9.282529741302369
 [22Apr2025 20:29:18.736] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: DARKFIRE moved too quickly! -6.1710863975176835,0.2522033402537289,7.9489237858092565
 [22Apr2025 20:29:18.752] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3228ms or 64 ticks behind
+[22Apr2025 20:29:31.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Set the time to 1000]
+[22Apr2025 20:29:31.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Set own game mode to Survival Mode]
+[22Apr2025 20:29:42.087] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
+[22Apr2025 20:30:32.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE has made the advancement [Strange Flora]
+[22Apr2025 20:31:20.738] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Camilo0812A lost connection: Disconnected
+[22Apr2025 20:31:20.738] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilo0812A left the game
+[22Apr2025 20:31:56.006] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 tried to swim in lava
+[22Apr2025 20:32:01.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> DIOS
+[22Apr2025 20:32:22.118] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> jajajaja
+[22Apr2025 20:32:32.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> no
+[22Apr2025 20:32:46.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 tried to swim in lava
+[22Apr2025 20:32:51.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> xd
+[22Apr2025 20:32:59.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Set own game mode to Spectator Mode]
+[22Apr2025 20:33:36.920] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Set own game mode to Survival Mode]
+[22Apr2025 20:33:54.155] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@66bf8337
+[22Apr2025 20:33:54.208] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Camilo0812A[/127.127.19.167:53285] logged in with entity id 170803 at (-3035.512499988079, 72.0, -1241.2744150994579)
+[22Apr2025 20:33:54.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilo0812A joined the game
+[22Apr2025 20:33:54.235] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3311, y=32, z=-3326} but found not block entity block Block{minecraft:cave_air} at location
+[22Apr2025 20:33:54.236] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=-3311, y=32, z=-3326}
+[22Apr2025 20:33:54.238] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3329, y=30, z=-3324} but found not block entity block Block{minecraft:stone} at location
+[22Apr2025 20:33:54.238] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-3329, y=30, z=-3324}
+[22Apr2025 20:34:15.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Teleported Camilo0812A to kevin99col]
+[22Apr2025 20:34:23.642] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2868ms or 57 ticks behind
+[22Apr2025 20:34:33.966] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3213, y=23, z=-3260} but found not block entity block Block{minecraft:stone} at location
+[22Apr2025 20:34:33.967] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-3213, y=23, z=-3260}
+[22Apr2025 20:35:36.479] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[22Apr2025 20:35:42.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> q?
+[22Apr2025 20:36:06.477] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[22Apr2025 20:36:23.744] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2270ms or 45 ticks behind
+[22Apr2025 20:36:41.094] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2370ms or 47 ticks behind
+[22Apr2025 20:36:58.177] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2103ms or 42 ticks behind
+[22Apr2025 20:37:15.790] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2616ms or 52 ticks behind
+[22Apr2025 20:37:22.139] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3673, y=28, z=-3102} but found not block entity block Block{minecraft:stone} at location
+[22Apr2025 20:37:22.140] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-3673, y=28, z=-3102}
+[22Apr2025 20:37:23.104] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3698, y=28, z=-3098} but found not block entity block Block{minecraft:stone} at location
+[22Apr2025 20:37:23.104] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-3698, y=28, z=-3098}
+[22Apr2025 20:37:23.104] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3689, y=28, z=-3096} but found not block entity block Block{minecraft:stone} at location
+[22Apr2025 20:37:23.104] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-3689, y=28, z=-3096}
+[22Apr2025 20:37:23.104] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3690, y=28, z=-3103} but found not block entity block Block{minecraft:stone} at location
+[22Apr2025 20:37:23.104] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-3690, y=28, z=-3103}
+[22Apr2025 20:37:27.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to Camilo0812A]
+[22Apr2025 20:37:32.907] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2133ms or 42 ticks behind
+[22Apr2025 20:38:15.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> si
+[22Apr2025 20:38:34.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> sisi
+[22Apr2025 20:39:41.090] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
+[22Apr2025 20:39:58.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Set own game mode to Spectator Mode]
