@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-04-22 16:41:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_nether_brick_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-22 16:35:18 +0000"
@@ -1055,6 +1061,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-04-22 16:41:53 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/jacaranda_fence": {
     "criteria": {
       "has_the_recipe": "2025-04-22 16:35:18 +0000"
@@ -1256,6 +1268,12 @@
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_the_recipe": "2025-04-22 16:35:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-22 16:41:53 +0000"
     },
     "done": true
   },
@@ -1574,6 +1592,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_the_recipe": "2025-04-22 16:35:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-22 16:41:53 +0000"
     },
     "done": true
   },
@@ -2453,6 +2477,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-22 16:40:58 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/sturdy_repair_kit": {
     "criteria": {
       "has_the_recipe": "2025-04-22 16:35:18 +0000"
@@ -2636,6 +2666,12 @@
   "cavesandcliffs:recipes/search/waxed_exposed_cut_copper_vertical_slab_from_honeycomb": {
     "criteria": {
       "has_the_recipe": "2025-04-22 16:35:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-22 16:39:42 +0000"
     },
     "done": true
   },
@@ -3452,6 +3488,12 @@
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_the_recipe": "2025-04-22 16:35:18 +0000"
+    },
+    "done": true
+  },
+  "silentgear:root": {
+    "criteria": {
+      "get_item": "2025-04-22 16:38:14 +0000"
     },
     "done": true
   },
@@ -6185,6 +6227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-22 16:41:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_the_recipe": "2025-04-22 16:35:18 +0000"
@@ -6977,6 +7025,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-22 16:44:54 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/mahogany_button": {
     "criteria": {
       "has_the_recipe": "2025-04-22 16:35:17 +0000"
@@ -7328,6 +7382,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/quiver_bolt_large_smithing": {
     "criteria": {
       "has_the_recipe": "2025-04-22 16:35:18 +0000"
+    },
+    "done": true
+  },
+  "dungeons_plus:adventure/find_tower": {
+    "criteria": {
+      "structure": "2025-04-22 16:39:00 +0000"
     },
     "done": true
   },
@@ -7928,6 +7988,12 @@
   "biomesoplenty:recipes/redstone/fir_trapdoor": {
     "criteria": {
       "has_the_recipe": "2025-04-22 16:35:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-04-22 16:39:50 +0000"
     },
     "done": true
   },
@@ -8569,9 +8635,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:forest": "2025-04-22 16:37:40 +0000",
       "minecraft:mountains": "2025-04-22 16:36:58 +0000",
       "minecraft:giant_tree_taiga": "2025-04-22 16:35:18 +0000",
-      "minecraft:taiga_hills": "2025-04-22 16:36:27 +0000"
+      "minecraft:taiga_hills": "2025-04-22 16:36:27 +0000",
+      "minecraft:wooded_hills": "2025-04-22 16:38:49 +0000"
     },
     "done": false
   },
@@ -9271,6 +9339,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-22 16:41:53 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/flanged_mace_diamond": {
     "criteria": {
       "has_the_recipe": "2025-04-22 16:35:17 +0000"
@@ -9469,6 +9543,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2025-04-22 16:38:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
     "criteria": {
       "has_the_recipe": "2025-04-22 16:35:18 +0000"
@@ -9538,6 +9618,12 @@
   "silentgear:recipes/silentgear/crimson_steel_ingot": {
     "criteria": {
       "has_the_recipe": "2025-04-22 16:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-04-22 16:41:53 +0000"
     },
     "done": true
   },
@@ -9628,6 +9714,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_the_recipe": "2025-04-22 16:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-04-22 16:38:14 +0000"
     },
     "done": true
   },
