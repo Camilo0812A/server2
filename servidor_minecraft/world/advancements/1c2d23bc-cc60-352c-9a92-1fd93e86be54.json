@@ -3108,6 +3108,7 @@
       "minecraft:vindicator": "2025-04-22 02:03:21 +0000",
       "minecraft:spider": "2025-04-21 20:31:55 +0000",
       "minecraft:creeper": "2025-04-21 20:29:03 +0000",
+      "minecraft:witch": "2025-04-22 17:32:21 +0000",
       "minecraft:husk": "2025-04-21 21:16:20 +0000",
       "minecraft:zombie": "2025-04-21 20:40:31 +0000",
       "minecraft:zombie_villager": "2025-04-21 20:30:43 +0000"
@@ -6282,6 +6283,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-22 17:33:49 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/wide_plate_upgrade": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
@@ -8774,9 +8781,11 @@
       "minecraft:birch_forest": "2025-04-21 21:42:57 +0000",
       "minecraft:beach": "2025-04-21 22:08:12 +0000",
       "minecraft:river": "2025-04-21 19:59:49 +0000",
+      "minecraft:wooded_mountains": "2025-04-22 17:29:24 +0000",
       "minecraft:wooded_hills": "2025-04-21 21:42:07 +0000",
       "minecraft:giant_tree_taiga_hills": "2025-04-21 19:58:45 +0000",
-      "minecraft:stone_shore": "2025-04-22 17:26:58 +0000"
+      "minecraft:stone_shore": "2025-04-22 17:26:58 +0000",
+      "minecraft:swamp": "2025-04-22 17:32:47 +0000"
     },
     "done": false
   },

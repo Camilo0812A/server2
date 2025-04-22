@@ -6339,6 +6339,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-22 17:33:48 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/wide_plate_upgrade": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
