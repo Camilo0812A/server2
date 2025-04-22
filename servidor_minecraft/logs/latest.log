@@ -1554,3 +1554,74 @@ java.lang.NullPointerException: null
 [22Apr2025 22:02:39.479] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
 [22Apr2025 22:02:55.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Set the time to 1000]
 [22Apr2025 22:03:23.776] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[22Apr2025 22:03:36.007] [Worker-Main-5/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Apr2025 22:03:36.050] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Apr2025 22:03:36.051] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Apr2025 22:03:36.052] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Apr2025 22:03:41.418] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2644ms or 52 ticks behind
+[22Apr2025 22:04:08.628] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[22Apr2025 22:04:24.014] [Worker-Main-5/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Apr2025 22:04:24.015] [Worker-Main-5/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Apr2025 22:04:24.015] [Worker-Main-5/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Apr2025 22:04:24.064] [Worker-Main-5/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Apr2025 22:04:24.065] [Worker-Main-5/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Apr2025 22:04:24.065] [Worker-Main-5/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Apr2025 22:04:24.066] [Worker-Main-5/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Apr2025 22:04:24.066] [Worker-Main-5/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Apr2025 22:04:24.079] [Worker-Main-5/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Apr2025 22:04:24.079] [Worker-Main-5/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Apr2025 22:04:24.080] [Worker-Main-5/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Apr2025 22:04:24.080] [Worker-Main-5/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Apr2025 22:04:24.080] [Worker-Main-5/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Apr2025 22:04:24.081] [Worker-Main-5/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Apr2025 22:04:24.081] [Worker-Main-5/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Apr2025 22:04:24.081] [Worker-Main-5/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Apr2025 22:04:24.081] [Worker-Main-5/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Apr2025 22:04:24.082] [Worker-Main-5/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Apr2025 22:04:24.082] [Worker-Main-5/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Apr2025 22:04:24.131] [Worker-Main-4/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Apr2025 22:04:24.131] [Worker-Main-4/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Apr2025 22:04:24.273] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Apr2025 22:05:04.175] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Nitwit'/233687, l='ServerLevel[world]', x=-1808.49, y=65.00, z=-846.82] died, message: 'Nitwit walked into fire whilst fighting Fire Dragon'
+[22Apr2025 22:05:16.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 was struck with lightning by Lightning Dragon
+[22Apr2025 22:05:22.017] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2893ms or 57 ticks behind
+[22Apr2025 22:05:31.222] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Scribe'/233711, l='ServerLevel[world]', x=-1846.42, y=67.92, z=-820.23] died, message: 'Scribe went up in flames'
+[22Apr2025 22:05:40.902] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[22Apr2025 22:05:46.738] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 was energized by Lightning Dragon
+[22Apr2025 22:06:06.589] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to correcamin0]
+[22Apr2025 22:06:08.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 has made the advancement [Dragonslayer]
+[22Apr2025 22:06:17.704] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Apr2025 22:06:17.705] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Apr2025 22:06:17.705] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Apr2025 22:06:17.706] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Apr2025 22:06:17.706] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Apr2025 22:06:17.707] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Apr2025 22:06:17.707] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Apr2025 22:06:17.707] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Apr2025 22:06:17.708] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Apr2025 22:06:17.708] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Apr2025 22:06:17.709] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Apr2025 22:06:17.771] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Apr2025 22:06:17.772] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Apr2025 22:06:17.815] [Worker-Main-4/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Apr2025 22:06:17.816] [Worker-Main-4/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Apr2025 22:06:17.817] [Worker-Main-4/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Apr2025 22:06:36.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to -4186.59, 8.0, 1256.21]
+[22Apr2025 22:07:00.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Teleported correcamin0 to DARKFIRE]
+[22Apr2025 22:07:01.242] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 has made the advancement [Ice Maze]
+[22Apr2025 22:07:05.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was frozen by Ice Dragon
+[22Apr2025 22:07:10.025] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: correcamin0 moved wrongly!
+[22Apr2025 22:07:39.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 walked into a cactus whilst trying to escape Ice Dragon
+[22Apr2025 22:07:52.033] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was slain by Ice Dragon
+[22Apr2025 22:08:02.259] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Scribe'/240308, l='ServerLevel[world]', x=-1844.07, y=63.00, z=-863.39] died, message: 'Scribe was incinerated by Fire Dragon'
+[22Apr2025 22:08:07.193] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was slain by Ice Dragon
+[22Apr2025 22:08:13.890] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 was slain by Ice Dragon
+[22Apr2025 22:08:42.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 was turned to ice by Ice Dragon
+[22Apr2025 22:08:56.073] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to kevin99col]
+[22Apr2025 22:09:00.774] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 53a5ace4-b5be-4b3e-b3f3-84d3f93b96fa. Existing iceandfire:hippocampus#242767, new: iceandfire:hippocampus#242781
+[22Apr2025 22:09:00.774] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 1a75be98-e49d-4ccc-892e-9b5a191d456c. Existing iceandfire:hippocampus#242782, new: iceandfire:hippocampus#242783
+[22Apr2025 22:09:04.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Teleported correcamin0 to kevin99col]
+[22Apr2025 22:09:36.162] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: DARKFIRE moved wrongly!
+[22Apr2025 22:12:33.153] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: kevin99col lost connection: Disconnected
+[22Apr2025 22:12:33.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col left the game
+[22Apr2025 22:12:41.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 has made the advancement [Sea? Not a Problem]

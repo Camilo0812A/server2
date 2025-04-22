@@ -1692,6 +1692,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "frozen_ocean": "2025-04-22 22:07:01 +0000"
+    },
+    "done": true
+  },
   "cavesandcliffs:recipes/building_blocks/exposed_cut_copper_from_exposed_copper_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-22 16:35:18 +0000"
@@ -4079,6 +4085,12 @@
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_the_recipe": "2025-04-22 16:35:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_lightning_dragon": "2025-04-22 22:06:08 +0000"
     },
     "done": true
   },
@@ -7265,6 +7277,12 @@
   "minecraft:recipes/decorations/pink_bed": {
     "criteria": {
       "has_the_recipe": "2025-04-22 16:35:18 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2025-04-22 22:02:08 +0000"
     },
     "done": true
   },

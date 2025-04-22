@@ -9338,6 +9338,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2025-04-22 22:01:41 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/warhammer_gold": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
