@@ -865,3 +865,24 @@ java.lang.NullPointerException: null
 [22Apr2025 18:33:56.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> no puedo
 [22Apr2025 18:34:02.862] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kevin99col> por que no peude bro
 [22Apr2025 18:34:11.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> haga video llamada
+[22Apr2025 18:35:51.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to DARKFIRE]
+[22Apr2025 18:36:44.760] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityLamprey['Lamprey'/71192, l='ServerLevel[world]', x=-2282.52, y=62.35, z=-204.12]
+[22Apr2025 18:36:48.606] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityLamprey['Lamprey'/71192, l='ServerLevel[world]', x=-2282.52, y=62.35, z=-204.12]
+[22Apr2025 18:36:55.709] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityLamprey['Lamprey'/71192, l='ServerLevel[world]', x=-2282.52, y=62.35, z=-204.12]
+[22Apr2025 18:37:25.700] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityLamprey['Lamprey'/71192, l='ServerLevel[world]', x=-2282.52, y=62.35, z=-204.12]
+[22Apr2025 18:37:30.253] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityLamprey['Lamprey'/71192, l='ServerLevel[world]', x=-2282.52, y=62.35, z=-204.12]
+[22Apr2025 18:38:01.257] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityLamprey['Lamprey'/71192, l='ServerLevel[world]', x=-2282.52, y=62.35, z=-204.12]
+[22Apr2025 18:38:34.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Teleported correcamin0 to DARKFIRE]
+[22Apr2025 18:38:35.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 has made the advancement [Now this is a Dungeon]
+[22Apr2025 18:40:06.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was slain by correcamin0
+[22Apr2025 18:41:05.040] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: correcamin0 moved too quickly! -14.030319162037358,7.332038400000002,-1.4159363570776122
+[22Apr2025 18:41:19.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Killed 100 entities]
+[22Apr2025 18:42:33.450] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 was shot by Skeleton
+[22Apr2025 18:42:54.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to Camilo0812A]
+[22Apr2025 18:43:09.662] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to DARKFIRE]
+[22Apr2025 18:43:31.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to Camilo0812A]
+[22Apr2025 18:43:37.352] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to -377.19, 37.0, -2814.61]
+[22Apr2025 18:45:09.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 was slain by Vex
+[22Apr2025 18:45:14.293] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: correcamin0 lost connection: Timed out
+[22Apr2025 18:45:14.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 left the game
+[22Apr2025 18:45:14.341] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice

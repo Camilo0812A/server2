@@ -8729,6 +8729,7 @@
       "minecraft:giant_tree_taiga": "2025-04-22 16:35:18 +0000",
       "minecraft:taiga_hills": "2025-04-22 16:36:27 +0000",
       "minecraft:desert": "2025-04-22 17:08:47 +0000",
+      "minecraft:birch_forest": "2025-04-22 18:38:35 +0000",
       "minecraft:beach": "2025-04-22 16:48:06 +0000",
       "minecraft:dark_forest": "2025-04-22 18:09:30 +0000",
       "minecraft:river": "2025-04-22 16:48:12 +0000",
@@ -9844,6 +9845,12 @@
   "minecraft:recipes/misc/slime_ball": {
     "criteria": {
       "has_the_recipe": "2025-04-22 16:35:17 +0000"
+    },
+    "done": true
+  },
+  "dungeons_plus:adventure/find_bigger_dungeon": {
+    "criteria": {
+      "structure": "2025-04-22 18:38:35 +0000"
     },
     "done": true
   },
