@@ -1763,3 +1763,6 @@ java.lang.NullPointerException: null
 [22Apr2025 23:24:44.976] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DARKFIRE[/127.9.21.201:46845] logged in with entity id 263996 at (-5963.300000011921, 64.0, -4342.799524795497)
 [22Apr2025 23:24:44.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE joined the game
 [22Apr2025 23:25:04.002] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DARKFIRE> dc
+[22Apr2025 23:29:24.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was slain by Sea Serpent
+[22Apr2025 23:29:39.118] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to -3060.96, 36.0, -1574.56]
+[22Apr2025 23:31:47.383] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to DARKFIRE]
