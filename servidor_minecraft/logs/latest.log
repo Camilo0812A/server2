@@ -541,3 +541,10 @@ java.lang.NullPointerException: null
 [22Apr2025 03:07:44.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was turned into gorgonzola by Gorgon
 [22Apr2025 03:09:06.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to DARKFIRE]
 [22Apr2025 03:09:10.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to kevin99col]
+[22Apr2025 03:09:49.498] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to kevin99col]
+[22Apr2025 03:12:42.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col was turned to stone by Gorgon
+[22Apr2025 03:14:28.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col was turned to stone by Gorgon
+[22Apr2025 03:15:16.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Set the time to 1000]
+[22Apr2025 03:15:23.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Set the weather to clear]
+[22Apr2025 03:17:18.432] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was turned to stone by Gorgon
+[22Apr2025 03:17:48.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was turned to stone by Gorgon
