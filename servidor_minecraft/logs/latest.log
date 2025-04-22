@@ -1431,3 +1431,30 @@ java.lang.NullPointerException: null
 [22Apr2025 21:09:51.692] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2268ms or 45 ticks behind
 [22Apr2025 21:10:21.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE has made the advancement [The Desert Swimmers]
 [22Apr2025 21:10:45.979] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of DARKFIRE) moved too quickly! -3.5311092731844838,0.0,-9.51890323495536
+[22Apr2025 21:11:34.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Set the time to 1000]
+[22Apr2025 21:11:35.607] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[22Apr2025 21:11:38.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col was killed by Witch using magic
+[22Apr2025 21:11:55.101] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4527ms or 90 ticks behind
+[22Apr2025 21:12:23.261] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col was killed by Witch using magic
+[22Apr2025 21:12:29.156] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/207640, l='ServerLevel[world]', x=695.42, y=68.74, z=-4.00]
+[22Apr2025 21:12:39.700] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[22Apr2025 21:14:33.514] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was doomed to fall by Death Worm
+[22Apr2025 21:14:55.071] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=870, y=63, z=-150} BlockPos{x=871, y=62, z=-150}
+[22Apr2025 21:14:56.800] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=917, y=26, z=-24} but found not block entity block Block{minecraft:stone} at location
+[22Apr2025 21:14:56.800] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=917, y=26, z=-24}
+[22Apr2025 21:14:59.711] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=912, y=19, z=-16} but found not block entity block Block{minecraft:stone} at location
+[22Apr2025 21:14:59.711] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=912, y=19, z=-16}
+[22Apr2025 21:14:59.712] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=912, y=19, z=-3} but found not block entity block Block{minecraft:stone} at location
+[22Apr2025 21:14:59.712] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=912, y=19, z=-3}
+[22Apr2025 21:14:59.713] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=928, y=26, z=-11} but found not block entity block Block{minecraft:stone} at location
+[22Apr2025 21:14:59.713] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=928, y=26, z=-11}
+[22Apr2025 21:15:00.834] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=913, y=19, z=5} but found not block entity block Block{quark:deepslate}[axis=y] at location
+[22Apr2025 21:15:00.834] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:deepslate}[axis=y] but failed at location BlockPos{x=913, y=19, z=5}
+[22Apr2025 21:15:00.834] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=916, y=19, z=3} but found not block entity block Block{quark:smooth_basalt} at location
+[22Apr2025 21:15:00.834] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:smooth_basalt} but failed at location BlockPos{x=916, y=19, z=3}
+[22Apr2025 21:15:02.926] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[22Apr2025 21:16:07.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE has made the advancement [No Step on Snake]
+[22Apr2025 21:17:28.855] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was slain by Sea Serpent
+[22Apr2025 21:17:56.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE has made the advancement [Sea? Not a Problem]
+[22Apr2025 21:21:43.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to correcamin0]
+[22Apr2025 21:22:02.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to DARKFIRE]

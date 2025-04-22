@@ -1524,6 +1524,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed_by": "2025-04-22 21:16:07 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/parrying_dagger_silver": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
@@ -3360,6 +3366,12 @@
   "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-22 21:10:21 +0000"
     },
     "done": true
   },
@@ -6228,6 +6240,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-22 21:17:56 +0000"
     },
     "done": true
   },
