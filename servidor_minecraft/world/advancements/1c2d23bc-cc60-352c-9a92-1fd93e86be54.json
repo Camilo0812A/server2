@@ -3479,6 +3479,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/obtain_fin": {
+    "criteria": {
+      "fin": "2025-04-22 22:17:14 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/smooth_white_sandstone_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
@@ -5900,6 +5906,12 @@
   "silentgear:recipes/silentgear/excavator_blueprint": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/fin": {
+    "criteria": {
+      "has_item": "2025-04-22 22:17:14 +0000"
     },
     "done": true
   },
