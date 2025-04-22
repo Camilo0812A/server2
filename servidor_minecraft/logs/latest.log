@@ -1462,3 +1462,16 @@ java.lang.NullPointerException: null
 [22Apr2025 21:26:49.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to -4186.3, 8.0, 1256.7]
 [22Apr2025 21:27:19.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to kevin99col]
 [22Apr2025 21:40:04.644] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[22Apr2025 21:43:35.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to kevin99col]
+[22Apr2025 21:43:54.748] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to correcamin0]
+[22Apr2025 21:43:54.778] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityLamprey['Lamprey'/220997, l='ServerLevel[world]', x=-2688.24, y=61.91, z=71.81]
+[22Apr2025 21:43:54.778] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityLamprey['Lamprey'/220529, l='ServerLevel[world]', x=-2689.01, y=62.27, z=71.08]
+[22Apr2025 21:44:17.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Teleported correcamin0 to DARKFIRE]
+[22Apr2025 21:44:31.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [correcamin0: Teleported correcamin0 to kevin99col]
+[22Apr2025 21:44:31.228] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityLamprey['Lamprey'/220997, l='ServerLevel[world]', x=-2688.24, y=61.91, z=71.81]
+[22Apr2025 21:44:31.228] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityLamprey['Lamprey'/220529, l='ServerLevel[world]', x=-2689.01, y=62.27, z=71.08]
+[22Apr2025 21:46:16.454] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-2808, y=61, z=20} BlockPos{x=-2808, y=62, z=20}
+[22Apr2025 21:46:16.854] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-2807, y=61, z=20} BlockPos{x=-2807, y=62, z=20}
+[22Apr2025 21:49:50.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE has made the advancement [Dragon Commander]
+[22Apr2025 21:50:27.804] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to -4186.48, 8.0, 1256.37]
+[22Apr2025 21:52:31.455] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityLamprey['Lamprey'/220997, l='ServerLevel[world]', x=-2688.24, y=61.91, z=71.81]
