@@ -1609,7 +1609,8 @@
   },
   "spartanweaponry:collect_heads": {
     "criteria": {
-      "creeper_head": "2025-04-22 19:25:09 +0000"
+      "creeper_head": "2025-04-22 19:25:09 +0000",
+      "skeleton_skull": "2025-04-22 19:45:20 +0000"
     },
     "done": false
   },

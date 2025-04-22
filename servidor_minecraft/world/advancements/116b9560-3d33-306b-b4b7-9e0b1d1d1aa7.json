@@ -9250,6 +9250,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "mutton": "2025-04-22 18:20:41 +0000",
+      "cooked_chicken": "2025-04-22 19:51:01 +0000",
       "sweet_berries": "2025-04-22 18:20:32 +0000",
       "bread": "2025-04-22 19:31:54 +0000"
     },
