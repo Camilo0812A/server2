@@ -1571,6 +1571,12 @@
     },
     "done": true
   },
+  "betteranimalsplus:animal_head_variants": {
+    "criteria": {
+      "boarhead_dark_brown": "2025-04-22 16:32:36 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/building_blocks/orange_sandstone_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
@@ -1818,6 +1824,12 @@
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
     },
     "done": true
+  },
+  "betteranimalsplus:animal_head_all": {
+    "criteria": {
+      "head15": "2025-04-22 16:32:36 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
     "criteria": {
@@ -5730,6 +5742,12 @@
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
+    },
+    "done": true
+  },
+  "betteranimalsplus:animal_head_first": {
+    "criteria": {
+      "head15": "2025-04-22 16:32:36 +0000"
     },
     "done": true
   },
