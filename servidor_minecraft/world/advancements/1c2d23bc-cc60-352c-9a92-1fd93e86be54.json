@@ -3017,6 +3017,12 @@
     },
     "done": true
   },
+  "aquamirae:recipes/spinefish": {
+    "criteria": {
+      "has_item": "2025-04-22 02:02:43 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/parrying_dagger_diamond": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
@@ -3093,6 +3099,7 @@
     "criteria": {
       "minecraft:pillager": "2025-04-21 22:05:06 +0000",
       "minecraft:skeleton": "2025-04-21 21:00:47 +0000",
+      "minecraft:vindicator": "2025-04-22 02:03:21 +0000",
       "minecraft:spider": "2025-04-21 20:31:55 +0000",
       "minecraft:creeper": "2025-04-21 20:29:03 +0000",
       "minecraft:husk": "2025-04-21 21:16:20 +0000",

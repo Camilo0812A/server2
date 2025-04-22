@@ -517,3 +517,9 @@ java.lang.NullPointerException: null
 [22Apr2025 01:57:32.364] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
 [22Apr2025 01:58:12.561] [Worker-Main-11/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntitySongbird from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
 [22Apr2025 01:58:23.827] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityDeer from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[22Apr2025 02:01:11.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was slain by Vindicator
+[22Apr2025 02:01:24.936] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityButterfly from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[22Apr2025 02:01:24.937] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityButterfly from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[22Apr2025 02:05:45.997] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was shot by Pillager
+[22Apr2025 02:06:02.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was slain by Vindicator
+[22Apr2025 02:06:29.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was slain by Vindicator
