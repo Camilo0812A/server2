@@ -692,3 +692,31 @@ java.lang.NullPointerException: null
 [22Apr2025 17:53:04.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> pero de q era
 [22Apr2025 17:53:20.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> yo espichando el 3 para ir mas rapido xD
 [22Apr2025 17:53:37.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilo0812A was slain by Cyclops
+[22Apr2025 17:53:40.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> ok
+[22Apr2025 17:53:46.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Teleported Camilo0812A to kevin99col]
+[22Apr2025 17:54:02.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilo0812A was slain by Cyclops
+[22Apr2025 17:54:07.017] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Teleported Camilo0812A to kevin99col]
+[22Apr2025 17:55:07.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> ya pensaron donde hacer casas?
+[22Apr2025 17:55:12.004] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: kevin99col lost connection: Disconnected
+[22Apr2025 17:55:12.004] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col left the game
+[22Apr2025 17:55:23.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DARKFIRE> noyu
+[22Apr2025 17:55:43.176] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1f09a1f6
+[22Apr2025 17:55:43.213] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: correcamin0[/127.95.243.109:38269] logged in with entity id 61356 at (-1426.5702213226905, 74.0, -1141.0526342403248)
+[22Apr2025 17:55:43.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 joined the game
+[22Apr2025 17:55:46.221] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: correcamin0 lost connection: Disconnected
+[22Apr2025 17:55:46.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 left the game
+[22Apr2025 17:56:01.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilo0812A was shot by Stymphalian Bird
+[22Apr2025 17:56:07.908] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@44592494
+[22Apr2025 17:56:07.933] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: correcamin0[/127.95.243.109:60597] logged in with entity id 62230 at (-1426.5702213226905, 74.0, -1141.0526342403248)
+[22Apr2025 17:56:07.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 joined the game
+[22Apr2025 17:56:31.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> coño de tormenta
+[22Apr2025 17:56:37.120] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> y kevin pa onde se fue
+[22Apr2025 17:56:39.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Teleported Camilo0812A to 564.5, 34.0, -1837.5]
+[22Apr2025 17:56:41.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DARKFIRE> a comer
+[22Apr2025 17:56:55.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> aaa
+[22Apr2025 17:57:20.116] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> ya vengo, voy a comer tmb
+[22Apr2025 17:59:10.906] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was slain by Spider
+[22Apr2025 17:59:12.934] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityLamprey['Lamprey'/65041, l='ServerLevel[world]', x=-111.41, y=55.25, z=92.64]
+[22Apr2025 17:59:12.942] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityLamprey['Lamprey'/65005, l='ServerLevel[world]', x=-48.04, y=55.77, z=105.40]
+[22Apr2025 18:02:19.096] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: correcamin0 moved too quickly! 2.6427773782431814,0.7619572011789586,15.000041661407295
+[22Apr2025 18:02:19.944] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: correcamin0 moved too quickly! 2.7212108497101326,0.0,15.436338549548054
