@@ -1758,3 +1758,8 @@ java.lang.NullPointerException: null
 [22Apr2025 23:01:19.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Set the time to 1000]
 [22Apr2025 23:09:26.147] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to 148.76, 69.5, -206.85]
 [22Apr2025 23:12:48.137] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Killed 10 entities]
+[22Apr2025 23:20:30.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to -4186.37, 8.0, 1256.7]
+[22Apr2025 23:24:44.954] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1f21dfb2
+[22Apr2025 23:24:44.976] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DARKFIRE[/127.9.21.201:46845] logged in with entity id 263996 at (-5963.300000011921, 64.0, -4342.799524795497)
+[22Apr2025 23:24:44.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE joined the game
+[22Apr2025 23:25:04.002] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DARKFIRE> dc
