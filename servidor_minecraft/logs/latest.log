@@ -1458,3 +1458,6 @@ java.lang.NullPointerException: null
 [22Apr2025 21:17:56.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE has made the advancement [Sea? Not a Problem]
 [22Apr2025 21:21:43.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to correcamin0]
 [22Apr2025 21:22:02.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to DARKFIRE]
+[22Apr2025 21:26:00.197] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to DARKFIRE]
+[22Apr2025 21:26:49.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to -4186.3, 8.0, 1256.7]
+[22Apr2025 21:27:19.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to kevin99col]
