@@ -1,21 +1,21 @@
-[22Apr2025 01:48:51.334] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
-[22Apr2025 01:48:51.339] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.26 by Ubuntu
-[22Apr2025 01:48:51.924] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[22Apr2025 01:48:51.997] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/server2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
-[22Apr2025 01:48:52.714] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[22Apr2025 01:48:52.805] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[22Apr2025 01:48:52.811] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[22Apr2025 01:48:52.817] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[22Apr2025 01:48:52.822] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[22Apr2025 01:48:52.826] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[22Apr2025 01:48:52.830] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[22Apr2025 01:48:53.003] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 1:0 token recognition error at: '~'
-[22Apr2025 01:48:53.008] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 1:0 token recognition error at: '/'
-[22Apr2025 01:48:53.009] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 1:1 token recognition error at: '/'
-[22Apr2025 01:48:54.135] [main/ERROR] [mixin/]: Mixin config rei-jei-internals-workaround.mixins.json does not specify "minVersion" property
-[22Apr2025 01:48:54.176] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
-[22Apr2025 01:48:54.286] [main/WARN] [mixin/]: Reference map 'RoughlyEnoughItems-jei-internals-workaround-jei-internals-workaround-refmap.json' for rei-jei-internals-workaround.mixins.json could not be read. If this is a development environment you can ignore this message
-[22Apr2025 01:48:55.071] [main/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod META-INF/fieldtomethodtransformers.js function bucketitem
+[22Apr2025 02:49:24.994] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[22Apr2025 02:49:24.997] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.26 by Ubuntu
+[22Apr2025 02:49:26.049] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[22Apr2025 02:49:26.233] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/server2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[22Apr2025 02:49:27.740] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[22Apr2025 02:49:27.851] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[22Apr2025 02:49:27.858] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[22Apr2025 02:49:27.864] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[22Apr2025 02:49:27.871] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[22Apr2025 02:49:27.878] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[22Apr2025 02:49:27.883] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[22Apr2025 02:49:28.134] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 1:0 token recognition error at: '~'
+[22Apr2025 02:49:28.148] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 1:0 token recognition error at: '/'
+[22Apr2025 02:49:28.150] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 1:1 token recognition error at: '/'
+[22Apr2025 02:49:29.686] [main/ERROR] [mixin/]: Mixin config rei-jei-internals-workaround.mixins.json does not specify "minVersion" property
+[22Apr2025 02:49:29.729] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[22Apr2025 02:49:29.887] [main/WARN] [mixin/]: Reference map 'RoughlyEnoughItems-jei-internals-workaround-jei-internals-workaround-refmap.json' for rei-jei-internals-workaround.mixins.json could not be read. If this is a development environment you can ignore this message
+[22Apr2025 02:49:31.238] [main/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod META-INF/fieldtomethodtransformers.js function bucketitem
 java.lang.IllegalStateException: Field field_77876_a is not private and an instance field
 	at net.minecraftforge.coremod.api.ASMAPI.redirectFieldToMethod(ASMAPI.java:260) ~[coremods-4.0.6.jar:?]
 	at jdk.nashorn.internal.scripts.Script$Recompilation$101$1332A$\^eval\_$cu1$restOf.initializeCoreMod#transformer-2(<eval>:35) ~[?:?]
@@ -66,16 +66,16 @@ java.lang.IllegalStateException: Field field_77876_a is not private and an insta
 	at net.minecraftforge.server.ServerMain$Runner.runLauncher(ServerMain.java:49) [forge-1.16.5-36.2.42.jar:?]
 	at net.minecraftforge.server.ServerMain$Runner.access$100(ServerMain.java:46) [forge-1.16.5-36.2.42.jar:?]
 	at net.minecraftforge.server.ServerMain.main(ServerMain.java:43) [forge-1.16.5-36.2.42.jar:?]
-[22Apr2025 01:48:55.314] [main/WARN] [mixin/]: Error loading class: com/chaosthedude/naturescompass/util/BiomeSearchWorker (java.lang.ClassNotFoundException: null)
-[22Apr2025 01:48:55.314] [main/WARN] [mixin/]: @Mixin target com.chaosthedude.naturescompass.util.BiomeSearchWorker was not found cavebiomeapi-forge.mixins.json:NatureCompassCompat
-[22Apr2025 01:48:58.894] [main/WARN] [mixin/]: Error loading class: net/minecraft/entity/IChargeableMob (java.lang.ClassNotFoundException: null)
-[22Apr2025 01:48:58.897] [main/WARN] [mixin/]: Error loading class: net/minecraft/entity/IChargeableMob (java.lang.ClassNotFoundException: null)
-[22Apr2025 01:48:58.899] [main/WARN] [mixin/]: Error loading class: net/minecraft/entity/IChargeableMob (java.lang.ClassNotFoundException: null)
-[22Apr2025 01:48:58.919] [main/WARN] [mixin/]: Error loading class: net/minecraft/entity/IChargeableMob (java.lang.ClassNotFoundException: null)
-[22Apr2025 01:48:58.928] [main/WARN] [mixin/]: Error loading class: net/minecraft/entity/IChargeableMob (java.lang.ClassNotFoundException: null)
-[22Apr2025 01:48:58.972] [main/WARN] [mixin/]: @Final field field_82223_h:[I in epicfight.mixins.json:MixinWitherBoss should be final
-[22Apr2025 01:48:58.973] [main/WARN] [mixin/]: @Final field field_82224_i:[I in epicfight.mixins.json:MixinWitherBoss should be final
-[22Apr2025 01:49:02.459] [main/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod META-INF/fieldtomethodtransformers.js function bucketitem
+[22Apr2025 02:49:31.480] [main/WARN] [mixin/]: Error loading class: com/chaosthedude/naturescompass/util/BiomeSearchWorker (java.lang.ClassNotFoundException: null)
+[22Apr2025 02:49:31.481] [main/WARN] [mixin/]: @Mixin target com.chaosthedude.naturescompass.util.BiomeSearchWorker was not found cavebiomeapi-forge.mixins.json:NatureCompassCompat
+[22Apr2025 02:49:36.373] [main/WARN] [mixin/]: Error loading class: net/minecraft/entity/IChargeableMob (java.lang.ClassNotFoundException: null)
+[22Apr2025 02:49:36.375] [main/WARN] [mixin/]: Error loading class: net/minecraft/entity/IChargeableMob (java.lang.ClassNotFoundException: null)
+[22Apr2025 02:49:36.378] [main/WARN] [mixin/]: Error loading class: net/minecraft/entity/IChargeableMob (java.lang.ClassNotFoundException: null)
+[22Apr2025 02:49:36.388] [main/WARN] [mixin/]: Error loading class: net/minecraft/entity/IChargeableMob (java.lang.ClassNotFoundException: null)
+[22Apr2025 02:49:36.390] [main/WARN] [mixin/]: Error loading class: net/minecraft/entity/IChargeableMob (java.lang.ClassNotFoundException: null)
+[22Apr2025 02:49:36.411] [main/WARN] [mixin/]: @Final field field_82223_h:[I in epicfight.mixins.json:MixinWitherBoss should be final
+[22Apr2025 02:49:36.411] [main/WARN] [mixin/]: @Final field field_82224_i:[I in epicfight.mixins.json:MixinWitherBoss should be final
+[22Apr2025 02:49:41.179] [main/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod META-INF/fieldtomethodtransformers.js function bucketitem
 java.lang.IllegalStateException: Field field_77876_a is not private and an instance field
 	at net.minecraftforge.coremod.api.ASMAPI.redirectFieldToMethod(ASMAPI.java:260) ~[coremods-4.0.6.jar:?]
 	at jdk.nashorn.internal.scripts.Script$Recompilation$101$1332A$\^eval\_.initializeCoreMod#transformer-2(<eval>:35) ~[?:?]
@@ -113,413 +113,404 @@ java.lang.IllegalStateException: Field field_77876_a is not private and an insta
 	at net.minecraftforge.server.ServerMain$Runner.runLauncher(ServerMain.java:49) [forge-1.16.5-36.2.42.jar:?]
 	at net.minecraftforge.server.ServerMain$Runner.access$100(ServerMain.java:46) [forge-1.16.5-36.2.42.jar:?]
 	at net.minecraftforge.server.ServerMain.main(ServerMain.java:43) [forge-1.16.5-36.2.42.jar:?]
-[22Apr2025 01:49:04.456] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[22Apr2025 01:49:04.462] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[22Apr2025 01:49:04.466] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[22Apr2025 01:49:04.466] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[22Apr2025 01:49:04.706] [main/INFO] [PluginManager/]: Scanning classes for titanium
-[22Apr2025 01:49:04.729] [main/INFO] [PluginManager/]: Found FeaturePluginInstance for class DefaultResourceRegistryPlugin for plugin resources
-[22Apr2025 01:49:05.557] [modloading-worker-1/INFO] [STDOUT/]: [net.joefoxe.hexerei.config.HexConfig:loadConfig:60]: config check
-[22Apr2025 01:49:06.945] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
-[22Apr2025 01:49:06.949] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
-[22Apr2025 01:49:06.974] [modloading-worker-2/INFO] [dev.itsmeow.betteranimalsplus.BetterAnimalsPlusMod/]: Injecting super coyotes...
-[22Apr2025 01:49:07.207] [modloading-worker-2/INFO] [PluginManager/]: Scanning classes for titanium
-[22Apr2025 01:49:07.241] [modloading-worker-2/INFO] [PluginManager/]: Constructed class DefaultResourceRegistryPlugin for plugin resources for mod titanium
-[22Apr2025 01:49:07.242] [modloading-worker-2/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class DefaultResourceRegistryPlugin
-[22Apr2025 01:49:07.843] [modloading-worker-2/INFO] [ironfurnaces.IronFurnaces/]: Initializing Update Checker...
-[22Apr2025 01:49:07.860] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Starting Update Check...
-[22Apr2025 01:49:08.771] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Update Check done!
-[22Apr2025 01:49:08.772] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Iron Furnaces is up to date!
-[22Apr2025 01:49:09.112] [modloading-worker-0/INFO] [PluginManager/]: Scanning classes for portality
-[22Apr2025 01:49:09.122] [modloading-worker-3/INFO] [REI/]: Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIServerPlugin
-[22Apr2025 01:49:09.128] [modloading-worker-3/INFO] [REI/]: Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIPlugin
-[22Apr2025 01:49:09.135] [modloading-worker-3/INFO] [REI/]: Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
-[22Apr2025 01:49:09.135] [modloading-worker-3/INFO] [REI/]: Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
-[22Apr2025 01:49:09.138] [modloading-worker-3/INFO] [REI/]: Registered plugin provider JEIExtraPlugin [roughlyenoughitems] for REIServerPlugin
-[22Apr2025 01:49:09.139] [modloading-worker-3/INFO] [REI/]: Registered plugin provider JEIExtraPlugin [roughlyenoughitems] for REIPlugin
-[22Apr2025 01:49:09.215] [modloading-worker-2/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
-[22Apr2025 01:49:09.385] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
-[22Apr2025 01:49:09.385] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 6
-[22Apr2025 01:49:10.432] [modloading-worker-2/INFO] [Inventory Profiles Next/]: [Inventory Profiles Next] Inventory Profiles Next - init in Kotlin
-[22Apr2025 01:49:10.646] [modloading-worker-1/INFO] [libIPN/]: [libIPN] libIPN - init in Kotlin
-[22Apr2025 01:49:23.259] [main/INFO] [net.joefoxe.hexerei.Hexerei/]: HELLO from Register Block
-[22Apr2025 01:49:25.381] [main/INFO] [Spartan Shields/]: Registering Items
-[22Apr2025 01:49:25.381] [main/INFO] [Spartan Shields/]: Registered Items successfully!
-[22Apr2025 01:49:25.510] [main/INFO] [Spartan Weaponry/]: Registering items...
-[22Apr2025 01:49:25.515] [main/INFO] [Spartan Weaponry/]: Items Registered!
-[22Apr2025 01:49:25.611] [main/INFO] [Bookshelf/]: Registered 11 GlobalLootModifierSerializer entries in 3.81ms.
-[22Apr2025 01:49:25.732] [main/INFO] [Spartan Shields/]: Registering Enchantments
-[22Apr2025 01:49:25.733] [main/INFO] [Spartan Shields/]: Registered Enchantments successfully!
-[22Apr2025 01:49:26.073] [main/INFO] [Spartan Weaponry/]: Registering Entities
-[22Apr2025 01:49:26.315] [main/INFO] [Bookshelf/]: Registered 22 ingredient serializers.
-[22Apr2025 01:49:26.318] [main/INFO] [Bookshelf/]: Registered 5 IRecipeSerializer entries in 0.27ms.
-[22Apr2025 01:49:27.248] [main/INFO] [ModdingLegacy/structure_gel/Compat/]: Checking for biome dictionary registry methods in other mods.
-[22Apr2025 01:49:27.678] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[22Apr2025 01:49:27.759] [main/INFO] [quark/]: Loading Module Chain Linkage
-[22Apr2025 01:49:27.769] [main/INFO] [quark/]: Loading Module Chains Connect Blocks
-[22Apr2025 01:49:27.770] [main/INFO] [quark/]: Loading Module Chute
-[22Apr2025 01:49:27.771] [main/INFO] [quark/]: Loading Module Color Slime
-[22Apr2025 01:49:27.772] [main/INFO] [quark/]: Loading Module Dispensers Place Blocks
-[22Apr2025 01:49:27.772] [main/INFO] [quark/]: Loading Module Ender Watcher
-[22Apr2025 01:49:27.773] [main/INFO] [quark/]: Loading Module Endermites Form Shulkers
-[22Apr2025 01:49:27.775] [main/INFO] [quark/]: Loading Module Feeding Trough
-[22Apr2025 01:49:27.777] [main/INFO] [quark/]: Loading Module Gravisand
-[22Apr2025 01:49:27.778] [main/INFO] [quark/]: Loading Module Iron Rod
-[22Apr2025 01:49:27.781] [main/INFO] [quark/]: Loading Module Jukebox Automation
-[22Apr2025 01:49:27.782] [main/INFO] [quark/]: Loading Module Metal Buttons
-[22Apr2025 01:49:27.782] [main/INFO] [quark/]: Loading Module Obsidian Plate
-[22Apr2025 01:49:27.783] [main/INFO] [quark/]: Loading Module Pistons Move Tile Entities
-[22Apr2025 01:49:27.787] [main/INFO] [quark/]: Loading Module Redstone Circuit
-[22Apr2025 01:49:27.787] [main/INFO] [quark/]: Loading Module Weather Sensor
-[22Apr2025 01:49:27.787] [main/INFO] [quark/]: Loading Module Bamboo Mat
-[22Apr2025 01:49:27.787] [main/INFO] [quark/]: Loading Module Burn Vines
-[22Apr2025 01:49:27.788] [main/INFO] [quark/]: Loading Module Celebratory Lamps
-[22Apr2025 01:49:27.788] [main/INFO] [quark/]: Loading Module Cobblestone Bricks
-[22Apr2025 01:49:27.788] [main/INFO] [quark/]: Loading Module Compressed Blocks
-[22Apr2025 01:49:27.788] [main/INFO] [quark/]: Loading Module Duskbound Blocks
-[22Apr2025 01:49:27.789] [main/INFO] [quark/]: Loading Module Framed Glass
-[22Apr2025 01:49:27.789] [main/INFO] [quark/]: Loading Module Gold Bars
-[22Apr2025 01:49:27.789] [main/INFO] [quark/]: Loading Module Grate
-[22Apr2025 01:49:27.789] [main/INFO] [quark/]: Loading Module Hedges
-[22Apr2025 01:49:27.789] [main/INFO] [quark/]: Loading Module Iron Plates
-[22Apr2025 01:49:27.789] [main/INFO] [quark/]: Loading Module Item Frames
-[22Apr2025 01:49:27.789] [main/INFO] [quark/]: Loading Module Leaf Carpet
-[22Apr2025 01:49:27.789] [main/INFO] [quark/]: Loading Module Lit Lamp
-[22Apr2025 01:49:27.789] [main/INFO] [quark/]: Loading Module Midori
-[22Apr2025 01:49:27.789] [main/INFO] [quark/]: Loading Module More Brick Types
-[22Apr2025 01:49:27.790] [main/INFO] [quark/]: Loading Module More Potted Plants
-[22Apr2025 01:49:27.790] [main/INFO] [quark/]: Loading Module More Stone Variants
-[22Apr2025 01:49:27.790] [main/INFO] [quark/]: Loading Module Nether Brick Fence Gate
-[22Apr2025 01:49:27.790] [main/INFO] [quark/]: Loading Module Paper Decor
-[22Apr2025 01:49:27.793] [main/INFO] [quark/]: Loading Module Quilted Wool
-[22Apr2025 01:49:27.793] [main/INFO] [quark/]: Loading Module Rope
-[22Apr2025 01:49:27.793] [main/INFO] [quark/]: Loading Module Shallow Dirt
-[22Apr2025 01:49:27.793] [main/INFO] [quark/]: Loading Module Shingles
-[22Apr2025 01:49:27.793] [main/INFO] [quark/]: Loading Module Soul Sandstone
-[22Apr2025 01:49:27.794] [main/INFO] [quark/]: Loading Module Stained Planks
-[22Apr2025 01:49:27.794] [main/INFO] [quark/]: Loading Module Stools
-[22Apr2025 01:49:27.794] [main/INFO] [quark/]: Loading Module Sturdy Stone
-[22Apr2025 01:49:27.794] [main/INFO] [quark/]: Loading Module Tallow And Candles
-[22Apr2025 01:49:27.795] [main/INFO] [quark/]: Loading Module Thatch
-[22Apr2025 01:49:27.798] [main/INFO] [quark/]: Loading Module Tie Leads To Fences
-[22Apr2025 01:49:27.798] [main/INFO] [quark/]: Loading Module Turf
-[22Apr2025 01:49:27.798] [main/INFO] [quark/]: Loading Module Variant Bookshelves
-[22Apr2025 01:49:27.798] [main/INFO] [quark/]: Loading Module Variant Chests
-[22Apr2025 01:49:27.800] [main/INFO] [quark/]: Loading Module Variant Ladders
-[22Apr2025 01:49:27.800] [main/INFO] [quark/]: Loading Module Vertical Planks
-[22Apr2025 01:49:27.800] [main/INFO] [quark/]: Loading Module Vertical Slabs
-[22Apr2025 01:49:27.800] [main/INFO] [quark/]: Loading Module Wooden Posts
-[22Apr2025 01:49:27.803] [main/INFO] [quark/]: Loading Module Chests In Boats
-[22Apr2025 01:49:27.803] [main/INFO] [quark/]: Loading Module Easy Transfering
-[22Apr2025 01:49:27.803] [main/INFO] [quark/]: Loading Module Hotbar Changer
-[22Apr2025 01:49:27.803] [main/INFO] [quark/]: Loading Module Inventory Sorting
-[22Apr2025 01:49:27.803] [main/INFO] [quark/]: Loading Module Item Sharing
-[22Apr2025 01:49:27.804] [main/INFO] [quark/]: Loading Module Right Click Armor
-[22Apr2025 01:49:27.804] [main/INFO] [quark/]: Loading Module Shulker Box Right Click
-[22Apr2025 01:49:27.804] [main/INFO] [quark/]: Loading Module Endermosh Music Disc
-[22Apr2025 01:49:27.805] [main/INFO] [quark/]: Loading Module Abacus
-[22Apr2025 01:49:27.805] [main/INFO] [quark/]: Loading Module Ambient Discs
-[22Apr2025 01:49:27.806] [main/INFO] [quark/]: Loading Module Ancient Tomes
-[22Apr2025 01:49:27.809] [main/INFO] [quark/]: Loading Module Bottled Cloud
-[22Apr2025 01:49:27.810] [main/INFO] [quark/]: Loading Module Camera
-[22Apr2025 01:49:27.810] [main/INFO] [quark/]: Loading Module Color Runes
-[22Apr2025 01:49:27.811] [main/INFO] [quark/]: Loading Module Pathfinder Maps
-[22Apr2025 01:49:27.811] [main/INFO] [quark/]: Loading Module Pickarang
-[22Apr2025 01:49:27.815] [main/INFO] [quark/]: Loading Module Seed Pouch
-[22Apr2025 01:49:27.816] [main/INFO] [quark/]: Loading Module Slime In A Bucket
-[22Apr2025 01:49:27.816] [main/INFO] [quark/]: Loading Module Trowel
-[22Apr2025 01:49:27.816] [main/INFO] [quark/]: Loading Module Skull Pikes
-[22Apr2025 01:49:27.817] [main/INFO] [quark/]: Loading Module Armed Armor Stands
-[22Apr2025 01:49:27.821] [main/INFO] [quark/]: Loading Module Automatic Recipe Unlock
-[22Apr2025 01:49:27.822] [main/INFO] [quark/]: Loading Module Axe Leaf Harvesting
-[22Apr2025 01:49:27.823] [main/INFO] [quark/]: Loading Module Better Elytra Rocket
-[22Apr2025 01:49:27.823] [main/INFO] [quark/]: Loading Module Campfires Boost Elytra
-[22Apr2025 01:49:27.824] [main/INFO] [quark/]: Loading Module Compasses Work Everywhere
-[22Apr2025 01:49:27.827] [main/INFO] [quark/]: Loading Module Dirt To Path
-[22Apr2025 01:49:27.828] [main/INFO] [quark/]: Loading Module Double Door Opening
-[22Apr2025 01:49:27.828] [main/INFO] [quark/]: Loading Module Dragon Scales
-[22Apr2025 01:49:27.829] [main/INFO] [quark/]: Loading Module Emotes
-[22Apr2025 01:49:27.829] [main/INFO] [quark/]: Loading Module Enhanced Ladders
-[22Apr2025 01:49:27.830] [main/INFO] [quark/]: Loading Module Glass Shard
-[22Apr2025 01:49:27.830] [main/INFO] [quark/]: Loading Module Hoe Harvesting
-[22Apr2025 01:49:27.834] [main/INFO] [quark/]: Loading Module Improved Sleeping
-[22Apr2025 01:49:27.835] [main/INFO] [quark/]: Loading Module Infinity Bucket
-[22Apr2025 01:49:27.836] [main/INFO] [quark/]: Loading Module Lava Bucket As Trash
-[22Apr2025 01:49:27.837] [main/INFO] [quark/]: Loading Module Lock Rotation
-[22Apr2025 01:49:27.841] [main/INFO] [quark/]: Loading Module More Banner Layers
-[22Apr2025 01:49:27.842] [main/INFO] [quark/]: Loading Module Note Block Mob Sounds
-[22Apr2025 01:49:27.842] [main/INFO] [quark/]: Loading Module Pat The Dogs
-[22Apr2025 01:49:27.845] [main/INFO] [quark/]: Loading Module Poison Potato Usage
-[22Apr2025 01:49:27.848] [main/INFO] [quark/]: Loading Module Reacharound Placing
-[22Apr2025 01:49:27.849] [main/INFO] [quark/]: Loading Module Replace Scaffolding
-[22Apr2025 01:49:27.850] [main/INFO] [quark/]: Loading Module Sign Editing
-[22Apr2025 01:49:27.854] [main/INFO] [quark/]: Loading Module Simple Harvest
-[22Apr2025 01:49:27.854] [main/INFO] [quark/]: Loading Module Snow Golem Player Heads
-[22Apr2025 01:49:27.856] [main/INFO] [quark/]: Loading Module Springy Slime
-[22Apr2025 01:49:27.856] [main/INFO] [quark/]: Loading Module Utility Recipes
-[22Apr2025 01:49:27.857] [main/INFO] [quark/]: Loading Module Villagers Follow Emeralds
-[22Apr2025 01:49:27.858] [main/INFO] [quark/]: Loading Module Big Dungeon
-[22Apr2025 01:49:27.858] [main/INFO] [quark/]: Loading Module Big Stone Clusters
-[22Apr2025 01:49:27.862] [main/INFO] [quark/]: Loading Module Biotite
-[22Apr2025 01:49:27.863] [main/INFO] [quark/]: Loading Module Blossom Trees
-[22Apr2025 01:49:27.867] [main/INFO] [quark/]: Loading Module Cave Roots
-[22Apr2025 01:49:27.867] [main/INFO] [quark/]: Loading Module Chorus Vegetation
-[22Apr2025 01:49:27.867] [main/INFO] [quark/]: Loading Module Crevices
-[22Apr2025 01:49:27.867] [main/INFO] [quark/]: Loading Module Deepslate
-[22Apr2025 01:49:27.867] [main/INFO] [quark/]: Loading Module Fairy Rings
-[22Apr2025 01:49:27.867] [main/INFO] [quark/]: Loading Module Mega Caves
-[22Apr2025 01:49:27.868] [main/INFO] [quark/]: Loading Module Monster Box
-[22Apr2025 01:49:27.868] [main/INFO] [quark/]: Loading Module Nether Obsidian Spikes
-[22Apr2025 01:49:27.868] [main/INFO] [quark/]: Loading Module New Stone Types
-[22Apr2025 01:49:27.869] [main/INFO] [quark/]: Loading Module Realistic World Gen
-[22Apr2025 01:49:27.869] [main/INFO] [quark/]: Loading Module Speleothems
-[22Apr2025 01:49:27.871] [main/INFO] [quark/]: Loading Module Spiral Spires
-[22Apr2025 01:49:27.873] [main/INFO] [quark/]: Loading Module Underground Clay
-[22Apr2025 01:49:27.873] [main/INFO] [quark/]: Loading Module Brimstone Underground Biome
-[22Apr2025 01:49:27.874] [main/INFO] [quark/]: Loading Module Cave Crystal Underground Biome
-[22Apr2025 01:49:27.874] [main/INFO] [quark/]: Loading Module Elder Prismarine Underground Biome
-[22Apr2025 01:49:27.875] [main/INFO] [quark/]: Loading Module Glowshroom Underground Biome
-[22Apr2025 01:49:27.875] [main/INFO] [quark/]: Loading Module Lush Underground Biome
-[22Apr2025 01:49:27.875] [main/INFO] [quark/]: Loading Module Overgrown Underground Biome
-[22Apr2025 01:49:27.875] [main/INFO] [quark/]: Loading Module Permafrost Underground Biome
-[22Apr2025 01:49:27.875] [main/INFO] [quark/]: Loading Module Sandstone Underground Biome
-[22Apr2025 01:49:27.876] [main/INFO] [quark/]: Loading Module Slime Underground Biome
-[22Apr2025 01:49:27.876] [main/INFO] [quark/]: Loading Module Spider Nest Underground Biome
-[22Apr2025 01:49:27.879] [main/INFO] [quark/]: Loading Module Crabs
-[22Apr2025 01:49:27.879] [main/INFO] [quark/]: Loading Module Forgotten
-[22Apr2025 01:49:27.880] [main/INFO] [quark/]: Loading Module Foxhound
-[22Apr2025 01:49:27.881] [main/INFO] [quark/]: Loading Module Frogs
-[22Apr2025 01:49:27.881] [main/INFO] [quark/]: Loading Module Stonelings
-[22Apr2025 01:49:27.881] [main/INFO] [quark/]: Loading Module Toretoise
-[22Apr2025 01:49:27.883] [main/INFO] [quark/]: Loading Module Wraith
-[22Apr2025 01:49:27.883] [main/INFO] [quark/]: Loading Module Auto Walk Keybind
-[22Apr2025 01:49:27.884] [main/INFO] [quark/]: Loading Module Back Button Keybind
-[22Apr2025 01:49:27.884] [main/INFO] [quark/]: Loading Module Chest Searching
-[22Apr2025 01:49:27.885] [main/INFO] [quark/]: Loading Module Greener Grass
-[22Apr2025 01:49:27.885] [main/INFO] [quark/]: Loading Module Improved Mount Hud
-[22Apr2025 01:49:27.885] [main/INFO] [quark/]: Loading Module Improved Tooltips
-[22Apr2025 01:49:27.886] [main/INFO] [quark/]: Loading Module Usage Ticker
-[22Apr2025 01:49:27.886] [main/INFO] [quark/]: Loading Module Variant Animal Textures
-[22Apr2025 01:49:27.886] [main/INFO] [quark/]: Loading Module Backpack
-[22Apr2025 01:49:27.887] [main/INFO] [quark/]: Loading Module Crate
-[22Apr2025 01:49:27.887] [main/INFO] [quark/]: Loading Module Magnets
-[22Apr2025 01:49:27.887] [main/INFO] [quark/]: Loading Module Matrix Enchanting
-[22Apr2025 01:49:27.887] [main/INFO] [quark/]: Loading Module Pipes
-[22Apr2025 01:49:27.887] [main/INFO] [quark/]: Loading Module Totem Of Holding
-[22Apr2025 01:49:27.888] [main/INFO] [quark/]: Loading Module Adjustable Chat
-[22Apr2025 01:49:27.888] [main/INFO] [quark/]: Loading Module Custom Underground Biome
-[22Apr2025 01:49:27.888] [main/INFO] [quark/]: Loading Module Game Nerfs
-[22Apr2025 01:49:27.888] [main/INFO] [quark/]: Loading Module Microcrafting Helper
-[22Apr2025 01:49:27.888] [main/INFO] [quark/]: Loading Module Narrator Readout
-[22Apr2025 01:49:27.888] [main/INFO] [quark/]: Loading Module Overlay Shader
-[22Apr2025 01:49:27.888] [main/INFO] [quark/]: Loading Module Pallet
-[22Apr2025 01:49:27.888] [main/INFO] [quark/]: Loading Module Shiba
-[22Apr2025 01:49:28.028] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for hexerei:pigeon, use EntityAttributeCreationEvent instead.
-[22Apr2025 01:49:28.124] [modloading-worker-2/INFO] [Bookshelf/]: Registering 3 command argument types.
-[22Apr2025 01:49:28.125] [modloading-worker-2/INFO] [Bookshelf/]: Registering 13 loot conditions.
-[22Apr2025 01:49:28.126] [modloading-worker-1/INFO] [dev.itsmeow.betteranimalsplus.BetterAnimalsPlusMod/]: Overspawning lammergeiers...
-[22Apr2025 01:49:28.172] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moremcmeta] Starting version check at https://moremcmeta.github.io/update/core.json
-[22Apr2025 01:49:28.316] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moremcmeta] Found status: UP_TO_DATE Current: 1.16.5-4.4.7 Target: null
-[22Apr2025 01:49:28.317] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[22Apr2025 01:49:28.339] [modloading-worker-1/INFO] [Spartan Shields/]: Setting up Spartan Shields!
-[22Apr2025 01:49:28.417] [modloading-worker-1/INFO] [lostcities/]: Creating standard profiles into 'config/lostcities/profiles'
-[22Apr2025 01:49:28.464] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:crab, use EntityAttributeCreationEvent instead.
-[22Apr2025 01:49:28.494] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[22Apr2025 02:49:43.612] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22Apr2025 02:49:43.615] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22Apr2025 02:49:43.618] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22Apr2025 02:49:43.618] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22Apr2025 02:49:43.937] [main/INFO] [PluginManager/]: Scanning classes for titanium
+[22Apr2025 02:49:43.973] [main/INFO] [PluginManager/]: Found FeaturePluginInstance for class DefaultResourceRegistryPlugin for plugin resources
+[22Apr2025 02:49:44.775] [modloading-worker-1/INFO] [STDOUT/]: [net.joefoxe.hexerei.config.HexConfig:loadConfig:60]: config check
+[22Apr2025 02:49:46.273] [modloading-worker-2/INFO] [dev.itsmeow.betteranimalsplus.BetterAnimalsPlusMod/]: Injecting super coyotes...
+[22Apr2025 02:49:46.395] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[22Apr2025 02:49:46.395] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[22Apr2025 02:49:46.715] [modloading-worker-2/INFO] [PluginManager/]: Scanning classes for titanium
+[22Apr2025 02:49:46.750] [modloading-worker-2/INFO] [PluginManager/]: Constructed class DefaultResourceRegistryPlugin for plugin resources for mod titanium
+[22Apr2025 02:49:46.754] [modloading-worker-2/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class DefaultResourceRegistryPlugin
+[22Apr2025 02:49:47.566] [modloading-worker-2/INFO] [ironfurnaces.IronFurnaces/]: Initializing Update Checker...
+[22Apr2025 02:49:47.586] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Starting Update Check...
+[22Apr2025 02:49:48.580] [modloading-worker-1/INFO] [REI/]: Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIServerPlugin
+[22Apr2025 02:49:48.580] [modloading-worker-1/INFO] [REI/]: Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIPlugin
+[22Apr2025 02:49:48.592] [modloading-worker-1/INFO] [REI/]: Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
+[22Apr2025 02:49:48.593] [modloading-worker-1/INFO] [REI/]: Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
+[22Apr2025 02:49:48.594] [modloading-worker-1/INFO] [REI/]: Registered plugin provider JEIExtraPlugin [roughlyenoughitems] for REIServerPlugin
+[22Apr2025 02:49:48.594] [modloading-worker-1/INFO] [REI/]: Registered plugin provider JEIExtraPlugin [roughlyenoughitems] for REIPlugin
+[22Apr2025 02:49:48.660] [modloading-worker-1/INFO] [PluginManager/]: Scanning classes for portality
+[22Apr2025 02:49:48.777] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Update Check done!
+[22Apr2025 02:49:48.777] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Iron Furnaces is up to date!
+[22Apr2025 02:49:48.913] [modloading-worker-1/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[22Apr2025 02:49:49.196] [modloading-worker-3/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[22Apr2025 02:49:49.201] [modloading-worker-3/INFO] [Spartan Weaponry/]: Initialising API! Version: 6
+[22Apr2025 02:49:51.061] [modloading-worker-0/INFO] [libIPN/]: [libIPN] libIPN - init in Kotlin
+[22Apr2025 02:49:51.187] [modloading-worker-1/INFO] [Inventory Profiles Next/]: [Inventory Profiles Next] Inventory Profiles Next - init in Kotlin
+[22Apr2025 02:50:07.925] [main/INFO] [net.joefoxe.hexerei.Hexerei/]: HELLO from Register Block
+[22Apr2025 02:50:10.220] [main/INFO] [Spartan Shields/]: Registering Items
+[22Apr2025 02:50:10.221] [main/INFO] [Spartan Shields/]: Registered Items successfully!
+[22Apr2025 02:50:10.303] [main/INFO] [Spartan Weaponry/]: Registering items...
+[22Apr2025 02:50:10.305] [main/INFO] [Spartan Weaponry/]: Items Registered!
+[22Apr2025 02:50:10.379] [main/INFO] [Bookshelf/]: Registered 11 GlobalLootModifierSerializer entries in 3.03ms.
+[22Apr2025 02:50:10.567] [main/INFO] [Spartan Shields/]: Registering Enchantments
+[22Apr2025 02:50:10.568] [main/INFO] [Spartan Shields/]: Registered Enchantments successfully!
+[22Apr2025 02:50:10.868] [main/INFO] [Spartan Weaponry/]: Registering Entities
+[22Apr2025 02:50:11.075] [main/INFO] [Bookshelf/]: Registered 22 ingredient serializers.
+[22Apr2025 02:50:11.075] [main/INFO] [Bookshelf/]: Registered 5 IRecipeSerializer entries in 0.22ms.
+[22Apr2025 02:50:12.014] [main/INFO] [ModdingLegacy/structure_gel/Compat/]: Checking for biome dictionary registry methods in other mods.
+[22Apr2025 02:50:12.454] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[22Apr2025 02:50:12.465] [Thread-0/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[22Apr2025 02:50:12.541] [main/INFO] [quark/]: Loading Module Chain Linkage
+[22Apr2025 02:50:12.543] [main/INFO] [quark/]: Loading Module Chains Connect Blocks
+[22Apr2025 02:50:12.543] [main/INFO] [quark/]: Loading Module Chute
+[22Apr2025 02:50:12.543] [main/INFO] [quark/]: Loading Module Color Slime
+[22Apr2025 02:50:12.544] [main/INFO] [quark/]: Loading Module Dispensers Place Blocks
+[22Apr2025 02:50:12.544] [main/INFO] [quark/]: Loading Module Ender Watcher
+[22Apr2025 02:50:12.544] [main/INFO] [quark/]: Loading Module Endermites Form Shulkers
+[22Apr2025 02:50:12.545] [main/INFO] [quark/]: Loading Module Feeding Trough
+[22Apr2025 02:50:12.547] [main/INFO] [quark/]: Loading Module Gravisand
+[22Apr2025 02:50:12.547] [main/INFO] [quark/]: Loading Module Iron Rod
+[22Apr2025 02:50:12.548] [main/INFO] [quark/]: Loading Module Jukebox Automation
+[22Apr2025 02:50:12.550] [main/INFO] [quark/]: Loading Module Metal Buttons
+[22Apr2025 02:50:12.551] [main/INFO] [quark/]: Loading Module Obsidian Plate
+[22Apr2025 02:50:12.551] [main/INFO] [quark/]: Loading Module Pistons Move Tile Entities
+[22Apr2025 02:50:12.553] [main/INFO] [quark/]: Loading Module Redstone Circuit
+[22Apr2025 02:50:12.554] [main/INFO] [quark/]: Loading Module Weather Sensor
+[22Apr2025 02:50:12.554] [main/INFO] [quark/]: Loading Module Bamboo Mat
+[22Apr2025 02:50:12.554] [main/INFO] [quark/]: Loading Module Burn Vines
+[22Apr2025 02:50:12.555] [main/INFO] [quark/]: Loading Module Celebratory Lamps
+[22Apr2025 02:50:12.555] [main/INFO] [quark/]: Loading Module Cobblestone Bricks
+[22Apr2025 02:50:12.556] [main/INFO] [quark/]: Loading Module Compressed Blocks
+[22Apr2025 02:50:12.556] [main/INFO] [quark/]: Loading Module Duskbound Blocks
+[22Apr2025 02:50:12.556] [main/INFO] [quark/]: Loading Module Framed Glass
+[22Apr2025 02:50:12.556] [main/INFO] [quark/]: Loading Module Gold Bars
+[22Apr2025 02:50:12.556] [main/INFO] [quark/]: Loading Module Grate
+[22Apr2025 02:50:12.557] [main/INFO] [quark/]: Loading Module Hedges
+[22Apr2025 02:50:12.557] [main/INFO] [quark/]: Loading Module Iron Plates
+[22Apr2025 02:50:12.557] [main/INFO] [quark/]: Loading Module Item Frames
+[22Apr2025 02:50:12.557] [main/INFO] [quark/]: Loading Module Leaf Carpet
+[22Apr2025 02:50:12.557] [main/INFO] [quark/]: Loading Module Lit Lamp
+[22Apr2025 02:50:12.557] [main/INFO] [quark/]: Loading Module Midori
+[22Apr2025 02:50:12.557] [main/INFO] [quark/]: Loading Module More Brick Types
+[22Apr2025 02:50:12.557] [main/INFO] [quark/]: Loading Module More Potted Plants
+[22Apr2025 02:50:12.557] [main/INFO] [quark/]: Loading Module More Stone Variants
+[22Apr2025 02:50:12.557] [main/INFO] [quark/]: Loading Module Nether Brick Fence Gate
+[22Apr2025 02:50:12.558] [main/INFO] [quark/]: Loading Module Paper Decor
+[22Apr2025 02:50:12.558] [main/INFO] [quark/]: Loading Module Quilted Wool
+[22Apr2025 02:50:12.558] [main/INFO] [quark/]: Loading Module Rope
+[22Apr2025 02:50:12.558] [main/INFO] [quark/]: Loading Module Shallow Dirt
+[22Apr2025 02:50:12.559] [main/INFO] [quark/]: Loading Module Shingles
+[22Apr2025 02:50:12.559] [main/INFO] [quark/]: Loading Module Soul Sandstone
+[22Apr2025 02:50:12.559] [main/INFO] [quark/]: Loading Module Stained Planks
+[22Apr2025 02:50:12.560] [main/INFO] [quark/]: Loading Module Stools
+[22Apr2025 02:50:12.561] [main/INFO] [quark/]: Loading Module Sturdy Stone
+[22Apr2025 02:50:12.561] [main/INFO] [quark/]: Loading Module Tallow And Candles
+[22Apr2025 02:50:12.562] [main/INFO] [quark/]: Loading Module Thatch
+[22Apr2025 02:50:12.562] [main/INFO] [quark/]: Loading Module Tie Leads To Fences
+[22Apr2025 02:50:12.563] [main/INFO] [quark/]: Loading Module Turf
+[22Apr2025 02:50:12.563] [main/INFO] [quark/]: Loading Module Variant Bookshelves
+[22Apr2025 02:50:12.564] [main/INFO] [quark/]: Loading Module Variant Chests
+[22Apr2025 02:50:12.566] [main/INFO] [quark/]: Loading Module Variant Ladders
+[22Apr2025 02:50:12.566] [main/INFO] [quark/]: Loading Module Vertical Planks
+[22Apr2025 02:50:12.566] [main/INFO] [quark/]: Loading Module Vertical Slabs
+[22Apr2025 02:50:12.567] [main/INFO] [quark/]: Loading Module Wooden Posts
+[22Apr2025 02:50:12.567] [main/INFO] [quark/]: Loading Module Chests In Boats
+[22Apr2025 02:50:12.568] [main/INFO] [quark/]: Loading Module Easy Transfering
+[22Apr2025 02:50:12.568] [main/INFO] [quark/]: Loading Module Hotbar Changer
+[22Apr2025 02:50:12.568] [main/INFO] [quark/]: Loading Module Inventory Sorting
+[22Apr2025 02:50:12.568] [main/INFO] [quark/]: Loading Module Item Sharing
+[22Apr2025 02:50:12.569] [main/INFO] [quark/]: Loading Module Right Click Armor
+[22Apr2025 02:50:12.569] [main/INFO] [quark/]: Loading Module Shulker Box Right Click
+[22Apr2025 02:50:12.570] [main/INFO] [quark/]: Loading Module Endermosh Music Disc
+[22Apr2025 02:50:12.571] [main/INFO] [quark/]: Loading Module Abacus
+[22Apr2025 02:50:12.572] [main/INFO] [quark/]: Loading Module Ambient Discs
+[22Apr2025 02:50:12.573] [main/INFO] [quark/]: Loading Module Ancient Tomes
+[22Apr2025 02:50:12.574] [main/INFO] [quark/]: Loading Module Bottled Cloud
+[22Apr2025 02:50:12.575] [main/INFO] [quark/]: Loading Module Camera
+[22Apr2025 02:50:12.575] [main/INFO] [quark/]: Loading Module Color Runes
+[22Apr2025 02:50:12.576] [main/INFO] [quark/]: Loading Module Pathfinder Maps
+[22Apr2025 02:50:12.577] [main/INFO] [quark/]: Loading Module Pickarang
+[22Apr2025 02:50:12.578] [main/INFO] [quark/]: Loading Module Seed Pouch
+[22Apr2025 02:50:12.579] [main/INFO] [quark/]: Loading Module Slime In A Bucket
+[22Apr2025 02:50:12.580] [main/INFO] [quark/]: Loading Module Trowel
+[22Apr2025 02:50:12.580] [main/INFO] [quark/]: Loading Module Skull Pikes
+[22Apr2025 02:50:12.582] [main/INFO] [quark/]: Loading Module Armed Armor Stands
+[22Apr2025 02:50:12.583] [main/INFO] [quark/]: Loading Module Automatic Recipe Unlock
+[22Apr2025 02:50:12.584] [main/INFO] [quark/]: Loading Module Axe Leaf Harvesting
+[22Apr2025 02:50:12.585] [main/INFO] [quark/]: Loading Module Better Elytra Rocket
+[22Apr2025 02:50:12.586] [main/INFO] [quark/]: Loading Module Campfires Boost Elytra
+[22Apr2025 02:50:12.586] [main/INFO] [quark/]: Loading Module Compasses Work Everywhere
+[22Apr2025 02:50:12.587] [main/INFO] [quark/]: Loading Module Dirt To Path
+[22Apr2025 02:50:12.589] [main/INFO] [quark/]: Loading Module Double Door Opening
+[22Apr2025 02:50:12.589] [main/INFO] [quark/]: Loading Module Dragon Scales
+[22Apr2025 02:50:12.589] [main/INFO] [quark/]: Loading Module Emotes
+[22Apr2025 02:50:12.590] [main/INFO] [quark/]: Loading Module Enhanced Ladders
+[22Apr2025 02:50:12.591] [main/INFO] [quark/]: Loading Module Glass Shard
+[22Apr2025 02:50:12.592] [main/INFO] [quark/]: Loading Module Hoe Harvesting
+[22Apr2025 02:50:12.593] [main/INFO] [quark/]: Loading Module Improved Sleeping
+[22Apr2025 02:50:12.596] [main/INFO] [quark/]: Loading Module Infinity Bucket
+[22Apr2025 02:50:12.598] [main/INFO] [quark/]: Loading Module Lava Bucket As Trash
+[22Apr2025 02:50:12.599] [main/INFO] [quark/]: Loading Module Lock Rotation
+[22Apr2025 02:50:12.601] [main/INFO] [quark/]: Loading Module More Banner Layers
+[22Apr2025 02:50:12.601] [main/INFO] [quark/]: Loading Module Note Block Mob Sounds
+[22Apr2025 02:50:12.602] [main/INFO] [quark/]: Loading Module Pat The Dogs
+[22Apr2025 02:50:12.606] [main/INFO] [quark/]: Loading Module Poison Potato Usage
+[22Apr2025 02:50:12.607] [main/INFO] [quark/]: Loading Module Reacharound Placing
+[22Apr2025 02:50:12.607] [main/INFO] [quark/]: Loading Module Replace Scaffolding
+[22Apr2025 02:50:12.608] [main/INFO] [quark/]: Loading Module Sign Editing
+[22Apr2025 02:50:12.609] [main/INFO] [quark/]: Loading Module Simple Harvest
+[22Apr2025 02:50:12.610] [main/INFO] [quark/]: Loading Module Snow Golem Player Heads
+[22Apr2025 02:50:12.612] [main/INFO] [quark/]: Loading Module Springy Slime
+[22Apr2025 02:50:12.612] [main/INFO] [quark/]: Loading Module Utility Recipes
+[22Apr2025 02:50:12.614] [main/INFO] [quark/]: Loading Module Villagers Follow Emeralds
+[22Apr2025 02:50:12.615] [main/INFO] [quark/]: Loading Module Big Dungeon
+[22Apr2025 02:50:12.616] [main/INFO] [quark/]: Loading Module Big Stone Clusters
+[22Apr2025 02:50:12.618] [main/INFO] [quark/]: Loading Module Biotite
+[22Apr2025 02:50:12.618] [main/INFO] [quark/]: Loading Module Blossom Trees
+[22Apr2025 02:50:12.619] [main/INFO] [quark/]: Loading Module Cave Roots
+[22Apr2025 02:50:12.619] [main/INFO] [quark/]: Loading Module Chorus Vegetation
+[22Apr2025 02:50:12.620] [main/INFO] [quark/]: Loading Module Crevices
+[22Apr2025 02:50:12.620] [main/INFO] [quark/]: Loading Module Deepslate
+[22Apr2025 02:50:12.620] [main/INFO] [quark/]: Loading Module Fairy Rings
+[22Apr2025 02:50:12.621] [main/INFO] [quark/]: Loading Module Mega Caves
+[22Apr2025 02:50:12.624] [main/INFO] [quark/]: Loading Module Monster Box
+[22Apr2025 02:50:12.627] [main/INFO] [quark/]: Loading Module Nether Obsidian Spikes
+[22Apr2025 02:50:12.627] [main/INFO] [quark/]: Loading Module New Stone Types
+[22Apr2025 02:50:12.628] [main/INFO] [quark/]: Loading Module Realistic World Gen
+[22Apr2025 02:50:12.628] [main/INFO] [quark/]: Loading Module Speleothems
+[22Apr2025 02:50:12.629] [main/INFO] [quark/]: Loading Module Spiral Spires
+[22Apr2025 02:50:12.631] [main/INFO] [quark/]: Loading Module Underground Clay
+[22Apr2025 02:50:12.631] [main/INFO] [quark/]: Loading Module Brimstone Underground Biome
+[22Apr2025 02:50:12.631] [main/INFO] [quark/]: Loading Module Cave Crystal Underground Biome
+[22Apr2025 02:50:12.632] [main/INFO] [quark/]: Loading Module Elder Prismarine Underground Biome
+[22Apr2025 02:50:12.632] [main/INFO] [quark/]: Loading Module Glowshroom Underground Biome
+[22Apr2025 02:50:12.632] [main/INFO] [quark/]: Loading Module Lush Underground Biome
+[22Apr2025 02:50:12.632] [main/INFO] [quark/]: Loading Module Overgrown Underground Biome
+[22Apr2025 02:50:12.633] [main/INFO] [quark/]: Loading Module Permafrost Underground Biome
+[22Apr2025 02:50:12.633] [main/INFO] [quark/]: Loading Module Sandstone Underground Biome
+[22Apr2025 02:50:12.633] [main/INFO] [quark/]: Loading Module Slime Underground Biome
+[22Apr2025 02:50:12.633] [main/INFO] [quark/]: Loading Module Spider Nest Underground Biome
+[22Apr2025 02:50:12.635] [main/INFO] [quark/]: Loading Module Crabs
+[22Apr2025 02:50:12.636] [main/INFO] [quark/]: Loading Module Forgotten
+[22Apr2025 02:50:12.637] [main/INFO] [quark/]: Loading Module Foxhound
+[22Apr2025 02:50:12.638] [main/INFO] [quark/]: Loading Module Frogs
+[22Apr2025 02:50:12.646] [main/INFO] [quark/]: Loading Module Stonelings
+[22Apr2025 02:50:12.647] [main/INFO] [quark/]: Loading Module Toretoise
+[22Apr2025 02:50:12.648] [main/INFO] [quark/]: Loading Module Wraith
+[22Apr2025 02:50:12.648] [main/INFO] [quark/]: Loading Module Auto Walk Keybind
+[22Apr2025 02:50:12.648] [main/INFO] [quark/]: Loading Module Back Button Keybind
+[22Apr2025 02:50:12.648] [main/INFO] [quark/]: Loading Module Chest Searching
+[22Apr2025 02:50:12.649] [main/INFO] [quark/]: Loading Module Greener Grass
+[22Apr2025 02:50:12.649] [main/INFO] [quark/]: Loading Module Improved Mount Hud
+[22Apr2025 02:50:12.649] [main/INFO] [quark/]: Loading Module Improved Tooltips
+[22Apr2025 02:50:12.649] [main/INFO] [quark/]: Loading Module Usage Ticker
+[22Apr2025 02:50:12.649] [main/INFO] [quark/]: Loading Module Variant Animal Textures
+[22Apr2025 02:50:12.649] [main/INFO] [quark/]: Loading Module Backpack
+[22Apr2025 02:50:12.649] [main/INFO] [quark/]: Loading Module Crate
+[22Apr2025 02:50:12.649] [main/INFO] [quark/]: Loading Module Magnets
+[22Apr2025 02:50:12.649] [main/INFO] [quark/]: Loading Module Matrix Enchanting
+[22Apr2025 02:50:12.650] [main/INFO] [quark/]: Loading Module Pipes
+[22Apr2025 02:50:12.650] [main/INFO] [quark/]: Loading Module Totem Of Holding
+[22Apr2025 02:50:12.650] [main/INFO] [quark/]: Loading Module Adjustable Chat
+[22Apr2025 02:50:12.650] [main/INFO] [quark/]: Loading Module Custom Underground Biome
+[22Apr2025 02:50:12.651] [main/INFO] [quark/]: Loading Module Game Nerfs
+[22Apr2025 02:50:12.652] [main/INFO] [quark/]: Loading Module Microcrafting Helper
+[22Apr2025 02:50:12.653] [main/INFO] [quark/]: Loading Module Narrator Readout
+[22Apr2025 02:50:12.653] [main/INFO] [quark/]: Loading Module Overlay Shader
+[22Apr2025 02:50:12.653] [main/INFO] [quark/]: Loading Module Pallet
+[22Apr2025 02:50:12.653] [main/INFO] [quark/]: Loading Module Shiba
+[22Apr2025 02:50:12.797] [modloading-worker-2/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for hexerei:pigeon, use EntityAttributeCreationEvent instead.
+[22Apr2025 02:50:12.890] [modloading-worker-2/INFO] [dev.itsmeow.betteranimalsplus.BetterAnimalsPlusMod/]: Overspawning lammergeiers...
+[22Apr2025 02:50:12.892] [modloading-worker-2/INFO] [Bookshelf/]: Registering 3 command argument types.
+[22Apr2025 02:50:12.895] [modloading-worker-2/INFO] [Bookshelf/]: Registering 13 loot conditions.
+[22Apr2025 02:50:12.982] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moremcmeta] Starting version check at https://moremcmeta.github.io/update/core.json
+[22Apr2025 02:50:13.057] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[22Apr2025 02:50:13.059] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moremcmeta] Found status: UP_TO_DATE Current: 1.16.5-4.4.7 Target: null
+[22Apr2025 02:50:13.060] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[22Apr2025 02:50:13.092] [modloading-worker-3/INFO] [lostcities/]: Creating standard profiles into 'config/lostcities/profiles'
+[22Apr2025 02:50:13.151] [modloading-worker-2/INFO] [gobber2/]: Gobber common setup
+[22Apr2025 02:50:13.151] [modloading-worker-2/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[22Apr2025 02:50:13.156] [modloading-worker-3/INFO] [lostcities/]: Reading existing profiles from 'config/lostcities/profiles'
+[22Apr2025 02:50:13.207] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:forgotten, use EntityAttributeCreationEvent instead.
+[22Apr2025 02:50:13.212] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:foxhound, use EntityAttributeCreationEvent instead.
+[22Apr2025 02:50:13.232] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:crab, use EntityAttributeCreationEvent instead.
+[22Apr2025 02:50:13.233] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:leash_knot_fake, use EntityAttributeCreationEvent instead.
+[22Apr2025 02:50:13.235] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:frog, use EntityAttributeCreationEvent instead.
+[22Apr2025 02:50:13.236] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 java.lang.NullPointerException: null
 	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:160) ~[forge:?]
 	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
 	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
 	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
-[22Apr2025 01:49:28.495] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.16.5
-[22Apr2025 01:49:28.500] [modloading-worker-2/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
-[22Apr2025 01:49:28.502] [modloading-worker-1/INFO] [lostcities/]: Reading existing profiles from 'config/lostcities/profiles'
-[22Apr2025 01:49:28.506] [modloading-worker-3/INFO] [gobber2/]: Gobber common setup
-[22Apr2025 01:49:28.543] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:wrapped, use EntityAttributeCreationEvent instead.
-[22Apr2025 01:49:28.568] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:shiba, use EntityAttributeCreationEvent instead.
-[22Apr2025 01:49:28.572] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:wraith, use EntityAttributeCreationEvent instead.
-[22Apr2025 01:49:28.583] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:stoneling, use EntityAttributeCreationEvent instead.
-[22Apr2025 01:49:28.585] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:leash_knot_fake, use EntityAttributeCreationEvent instead.
-[22Apr2025 01:49:28.589] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:frog, use EntityAttributeCreationEvent instead.
-[22Apr2025 01:49:28.590] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:forgotten, use EntityAttributeCreationEvent instead.
-[22Apr2025 01:49:28.590] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:foxhound, use EntityAttributeCreationEvent instead.
-[22Apr2025 01:49:28.594] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:toretoise, use EntityAttributeCreationEvent instead.
-[22Apr2025 01:49:28.770] [main/INFO] [journeymap/]: Initializing Packet Registries
-[22Apr2025 01:49:28.893] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 10.4.33 Target: 10.4.33
-[22Apr2025 01:49:28.893] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[22Apr2025 01:49:29.076] [modloading-worker-1/INFO] [gobber2/]: Gobber server setup
-[22Apr2025 01:49:29.093] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
-[22Apr2025 01:49:29.096] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchantmentdescriptions&gv=1.16.5
-[22Apr2025 01:49:29.198] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 7.1.27 Target: 7.1.27
-[22Apr2025 01:49:29.200] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.14/update.json
-[22Apr2025 01:49:29.212] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 4.10.0 Target: null
-[22Apr2025 01:49:29.213] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentgear] Starting version check at https://raw.githubusercontent.com/SilentChaos512/Silent-Gear/1.16.x/update.json
-[22Apr2025 01:49:29.224] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentgear] Found status: UP_TO_DATE Current: 2.6.36 Target: null
-[22Apr2025 01:49:29.224] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://maxhenkel.de/update/gravestone.json
-[22Apr2025 01:49:29.815] [modloading-worker-1/INFO] [gobber2/]: Gobber IMC setup
-[22Apr2025 01:49:29.835] [modloading-worker-2/INFO] [ModdingLegacy/structure_gel/]: Attempting to register unregistered biomes to the biome dictionary. This can be disabled via config.
-[22Apr2025 01:49:30.325] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[22Apr2025 02:50:13.236] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.16.5
+[22Apr2025 02:50:13.247] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:wrapped, use EntityAttributeCreationEvent instead.
+[22Apr2025 02:50:13.252] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:wraith, use EntityAttributeCreationEvent instead.
+[22Apr2025 02:50:13.275] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:toretoise, use EntityAttributeCreationEvent instead.
+[22Apr2025 02:50:13.299] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:stoneling, use EntityAttributeCreationEvent instead.
+[22Apr2025 02:50:13.304] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:shiba, use EntityAttributeCreationEvent instead.
+[22Apr2025 02:50:13.464] [main/INFO] [journeymap/]: Initializing Packet Registries
+[22Apr2025 02:50:13.622] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 10.4.33 Target: 10.4.33
+[22Apr2025 02:50:13.622] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[22Apr2025 02:50:13.766] [modloading-worker-3/INFO] [gobber2/]: Gobber server setup
+[22Apr2025 02:50:13.851] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
+[22Apr2025 02:50:13.851] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchantmentdescriptions&gv=1.16.5
+[22Apr2025 02:50:13.958] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 7.1.27 Target: 7.1.27
+[22Apr2025 02:50:13.958] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.14/update.json
+[22Apr2025 02:50:13.980] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 4.10.0 Target: null
+[22Apr2025 02:50:13.983] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentgear] Starting version check at https://raw.githubusercontent.com/SilentChaos512/Silent-Gear/1.16.x/update.json
+[22Apr2025 02:50:14.001] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentgear] Found status: UP_TO_DATE Current: 2.6.36 Target: null
+[22Apr2025 02:50:14.004] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://maxhenkel.de/update/gravestone.json
+[22Apr2025 02:50:14.714] [modloading-worker-2/INFO] [gobber2/]: Gobber IMC setup
+[22Apr2025 02:50:14.742] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Attempting to register unregistered biomes to the biome dictionary. This can be disabled via config.
+[22Apr2025 02:50:15.067] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 java.lang.NullPointerException: null
 	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:160) ~[forge:?]
 	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
 	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
 	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
-[22Apr2025 01:49:30.326] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastleafdecay] Starting version check at http://olafkeijsers.net/fastleafdecay-update.json
-[22Apr2025 01:49:30.551] [modloading-worker-2/INFO] [ModdingLegacy/structure_gel/]: Registered environmental:marsh to structure_gel:[]
-[22Apr2025 01:49:30.552] [modloading-worker-2/INFO] [ModdingLegacy/structure_gel/]: Registered environmental:blossom_woods to structure_gel:[]
-[22Apr2025 01:49:30.552] [modloading-worker-2/INFO] [ModdingLegacy/structure_gel/]: Registered cavesandcliffs:lush_caves to structure_gel:[]
-[22Apr2025 01:49:30.553] [modloading-worker-2/INFO] [ModdingLegacy/structure_gel/]: Registered hexerei:willow_swamp to structure_gel:[]
-[22Apr2025 01:49:30.553] [modloading-worker-2/INFO] [ModdingLegacy/structure_gel/]: Registered cavesandcliffs:meadow to structure_gel:[]
-[22Apr2025 01:49:30.553] [modloading-worker-2/INFO] [ModdingLegacy/structure_gel/]: Registered cavebiomeapi:cave to structure_gel:[]
-[22Apr2025 01:49:30.554] [modloading-worker-2/INFO] [ModdingLegacy/structure_gel/]: Registered environmental:blossom_hills to structure_gel:[]
-[22Apr2025 01:49:30.554] [modloading-worker-2/INFO] [ModdingLegacy/structure_gel/]: Registered environmental:mushroom_marsh to structure_gel:[]
-[22Apr2025 01:49:30.555] [modloading-worker-2/INFO] [ModdingLegacy/structure_gel/]: Registered environmental:blossom_highlands to structure_gel:[]
-[22Apr2025 01:49:30.555] [modloading-worker-2/INFO] [ModdingLegacy/structure_gel/]: Registered cavesandcliffs:grove to structure_gel:[]
-[22Apr2025 01:49:30.555] [modloading-worker-2/INFO] [ModdingLegacy/structure_gel/]: Registered cavesandcliffs:frozen_peaks to structure_gel:[]
-[22Apr2025 01:49:30.556] [modloading-worker-2/INFO] [ModdingLegacy/structure_gel/]: Registered cavesandcliffs:jagged_peaks to structure_gel:[]
-[22Apr2025 01:49:30.557] [modloading-worker-2/INFO] [ModdingLegacy/structure_gel/]: Registered cavesandcliffs:dripstone_caves to structure_gel:[]
-[22Apr2025 01:49:30.557] [modloading-worker-2/INFO] [ModdingLegacy/structure_gel/]: Registered environmental:blossom_valleys to structure_gel:[]
-[22Apr2025 01:49:30.558] [modloading-worker-2/INFO] [ModdingLegacy/structure_gel/]: Registered cavesandcliffs:stony_peaks to structure_gel:[]
-[22Apr2025 01:49:30.558] [modloading-worker-2/INFO] [ModdingLegacy/structure_gel/]: Registered cavesandcliffs:snowy_slopes to structure_gel:[]
-[22Apr2025 01:49:30.558] [modloading-worker-2/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_plus:tower
-[22Apr2025 01:49:30.559] [modloading-worker-2/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_plus:bigger_dungeon
-[22Apr2025 01:49:30.560] [modloading-worker-2/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_plus:leviathan
-[22Apr2025 01:49:30.560] [modloading-worker-2/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_plus:snowy_temple
-[22Apr2025 01:49:30.561] [modloading-worker-2/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_plus:end_ruins
-[22Apr2025 01:49:30.561] [modloading-worker-2/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_plus:warped_garden
-[22Apr2025 01:49:30.562] [modloading-worker-2/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_plus:soul_prison
-[22Apr2025 01:49:30.726] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastleafdecay] Found status: UP_TO_DATE Current: v25.2 Target: null
-[22Apr2025 01:49:39.320] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22Apr2025 01:49:40.512] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [mahousummon, treasury, stack, pos, anim_speed, proj_speed, acc, r, g, b, aim] and [mahousummon, treasury, stack, pos, anim_speed, proj_speed, acc, r, g, b, target] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22Apr2025 01:49:40.513] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [mahousummon, wepproj, stack, pos, proj_speed, acc, aim] and [mahousummon, wepproj, stack, pos, proj_speed, acc, target] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22Apr2025 01:49:40.519] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[22Apr2025 01:49:40.520] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22Apr2025 01:49:40.521] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22Apr2025 01:49:40.523] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[22Apr2025 01:49:40.524] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22Apr2025 01:49:40.531] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [waypoint, create, name, dimension, location, color, announce] and [waypoint, create, name, dimension, location, color, player] with inputs: [true, false]
-[22Apr2025 01:49:40.532] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [waypoint, delete, name, announce] and [waypoint, delete, name, player] with inputs: [true, false]
-[22Apr2025 01:49:40.590] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.42-universal.jar, hexerei-0.1.4.jar, mowziesmobs-1.5.27.jar, moremcmeta-1.16.5-4.4.7-forge.jar, Cucumber-1.16.5-4.1.12.jar, spiders-2.0-1.16.4-1.0.4.jar, abnormals_core-1.16.5-3.3.1.jar, obscure_api-11.jar, Neat 1.7-27.jar, IronJetpacks-1.16.5-4.2.3.jar, epicfight-16.6.5.jar, journeymap-1.16.5-5.8.6.jar, citadel-1.8.1-1.16.5.jar, alexsmobs-1.12.1.jar, environmental-1.16.5-1.1.1.jar, betteranimalsplus-1.16.5-11.0.10-forge.jar, Bookshelf-Forge-1.16.5-10.4.33.jar, sophisticatedbackpacks-1.16.5-3.15.20.755.jar, mahoutsukai-1.16.5-v1.34.62.jar, iceandfire-2.1.12-1.16.5-patch-1.jar, tl_skin_cape_forge_1.16.5-1.19.jar, structure_gel-1.16.5-1.7.8.jar, ironchest-1.16.5-11.2.21.jar, libIPN-forge-1.16-3.0.2.jar, EnchantmentDescriptions-1.16.5-7.1.27.jar, titanium-1.16.5-3.2.8.9-25.jar, silent-lib-1.16.5-4.10.0.jar, BiomesOPlenty-1.16.5-13.1.0.488-universal.jar, ironfurnaces-1.16.5-2.7.7.jar, dungeons_plus-1.16.5-1.1.5.jar, Platform-forge-1.16.5-1.2.5.jar, silent-gear-1.16.5-2.6.36.jar, simplylight-1.16.5-1.4.2-build.32.jar, cavesandcliffs-1.16.5-7.2.0.jar, RoughlyEnoughItems-6.5.436.jar, portality-1.16.5-3.2.5.jar, RoughlyEnoughItems-jei-internals-workaround-6.5.436.jar, curios-forge-1.16.5-4.1.0.0.jar, rereskillable-1.16.5-1.3.6.jar, SpartanShields-1.16.5-2.1.2.jar, gravestone-1.16.5-1.0.7.jar, AutoRegLib-1.6-49.jar, Quark-r2.4-322.jar, lostcities-1.16-4.0.12-beta.jar, elevatorid-1.16.5-1.7.13.jar, Gobber2-Forge-1.16.5-2.3.55.jar, CaveBiomeAPI-forge-2.0.0.jar, SpartanWeaponry-1.16.5-2.2.2.jar, InventoryProfilesNext-forge-1.16-1.10.602.jar, architectury-1.32.68.jar, cleardropsmod-1.0.0.jar, cloth-config-4.17.101-forge.jar, FastLeafDecay-v25.2.jar, CosmeticArmorReworked-1.16.5-v5a.jar, geckolib-forge-1.16.5-3.0.106.jar, aquamirae-5.4.API11.jar
-[22Apr2025 01:49:43.515] [Worker-Main-4/INFO] [com.minecraftabnormals.abnormals_core.core.AbnormalsCore/]: Loot Modification Manager has loaded 0 sets of modifiers
-[22Apr2025 01:49:43.780] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 15 recipes
-[22Apr2025 01:49:44.046] [Worker-Main-4/INFO] [com.minecraftabnormals.abnormals_core.core.AbnormalsCore/]: Advancement Modification Manager has loaded 7 sets of modifiers
-[22Apr2025 01:49:44.736] [Worker-Main-4/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
-[22Apr2025 01:49:44.834] [Worker-Main-4/INFO] [Silent Gear/]: Injecting loot table 'silentgear:inject/chests/ruined_portal' into 'minecraft:chests/ruined_portal'
-[22Apr2025 01:49:45.008] [Worker-Main-4/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
-[22Apr2025 01:49:45.147] [Worker-Main-4/INFO] [Silent Gear/]: Injecting loot table 'silentgear:inject/chests/bastion_bridge' into 'minecraft:chests/bastion_bridge'
-[22Apr2025 01:49:45.330] [Worker-Main-4/INFO] [Silent Gear/]: Injecting loot table 'silentgear:inject/chests/bastion_treasure' into 'minecraft:chests/bastion_treasure'
-[22Apr2025 01:49:45.477] [Worker-Main-4/INFO] [Silent Gear/]: Injecting loot table 'silentgear:inject/chests/nether_bridge' into 'minecraft:chests/nether_bridge'
-[22Apr2025 01:49:45.586] [Worker-Main-4/INFO] [Silent Gear/]: Injecting loot table 'silentgear:inject/entities/spider' into 'minecraft:entities/spider'
-[22Apr2025 01:49:45.732] [Worker-Main-4/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
-[22Apr2025 01:49:46.091] [Worker-Main-4/INFO] [Silent Gear/]: Injecting loot table 'silentgear:inject/entities/cave_spider' into 'minecraft:entities/cave_spider'
-[22Apr2025 01:49:46.297] [Worker-Main-4/INFO] [Silent Gear/]: Injecting loot table 'silentgear:inject/chests/bastion_other' into 'minecraft:chests/bastion_other'
-[22Apr2025 01:49:46.358] [Worker-Main-4/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {alexsmobs:gameplay/seal_reward}.pools[0].entries[1].functions[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
-[22Apr2025 01:49:46.604] [Worker-Main-4/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2245 advancements
-[22Apr2025 01:49:46.656] [Worker-Main-4/INFO] [com.minecraftabnormals.environmental.common.slabfish.SlabfishLoader/]: Loaded 55 Slabfish Types
-[22Apr2025 01:49:46.658] [Worker-Main-4/INFO] [com.minecraftabnormals.environmental.common.slabfish.SlabfishLoader/]: Loaded 16 Sweater Types
-[22Apr2025 01:49:46.658] [Worker-Main-4/INFO] [com.minecraftabnormals.environmental.common.slabfish.SlabfishLoader/]: Loaded 19 Backpack Types
-[22Apr2025 01:49:46.737] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Reloading trait files
-[22Apr2025 01:49:46.751] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:not'
-[22Apr2025 01:49:46.756] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:and'
-[22Apr2025 01:49:46.758] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:or'
-[22Apr2025 01:49:46.761] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:gear_type'
-[22Apr2025 01:49:46.764] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:material_count'
-[22Apr2025 01:49:46.768] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:material_ratio'
-[22Apr2025 01:49:46.772] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:primary_material'
-[22Apr2025 01:49:46.779] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:simple_trait'
-[22Apr2025 01:49:46.784] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:damage_type_trait'
-[22Apr2025 01:49:46.785] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:durability_trait'
-[22Apr2025 01:49:46.791] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:enchantment_trait'
-[22Apr2025 01:49:46.796] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:nbt_trait'
-[22Apr2025 01:49:46.798] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:potion_effect_trait'
-[22Apr2025 01:49:46.803] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:stat_modifier_trait'
-[22Apr2025 01:49:46.809] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:attribute_trait'
-[22Apr2025 01:49:46.814] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:block_placer'
-[22Apr2025 01:49:46.821] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:block_filler'
-[22Apr2025 01:49:46.822] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:synergy'
-[22Apr2025 01:49:46.827] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:target_effect'
-[22Apr2025 01:49:46.829] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:bonus_drops'
-[22Apr2025 01:49:46.831] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:cancel_effects'
-[22Apr2025 01:49:46.832] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:self_repair'
-[22Apr2025 01:49:46.834] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:stellar'
-[22Apr2025 01:49:46.866] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered 67 traits
-[22Apr2025 01:49:46.936] [Worker-Main-4/INFO] [Silent Gear/PartManager]: Reloading part files
-[22Apr2025 01:49:46.965] [Worker-Main-4/INFO] [Silent Gear/PartManager]: Registered part serializer 'silentgear:compound_part'
-[22Apr2025 01:49:46.965] [Worker-Main-4/INFO] [Silent Gear/PartManager]: Registered part serializer 'silentgear:misc_upgrade'
-[22Apr2025 01:49:47.010] [Worker-Main-4/INFO] [Silent Gear/PartManager]: Registered 45 parts
-[22Apr2025 01:49:47.030] [Worker-Main-4/INFO] [Silent Gear/MaterialManager]: Reloading material files
-[22Apr2025 01:49:47.040] [Worker-Main-4/INFO] [Silent Gear/MaterialManager]: Registered material serializer 'silentgear:standard'
-[22Apr2025 01:49:47.042] [Worker-Main-4/INFO] [Silent Gear/MaterialManager]: Registered material serializer 'silentgear:compound'
-[22Apr2025 01:49:47.043] [Worker-Main-4/INFO] [Silent Gear/MaterialManager]: Registered material serializer 'silentgear:custom_compound'
-[22Apr2025 01:49:47.045] [Worker-Main-4/INFO] [Silent Gear/MaterialManager]: Registered material serializer 'silentgear:crafted'
-[22Apr2025 01:49:47.083] [Worker-Main-4/INFO] [Silent Gear/]: Skipped loading 26 material(s), as their conditions were not met. This is usually NOT an error!
-[22Apr2025 01:49:47.084] [Worker-Main-4/INFO] [Silent Gear/]: Skipped materials: silentgear:aluminum, silentgear:aluminum_steel, silentgear:bismuth, silentgear:bismuth_brass, silentgear:bismuth_steel, silentgear:brass, silentgear:bronze, silentgear:compressed_iron, silentgear:electrum, silentgear:enderium, silentgear:invar, silentgear:lead, silentgear:lumium, silentgear:nickel, silentgear:osmium, silentgear:platinum, silentgear:redstone_alloy, silentgear:refined_glowstone, silentgear:refined_iron, silentgear:refined_obsidian, silentgear:signalum, silentgear:steel, silentgear:tin, silentgear:titanium, silentgear:uranium, silentgear:zinc
-[22Apr2025 01:49:47.177] [Worker-Main-4/INFO] [REI/]: Reloading Plugin Manager [REIPlugin] stage [START], registered 3 plugins: DefaultRuntimePlugin [roughlyenoughitems], JEIExtraPlugin [roughlyenoughitems], DefaultPlugin [roughlyenoughitems]
-[22Apr2025 01:49:47.252] [Worker-Main-4/INFO] [REI/]: Reloaded Plugin Manager [REIPlugin] with 2 entry types, 5 item comparators, 0 fluid comparators and 2 fluid support providers in 92ms.
-[22Apr2025 01:49:47.253] [Worker-Main-4/INFO] [REI/]: Reloading Plugin Manager [REIServerPlugin] stage [START], registered 3 plugins: DefaultRuntimePlugin [roughlyenoughitems], JEIExtraPlugin [roughlyenoughitems], DefaultPlugin [roughlyenoughitems]
-[22Apr2025 01:49:47.259] [Worker-Main-4/INFO] [REI/]: Reloaded Plugin Manager [REIServerPlugin] with 0 menu infos in 7ms.
-[22Apr2025 01:49:47.275] [Worker-Main-4/INFO] [REI/]: Reloading Plugin Manager [REIPlugin] stage [END], registered 3 plugins: DefaultRuntimePlugin [roughlyenoughitems], JEIExtraPlugin [roughlyenoughitems], DefaultPlugin [roughlyenoughitems]
-[22Apr2025 01:49:47.376] [Worker-Main-4/INFO] [REI/]: Reloaded Plugin Manager [REIPlugin] with 2 entry types, 5 item comparators, 0 fluid comparators and 2 fluid support providers in 107ms.
-[22Apr2025 01:49:47.377] [Worker-Main-4/INFO] [REI/]: Reloading Plugin Manager [REIServerPlugin] stage [END], registered 3 plugins: DefaultRuntimePlugin [roughlyenoughitems], JEIExtraPlugin [roughlyenoughitems], DefaultPlugin [roughlyenoughitems]
-[22Apr2025 01:49:47.402] [Worker-Main-4/INFO] [REI/]: Reloaded Plugin Manager [REIServerPlugin] with 5 menu infos in 26ms.
-[22Apr2025 01:49:47.415] [Worker-Main-4/INFO] [Cucumber Library/]: Loaded cucumber-tags.json in 2 ms
-[22Apr2025 01:49:53.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
-[22Apr2025 01:49:53.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[22Apr2025 01:49:53.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[22Apr2025 01:49:53.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[22Apr2025 01:49:53.826] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[22Apr2025 01:49:53.863] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
-[22Apr2025 01:49:53.947] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22Apr2025 01:49:53.947] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[22Apr2025 01:49:53.948] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22Apr2025 01:49:53.948] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[22Apr2025 01:49:53.974] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[22Apr2025 01:49:53.974] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[22Apr2025 01:49:53.975] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[22Apr2025 01:49:54.344] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[22Apr2025 01:49:54.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[22Apr2025 01:49:55.368] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[22Apr2025 01:49:55.368] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[22Apr2025 01:49:55.605] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[22Apr2025 01:49:55.874] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 1396 ms
-[22Apr2025 01:49:55.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (1.909s)! For help, type "help"
-[22Apr2025 01:49:55.925] [Server thread/INFO] [net.joefoxe.hexerei.Hexerei/]: HELLO from server starting
-[22Apr2025 01:49:55.959] [Server thread/INFO] [net.joefoxe.hexerei.Hexerei/]: HELLO from server starting
-[22Apr2025 01:49:55.964] [Server thread/INFO] [Spartan Weaponry/]: Starting up Server for Spartan Weaponry!
-[22Apr2025 01:49:55.980] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=false, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, GORGON_TEMPLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, MAUSOLEUM_CF=true, ICE_DRAGON_CAVE_CF=true, GRAVEYARD_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=true, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
-[22Apr2025 01:49:55.980] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[22Apr2025 01:49:55.983] [Server thread/INFO] [Silent Gear/TraitManager]: Traits loaded: 67
-[22Apr2025 01:49:55.983] [Server thread/INFO] [Silent Gear/PartManager]: Parts loaded: 45
-[22Apr2025 01:49:55.984] [Server thread/INFO] [Silent Gear/PartManager]: - Compound: 41
-[22Apr2025 01:49:55.984] [Server thread/INFO] [Silent Gear/PartManager]: - Simple: 4
-[22Apr2025 01:49:55.984] [Server thread/INFO] [Silent Gear/MaterialManager]: Materials loaded: 101
-[22Apr2025 01:49:55.985] [Server thread/INFO] [Silent Gear/MaterialManager]: - Standard: 95
-[22Apr2025 01:50:36.693] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3cf3dc26
-[22Apr2025 01:50:36.754] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Camilo0812A[/127.127.19.167:60623] logged in with entity id 49 at (-161.5, 67.0, 70.5)
-[22Apr2025 01:50:36.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilo0812A joined the game
-[22Apr2025 01:50:37.443] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityJellyfish from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[22Apr2025 01:50:37.444] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityJellyfish from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
-[22Apr2025 01:50:37.876] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityTurkey from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[22Apr2025 01:50:37.917] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityBearNeutral from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[22Apr2025 01:51:17.385] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityDragonfly from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[22Apr2025 01:51:17.386] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityDragonfly from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
-[22Apr2025 01:51:21.635] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityLamprey from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[22Apr2025 01:51:21.635] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityLamprey from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
-[22Apr2025 01:55:00.636] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityBobbitWorm from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[22Apr2025 01:55:53.921] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@23b326a4
-[22Apr2025 01:55:53.943] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DARKFIRE[/127.9.21.201:35253] logged in with entity id 784 at (34.70569080604544, 67.0, -360.48718081119176)
-[22Apr2025 01:55:53.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE joined the game
-[22Apr2025 01:56:38.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> ya que entro, me retiro, buena noche
-[22Apr2025 01:56:47.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DARKFIRE> ty thank
-[22Apr2025 01:56:50.029] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityGoose from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[22Apr2025 01:56:50.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> a mimir
-[22Apr2025 01:56:53.106] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Camilo0812A lost connection: Disconnected
-[22Apr2025 01:56:53.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilo0812A left the game
-[22Apr2025 01:57:32.364] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
-[22Apr2025 01:58:12.561] [Worker-Main-11/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntitySongbird from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[22Apr2025 01:58:23.827] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityDeer from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[22Apr2025 02:01:11.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was slain by Vindicator
-[22Apr2025 02:01:24.936] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityButterfly from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[22Apr2025 02:01:24.937] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityButterfly from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
-[22Apr2025 02:05:45.997] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was shot by Pillager
-[22Apr2025 02:06:02.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was slain by Vindicator
-[22Apr2025 02:06:29.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was slain by Vindicator
+[22Apr2025 02:50:15.072] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastleafdecay] Starting version check at http://olafkeijsers.net/fastleafdecay-update.json
+[22Apr2025 02:50:15.433] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastleafdecay] Found status: UP_TO_DATE Current: v25.2 Target: null
+[22Apr2025 02:50:15.461] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered environmental:marsh to structure_gel:[]
+[22Apr2025 02:50:15.462] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered environmental:blossom_woods to structure_gel:[]
+[22Apr2025 02:50:15.462] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered cavesandcliffs:lush_caves to structure_gel:[]
+[22Apr2025 02:50:15.462] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered hexerei:willow_swamp to structure_gel:[]
+[22Apr2025 02:50:15.462] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered cavesandcliffs:meadow to structure_gel:[]
+[22Apr2025 02:50:15.463] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered cavebiomeapi:cave to structure_gel:[]
+[22Apr2025 02:50:15.463] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered environmental:blossom_hills to structure_gel:[]
+[22Apr2025 02:50:15.463] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered environmental:mushroom_marsh to structure_gel:[]
+[22Apr2025 02:50:15.463] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered environmental:blossom_highlands to structure_gel:[]
+[22Apr2025 02:50:15.463] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered cavesandcliffs:grove to structure_gel:[]
+[22Apr2025 02:50:15.463] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered cavesandcliffs:frozen_peaks to structure_gel:[]
+[22Apr2025 02:50:15.463] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered cavesandcliffs:jagged_peaks to structure_gel:[]
+[22Apr2025 02:50:15.463] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered cavesandcliffs:dripstone_caves to structure_gel:[]
+[22Apr2025 02:50:15.463] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered environmental:blossom_valleys to structure_gel:[]
+[22Apr2025 02:50:15.463] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered cavesandcliffs:stony_peaks to structure_gel:[]
+[22Apr2025 02:50:15.463] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered cavesandcliffs:snowy_slopes to structure_gel:[]
+[22Apr2025 02:50:15.464] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_plus:tower
+[22Apr2025 02:50:15.464] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_plus:bigger_dungeon
+[22Apr2025 02:50:15.464] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_plus:leviathan
+[22Apr2025 02:50:15.464] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_plus:snowy_temple
+[22Apr2025 02:50:15.465] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_plus:end_ruins
+[22Apr2025 02:50:15.465] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_plus:warped_garden
+[22Apr2025 02:50:15.465] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_plus:soul_prison
+[22Apr2025 02:50:23.513] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22Apr2025 02:50:24.430] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [mahousummon, treasury, stack, pos, anim_speed, proj_speed, acc, r, g, b, aim] and [mahousummon, treasury, stack, pos, anim_speed, proj_speed, acc, r, g, b, target] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22Apr2025 02:50:24.431] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [mahousummon, wepproj, stack, pos, proj_speed, acc, aim] and [mahousummon, wepproj, stack, pos, proj_speed, acc, target] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22Apr2025 02:50:24.444] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22Apr2025 02:50:24.448] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22Apr2025 02:50:24.452] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22Apr2025 02:50:24.455] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22Apr2025 02:50:24.457] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22Apr2025 02:50:24.459] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [waypoint, create, name, dimension, location, color, announce] and [waypoint, create, name, dimension, location, color, player] with inputs: [true, false]
+[22Apr2025 02:50:24.461] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [waypoint, delete, name, announce] and [waypoint, delete, name, player] with inputs: [true, false]
+[22Apr2025 02:50:24.514] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.42-universal.jar, hexerei-0.1.4.jar, mowziesmobs-1.5.27.jar, moremcmeta-1.16.5-4.4.7-forge.jar, Cucumber-1.16.5-4.1.12.jar, spiders-2.0-1.16.4-1.0.4.jar, abnormals_core-1.16.5-3.3.1.jar, obscure_api-11.jar, Neat 1.7-27.jar, IronJetpacks-1.16.5-4.2.3.jar, epicfight-16.6.5.jar, journeymap-1.16.5-5.8.6.jar, citadel-1.8.1-1.16.5.jar, alexsmobs-1.12.1.jar, environmental-1.16.5-1.1.1.jar, betteranimalsplus-1.16.5-11.0.10-forge.jar, Bookshelf-Forge-1.16.5-10.4.33.jar, sophisticatedbackpacks-1.16.5-3.15.20.755.jar, mahoutsukai-1.16.5-v1.34.62.jar, iceandfire-2.1.12-1.16.5-patch-1.jar, tl_skin_cape_forge_1.16.5-1.19.jar, structure_gel-1.16.5-1.7.8.jar, ironchest-1.16.5-11.2.21.jar, libIPN-forge-1.16-3.0.2.jar, EnchantmentDescriptions-1.16.5-7.1.27.jar, titanium-1.16.5-3.2.8.9-25.jar, silent-lib-1.16.5-4.10.0.jar, BiomesOPlenty-1.16.5-13.1.0.488-universal.jar, ironfurnaces-1.16.5-2.7.7.jar, dungeons_plus-1.16.5-1.1.5.jar, Platform-forge-1.16.5-1.2.5.jar, silent-gear-1.16.5-2.6.36.jar, simplylight-1.16.5-1.4.2-build.32.jar, cavesandcliffs-1.16.5-7.2.0.jar, RoughlyEnoughItems-6.5.436.jar, portality-1.16.5-3.2.5.jar, RoughlyEnoughItems-jei-internals-workaround-6.5.436.jar, curios-forge-1.16.5-4.1.0.0.jar, rereskillable-1.16.5-1.3.6.jar, SpartanShields-1.16.5-2.1.2.jar, gravestone-1.16.5-1.0.7.jar, AutoRegLib-1.6-49.jar, Quark-r2.4-322.jar, lostcities-1.16-4.0.12-beta.jar, elevatorid-1.16.5-1.7.13.jar, Gobber2-Forge-1.16.5-2.3.55.jar, CaveBiomeAPI-forge-2.0.0.jar, SpartanWeaponry-1.16.5-2.2.2.jar, InventoryProfilesNext-forge-1.16-1.10.602.jar, architectury-1.32.68.jar, cleardropsmod-1.0.0.jar, cloth-config-4.17.101-forge.jar, FastLeafDecay-v25.2.jar, CosmeticArmorReworked-1.16.5-v5a.jar, geckolib-forge-1.16.5-3.0.106.jar, aquamirae-5.4.API11.jar
+[22Apr2025 02:50:28.298] [Worker-Main-4/INFO] [com.minecraftabnormals.abnormals_core.core.AbnormalsCore/]: Loot Modification Manager has loaded 0 sets of modifiers
+[22Apr2025 02:50:28.566] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 15 recipes
+[22Apr2025 02:50:28.770] [Worker-Main-4/INFO] [com.minecraftabnormals.abnormals_core.core.AbnormalsCore/]: Advancement Modification Manager has loaded 7 sets of modifiers
+[22Apr2025 02:50:29.366] [Worker-Main-4/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[22Apr2025 02:50:29.476] [Worker-Main-4/INFO] [Silent Gear/]: Injecting loot table 'silentgear:inject/chests/ruined_portal' into 'minecraft:chests/ruined_portal'
+[22Apr2025 02:50:29.606] [Worker-Main-4/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[22Apr2025 02:50:29.688] [Worker-Main-4/INFO] [Silent Gear/]: Injecting loot table 'silentgear:inject/chests/bastion_bridge' into 'minecraft:chests/bastion_bridge'
+[22Apr2025 02:50:29.930] [Worker-Main-4/INFO] [Silent Gear/]: Injecting loot table 'silentgear:inject/chests/bastion_treasure' into 'minecraft:chests/bastion_treasure'
+[22Apr2025 02:50:30.292] [Worker-Main-4/INFO] [Silent Gear/]: Injecting loot table 'silentgear:inject/chests/nether_bridge' into 'minecraft:chests/nether_bridge'
+[22Apr2025 02:50:30.626] [Worker-Main-4/INFO] [Silent Gear/]: Injecting loot table 'silentgear:inject/entities/spider' into 'minecraft:entities/spider'
+[22Apr2025 02:50:30.940] [Worker-Main-4/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[22Apr2025 02:50:31.192] [Worker-Main-4/INFO] [Silent Gear/]: Injecting loot table 'silentgear:inject/entities/cave_spider' into 'minecraft:entities/cave_spider'
+[22Apr2025 02:50:31.475] [Worker-Main-4/INFO] [Silent Gear/]: Injecting loot table 'silentgear:inject/chests/bastion_other' into 'minecraft:chests/bastion_other'
+[22Apr2025 02:50:31.579] [Worker-Main-4/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {alexsmobs:gameplay/seal_reward}.pools[0].entries[1].functions[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
+[22Apr2025 02:50:31.947] [Worker-Main-4/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2245 advancements
+[22Apr2025 02:50:32.025] [Worker-Main-4/INFO] [com.minecraftabnormals.environmental.common.slabfish.SlabfishLoader/]: Loaded 55 Slabfish Types
+[22Apr2025 02:50:32.026] [Worker-Main-4/INFO] [com.minecraftabnormals.environmental.common.slabfish.SlabfishLoader/]: Loaded 16 Sweater Types
+[22Apr2025 02:50:32.027] [Worker-Main-4/INFO] [com.minecraftabnormals.environmental.common.slabfish.SlabfishLoader/]: Loaded 19 Backpack Types
+[22Apr2025 02:50:32.153] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Reloading trait files
+[22Apr2025 02:50:32.165] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:not'
+[22Apr2025 02:50:32.173] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:and'
+[22Apr2025 02:50:32.176] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:or'
+[22Apr2025 02:50:32.179] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:gear_type'
+[22Apr2025 02:50:32.182] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:material_count'
+[22Apr2025 02:50:32.184] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:material_ratio'
+[22Apr2025 02:50:32.188] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:primary_material'
+[22Apr2025 02:50:32.192] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:simple_trait'
+[22Apr2025 02:50:32.195] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:damage_type_trait'
+[22Apr2025 02:50:32.197] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:durability_trait'
+[22Apr2025 02:50:32.203] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:enchantment_trait'
+[22Apr2025 02:50:32.205] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:nbt_trait'
+[22Apr2025 02:50:32.208] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:potion_effect_trait'
+[22Apr2025 02:50:32.213] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:stat_modifier_trait'
+[22Apr2025 02:50:32.220] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:attribute_trait'
+[22Apr2025 02:50:32.223] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:block_placer'
+[22Apr2025 02:50:32.238] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:block_filler'
+[22Apr2025 02:50:32.246] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:synergy'
+[22Apr2025 02:50:32.248] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:target_effect'
+[22Apr2025 02:50:32.253] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:bonus_drops'
+[22Apr2025 02:50:32.259] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:cancel_effects'
+[22Apr2025 02:50:32.263] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:self_repair'
+[22Apr2025 02:50:32.267] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:stellar'
+[22Apr2025 02:50:32.313] [Worker-Main-4/INFO] [Silent Gear/TraitManager]: Registered 67 traits
+[22Apr2025 02:50:32.462] [Worker-Main-4/INFO] [Silent Gear/PartManager]: Reloading part files
+[22Apr2025 02:50:32.507] [Worker-Main-4/INFO] [Silent Gear/PartManager]: Registered part serializer 'silentgear:compound_part'
+[22Apr2025 02:50:32.507] [Worker-Main-4/INFO] [Silent Gear/PartManager]: Registered part serializer 'silentgear:misc_upgrade'
+[22Apr2025 02:50:32.561] [Worker-Main-4/INFO] [Silent Gear/PartManager]: Registered 45 parts
+[22Apr2025 02:50:32.622] [Worker-Main-4/INFO] [Silent Gear/MaterialManager]: Reloading material files
+[22Apr2025 02:50:32.648] [Worker-Main-4/INFO] [Silent Gear/MaterialManager]: Registered material serializer 'silentgear:standard'
+[22Apr2025 02:50:32.654] [Worker-Main-4/INFO] [Silent Gear/MaterialManager]: Registered material serializer 'silentgear:compound'
+[22Apr2025 02:50:32.657] [Worker-Main-4/INFO] [Silent Gear/MaterialManager]: Registered material serializer 'silentgear:custom_compound'
+[22Apr2025 02:50:32.661] [Worker-Main-4/INFO] [Silent Gear/MaterialManager]: Registered material serializer 'silentgear:crafted'
+[22Apr2025 02:50:32.725] [Worker-Main-4/INFO] [Silent Gear/]: Skipped loading 26 material(s), as their conditions were not met. This is usually NOT an error!
+[22Apr2025 02:50:32.726] [Worker-Main-4/INFO] [Silent Gear/]: Skipped materials: silentgear:aluminum, silentgear:aluminum_steel, silentgear:bismuth, silentgear:bismuth_brass, silentgear:bismuth_steel, silentgear:brass, silentgear:bronze, silentgear:compressed_iron, silentgear:electrum, silentgear:enderium, silentgear:invar, silentgear:lead, silentgear:lumium, silentgear:nickel, silentgear:osmium, silentgear:platinum, silentgear:redstone_alloy, silentgear:refined_glowstone, silentgear:refined_iron, silentgear:refined_obsidian, silentgear:signalum, silentgear:steel, silentgear:tin, silentgear:titanium, silentgear:uranium, silentgear:zinc
+[22Apr2025 02:50:32.820] [Worker-Main-4/INFO] [REI/]: Reloading Plugin Manager [REIPlugin] stage [START], registered 3 plugins: DefaultRuntimePlugin [roughlyenoughitems], JEIExtraPlugin [roughlyenoughitems], DefaultPlugin [roughlyenoughitems]
+[22Apr2025 02:50:32.881] [Worker-Main-4/INFO] [REI/]: Reloaded Plugin Manager [REIPlugin] with 2 entry types, 5 item comparators, 0 fluid comparators and 2 fluid support providers in 75ms.
+[22Apr2025 02:50:32.881] [Worker-Main-4/INFO] [REI/]: Reloading Plugin Manager [REIServerPlugin] stage [START], registered 3 plugins: DefaultRuntimePlugin [roughlyenoughitems], JEIExtraPlugin [roughlyenoughitems], DefaultPlugin [roughlyenoughitems]
+[22Apr2025 02:50:32.885] [Worker-Main-4/INFO] [REI/]: Reloaded Plugin Manager [REIServerPlugin] with 0 menu infos in 4ms.
+[22Apr2025 02:50:32.914] [Worker-Main-4/INFO] [REI/]: Reloading Plugin Manager [REIPlugin] stage [END], registered 3 plugins: DefaultRuntimePlugin [roughlyenoughitems], JEIExtraPlugin [roughlyenoughitems], DefaultPlugin [roughlyenoughitems]
+[22Apr2025 02:50:33.017] [Worker-Main-4/INFO] [REI/]: Reloaded Plugin Manager [REIPlugin] with 2 entry types, 5 item comparators, 0 fluid comparators and 2 fluid support providers in 109ms.
+[22Apr2025 02:50:33.020] [Worker-Main-4/INFO] [REI/]: Reloading Plugin Manager [REIServerPlugin] stage [END], registered 3 plugins: DefaultRuntimePlugin [roughlyenoughitems], JEIExtraPlugin [roughlyenoughitems], DefaultPlugin [roughlyenoughitems]
+[22Apr2025 02:50:33.048] [Worker-Main-4/INFO] [REI/]: Reloaded Plugin Manager [REIServerPlugin] with 5 menu infos in 28ms.
+[22Apr2025 02:50:33.064] [Worker-Main-4/INFO] [Cucumber Library/]: Loaded cucumber-tags.json in 3 ms
+[22Apr2025 02:50:42.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[22Apr2025 02:50:42.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[22Apr2025 02:50:42.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[22Apr2025 02:50:42.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[22Apr2025 02:50:42.966] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[22Apr2025 02:50:43.018] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[22Apr2025 02:50:43.148] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22Apr2025 02:50:43.148] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[22Apr2025 02:50:43.149] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22Apr2025 02:50:43.149] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[22Apr2025 02:50:43.182] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[22Apr2025 02:50:43.183] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[22Apr2025 02:50:43.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[22Apr2025 02:50:43.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[22Apr2025 02:50:44.781] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[22Apr2025 02:50:44.782] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[22Apr2025 02:50:44.984] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[22Apr2025 02:50:45.315] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 1409 ms
+[22Apr2025 02:50:45.315] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (2.144s)! For help, type "help"
+[22Apr2025 02:50:45.375] [Server thread/INFO] [net.joefoxe.hexerei.Hexerei/]: HELLO from server starting
+[22Apr2025 02:50:45.376] [Server thread/INFO] [net.joefoxe.hexerei.Hexerei/]: HELLO from server starting
+[22Apr2025 02:50:45.414] [Server thread/INFO] [Spartan Weaponry/]: Starting up Server for Spartan Weaponry!
+[22Apr2025 02:50:45.428] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=false, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, GORGON_TEMPLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, MAUSOLEUM_CF=true, ICE_DRAGON_CAVE_CF=true, GRAVEYARD_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=true, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
+[22Apr2025 02:50:45.428] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[22Apr2025 02:50:45.428] [Server thread/INFO] [Silent Gear/TraitManager]: Traits loaded: 67
+[22Apr2025 02:50:45.429] [Server thread/INFO] [Silent Gear/PartManager]: Parts loaded: 45
+[22Apr2025 02:50:45.429] [Server thread/INFO] [Silent Gear/PartManager]: - Compound: 41
+[22Apr2025 02:50:45.429] [Server thread/INFO] [Silent Gear/PartManager]: - Simple: 4
+[22Apr2025 02:50:45.430] [Server thread/INFO] [Silent Gear/MaterialManager]: Materials loaded: 101
+[22Apr2025 02:50:45.430] [Server thread/INFO] [Silent Gear/MaterialManager]: - Standard: 95
+[22Apr2025 02:54:01.041] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@e727e92
+[22Apr2025 02:54:01.093] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: kevin99col[/127.21.209.171:46213] logged in with entity id 49 at (147.94742310727506, 64.0, -264.43002068862444)
+[22Apr2025 02:54:01.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col joined the game
+[22Apr2025 02:54:01.848] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityJellyfish from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[22Apr2025 02:54:01.849] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityJellyfish from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[22Apr2025 02:54:50.232] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityBobbitWorm from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[22Apr2025 02:56:40.557] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntitySongbird from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[22Apr2025 02:56:40.585] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityButterfly from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[22Apr2025 02:56:40.585] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityButterfly from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[22Apr2025 02:56:40.759] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityBearNeutral from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[22Apr2025 02:56:40.823] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntitySquirrel from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[22Apr2025 02:56:41.177] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityGoose from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[22Apr2025 02:56:44.961] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityDeer from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[22Apr2025 02:57:13.981] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityFreshwaterEel from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[22Apr2025 02:57:13.981] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityFreshwaterEel from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[22Apr2025 02:57:15.563] [Worker-Main-11/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityGoat from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[22Apr2025 02:57:24.232] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityLamprey from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[22Apr2025 02:57:24.232] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityLamprey from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[22Apr2025 02:57:25.799] [Worker-Main-12/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityPheasant from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[22Apr2025 02:58:58.633] [Worker-Main-11/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityBoar from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[22Apr2025 02:59:02.760] [Worker-Main-6/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityBadger from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
