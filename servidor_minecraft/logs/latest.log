@@ -639,3 +639,56 @@ java.lang.NullPointerException: null
 [22Apr2025 17:38:11.009] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: correcamin0 lost connection: Disconnected
 [22Apr2025 17:38:11.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 left the game
 [22Apr2025 17:42:51.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Set the weather to clear]
+[22Apr2025 17:44:06.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was killed by Witch using magic
+[22Apr2025 17:44:51.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col was slain by Cyclops
+[22Apr2025 17:44:53.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was killed by Witch using magic
+[22Apr2025 17:45:01.043] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@52df6d6c
+[22Apr2025 17:45:01.074] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Camilo0812A[/127.127.19.167:56395] logged in with entity id 54070 at (-161.5, 67.0, 70.5)
+[22Apr2025 17:45:01.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilo0812A joined the game
+[22Apr2025 17:45:06.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col was slain by Cyclops
+[22Apr2025 17:45:27.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> llego el admin
+[22Apr2025 17:45:45.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> estoy en modo aventura
+[22Apr2025 17:45:46.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> wtf
+[22Apr2025 17:45:53.814] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Camilo0812A a server operator
+[22Apr2025 17:45:57.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col was slain by Cyclops
+[22Apr2025 17:45:58.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> como se quita
+[22Apr2025 17:46:00.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Set own game mode to Creative Mode]
+[22Apr2025 17:46:01.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Set own game mode to Survival Mode]
+[22Apr2025 17:46:05.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> ya
+[22Apr2025 17:47:06.002] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was shot by Stymphalian Bird
+[22Apr2025 17:47:45.552] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kevin99col> mamilo
+[22Apr2025 17:47:51.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> quep
+[22Apr2025 17:48:13.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kevin99col> me va tocar ponerme en modo espectador
+[22Apr2025 17:48:17.452] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kevin99col> no me sale el cuerpo
+[22Apr2025 17:48:17.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> y eso
+[22Apr2025 17:48:23.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> weno
+[22Apr2025 17:48:27.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Set own game mode to Spectator Mode]
+[22Apr2025 17:48:38.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilo0812A was slain by Spider
+[22Apr2025 17:48:43.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kevin99col> vean whatsaop}
+[22Apr2025 17:49:33.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Teleported Camilo0812A to kevin99col]
+[22Apr2025 17:49:36.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Set own game mode to Survival Mode]
+[22Apr2025 17:49:37.197] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Set own game mode to Creative Mode]
+[22Apr2025 17:49:46.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilo0812A has made the advancement [Stone Age]
+[22Apr2025 17:50:01.395] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> tome
+[22Apr2025 17:50:03.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> gekin
+[22Apr2025 17:50:06.556] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> kevin
+[22Apr2025 17:50:11.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilo0812A has made the advancement [Suit Up]
+[22Apr2025 17:50:11.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilo0812A has made the advancement [Isn't It Iron Pick]
+[22Apr2025 17:50:11.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilo0812A has made the advancement [...And My Axe!]
+[22Apr2025 17:50:38.968] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Set the weather to clear]
+[22Apr2025 17:50:42.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Set the time to 1000]
+[22Apr2025 17:50:44.395] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> yap
+[22Apr2025 17:50:45.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Set own game mode to Survival Mode]
+[22Apr2025 17:50:49.921] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kevin99col> el otro bolso
+[22Apr2025 17:50:54.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> le tire 2
+[22Apr2025 17:51:02.554] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> tengo todo vacio
+[22Apr2025 17:51:07.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kevin99col> mm no sale el otro
+[22Apr2025 17:51:55.864] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kevin99col> nah se perdioel otro
+[22Apr2025 17:52:08.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> de donde sacaron lana
+[22Apr2025 17:52:44.112] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kevin99col> de aui el cosoe ste hay
+[22Apr2025 17:52:58.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kevin99col> no f se perdio elo bolkso
+[22Apr2025 17:52:58.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> khe
+[22Apr2025 17:52:59.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kevin99col> gg
+[22Apr2025 17:53:04.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> pero de q era
+[22Apr2025 17:53:20.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> yo espichando el 3 para ir mas rapido xD
+[22Apr2025 17:53:37.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilo0812A was slain by Cyclops

@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-04-22 17:50:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_nether_brick_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:51:45 +0000"
@@ -398,6 +404,12 @@
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-04-22 17:50:11 +0000"
     },
     "done": true
   },
@@ -893,6 +905,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-22 17:50:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:51:46 +0000"
@@ -1058,6 +1076,12 @@
   "biomesoplenty:recipes/decorations/jacaranda_fence": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:51:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-04-22 17:49:46 +0000"
     },
     "done": true
   },
@@ -1256,6 +1280,12 @@
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:51:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-22 17:49:46 +0000"
     },
     "done": true
   },
@@ -1574,6 +1604,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-22 17:49:46 +0000"
     },
     "done": true
   },
@@ -2477,6 +2513,12 @@
     },
     "done": true
   },
+  "spartanweaponry:battleaxe": {
+    "criteria": {
+      "has_battleaxe": "2025-04-22 17:50:11 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/magic_door": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:51:45 +0000"
@@ -2642,6 +2684,12 @@
   "cavesandcliffs:recipes/search/waxed_exposed_cut_copper_vertical_slab_from_honeycomb": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:51:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-22 17:50:11 +0000"
     },
     "done": true
   },
@@ -3458,6 +3506,12 @@
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:51:45 +0000"
+    },
+    "done": true
+  },
+  "silentgear:root": {
+    "criteria": {
+      "get_item": "2025-04-22 17:52:43 +0000"
     },
     "done": true
   },
@@ -6197,6 +6251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-22 17:49:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:51:45 +0000"
@@ -8587,8 +8647,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-04-22 17:46:51 +0000",
       "minecraft:giant_tree_taiga": "2025-04-21 19:56:12 +0000",
       "minecraft:taiga_hills": "2025-04-21 19:51:46 +0000",
+      "minecraft:beach": "2025-04-22 17:49:33 +0000",
       "minecraft:river": "2025-04-21 19:56:11 +0000",
       "minecraft:giant_tree_taiga_hills": "2025-04-21 19:56:23 +0000"
     },
@@ -9290,6 +9352,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-22 17:49:46 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/flanged_mace_diamond": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:51:45 +0000"
@@ -9500,6 +9568,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2025-04-22 17:52:43 +0000"
+    },
+    "done": true
+  },
   "cavesandcliffs:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_honeycomb": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:51:45 +0000"
@@ -9557,6 +9631,12 @@
   "silentgear:recipes/silentgear/crimson_steel_ingot": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-04-22 17:49:46 +0000"
     },
     "done": true
   },
@@ -9653,6 +9733,12 @@
   "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:51:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-04-22 17:52:43 +0000"
     },
     "done": true
   },
