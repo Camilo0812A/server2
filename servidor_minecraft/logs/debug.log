@@ -30049,3 +30049,48 @@ java.lang.NullPointerException: null
 [22Apr2025 18:02:19.944] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: correcamin0 moved too quickly! 2.7212108497101326,0.0,15.436338549548054
 [22Apr2025 18:02:58.204] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [22Apr2025 18:02:58.211] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[22Apr2025 18:06:58.865] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: correcamin0 moved too quickly! -1.215764132633467,19.097487792508403,0.25013174920786696
+[22Apr2025 18:07:00.407] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: correcamin0 moved too quickly! -9.04960999984587,0.0,11.80744186596894
+[22Apr2025 18:07:01.461] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: correcamin0 moved too quickly! 1.0939013697793598,0.0,15.264518900118674
+[22Apr2025 18:07:26.670] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: correcamin0 moved too quickly! 11.592653603855979,0.0,8.797339997731115
+[22Apr2025 18:07:27.452] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: correcamin0 moved too quickly! -2.383688324288869,0.25816817663999814,14.462466471218477
+[22Apr2025 18:07:54.016] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: correcamin0 moved wrongly!
+[22Apr2025 18:07:54.913] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: correcamin0 moved too quickly! -3.0203449380705933,0.1613103206399984,19.606040189454347
+[22Apr2025 18:07:58.208] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22Apr2025 18:07:58.215] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[22Apr2025 18:07:58.237] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: correcamin0 moved too quickly! 1.8868459212346806,0.0,11.95977299470161
+[22Apr2025 18:08:05.452] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 has completed the challenge [The Power of the Sun]
+[22Apr2025 18:09:17.659] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: correcamin0 moved wrongly!
+[22Apr2025 18:09:22.518] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2019, y=0, z=-97} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 18:09:22.518] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-2019, y=0, z=-97}
+[22Apr2025 18:09:24.869] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2049, y=0, z=-109} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 18:09:24.869] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-2049, y=0, z=-109}
+[22Apr2025 18:09:25.116] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2040, y=0, z=-121} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 18:09:25.116] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-2040, y=0, z=-121}
+[22Apr2025 18:09:25.116] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2045, y=0, z=-123} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 18:09:25.116] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-2045, y=0, z=-123}
+[22Apr2025 18:09:25.116] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2035, y=0, z=-123} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 18:09:25.116] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-2035, y=0, z=-123}
+[22Apr2025 18:09:25.967] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2049, y=0, z=-114} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 18:09:25.967] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-2049, y=0, z=-114}
+[22Apr2025 18:09:25.967] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2049, y=0, z=-117} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 18:09:25.968] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-2049, y=0, z=-117}
+[22Apr2025 18:09:25.968] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2049, y=0, z=-120} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 18:09:25.968] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-2049, y=0, z=-120}
+[22Apr2025 18:09:25.968] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2051, y=0, z=-118} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 18:09:25.968] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-2051, y=0, z=-118}
+[22Apr2025 18:09:25.968] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2051, y=0, z=-123} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 18:09:25.968] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-2051, y=0, z=-123}
+[22Apr2025 18:09:25.968] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2051, y=0, z=-122} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 18:09:25.968] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-2051, y=0, z=-122}
+[22Apr2025 18:09:44.216] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2308, y=0, z=-126} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 18:09:44.216] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-2308, y=0, z=-126}
+[22Apr2025 18:09:44.217] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2306, y=0, z=-126} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 18:09:44.217] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-2306, y=0, z=-126}
+[22Apr2025 18:11:00.512] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> dc?
+[22Apr2025 18:12:41.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> carlos
+[22Apr2025 18:12:44.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> puedo tp?
+[22Apr2025 18:12:58.356] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22Apr2025 18:12:58.363] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[22Apr2025 18:13:00.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> o jeremy
+[22Apr2025 18:13:02.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> el q este
