@@ -917,6 +917,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-22 17:27:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
       "has_the_recipe": "2025-04-22 16:35:18 +0000"
@@ -7903,6 +7909,12 @@
     },
     "done": true
   },
+  "environmental:adventure/obtain_explorer_gear": {
+    "criteria": {
+      "thief_hood": "2025-04-22 17:26:07 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_restock_upgrade": {
     "criteria": {
       "has_the_recipe": "2025-04-22 16:35:18 +0000"
@@ -8687,13 +8699,16 @@
     "criteria": {
       "minecraft:forest": "2025-04-22 16:37:40 +0000",
       "minecraft:mountains": "2025-04-22 16:36:58 +0000",
+      "environmental:marsh": "2025-04-22 17:21:11 +0000",
       "minecraft:giant_tree_taiga": "2025-04-22 16:35:18 +0000",
       "minecraft:taiga_hills": "2025-04-22 16:36:27 +0000",
       "minecraft:desert": "2025-04-22 17:08:47 +0000",
       "minecraft:beach": "2025-04-22 16:48:06 +0000",
       "minecraft:river": "2025-04-22 16:48:12 +0000",
+      "minecraft:wooded_mountains": "2025-04-22 17:22:13 +0000",
       "minecraft:wooded_hills": "2025-04-22 16:38:49 +0000",
       "minecraft:stone_shore": "2025-04-22 17:04:31 +0000",
+      "minecraft:swamp": "2025-04-22 17:20:11 +0000",
       "minecraft:savanna": "2025-04-22 17:16:17 +0000",
       "minecraft:plains": "2025-04-22 17:16:23 +0000"
     },

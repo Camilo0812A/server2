@@ -3369,6 +3369,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-22 17:19:33 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
@@ -7317,6 +7323,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2025-04-22 17:21:49 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/boomerang_diamond": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
@@ -8824,6 +8836,7 @@
       "minecraft:forest": "2025-04-22 02:56:47 +0000",
       "minecraft:mountains": "2025-04-22 16:03:15 +0000",
       "minecraft:taiga": "2025-04-21 20:08:20 +0000",
+      "minecraft:desert_hills": "2025-04-22 17:18:52 +0000",
       "environmental:marsh": "2025-04-21 20:13:49 +0000",
       "minecraft:giant_tree_taiga": "2025-04-21 19:56:55 +0000",
       "minecraft:taiga_hills": "2025-04-21 19:53:23 +0000",
@@ -8836,6 +8849,7 @@
       "minecraft:river": "2025-04-21 20:08:52 +0000",
       "minecraft:wooded_hills": "2025-04-22 02:57:00 +0000",
       "minecraft:giant_tree_taiga_hills": "2025-04-21 19:59:19 +0000",
+      "minecraft:stone_shore": "2025-04-22 17:27:36 +0000",
       "minecraft:swamp": "2025-04-22 16:15:53 +0000",
       "environmental:blossom_woods": "2025-04-22 16:04:23 +0000",
       "environmental:mushroom_marsh": "2025-04-21 20:13:47 +0000",
