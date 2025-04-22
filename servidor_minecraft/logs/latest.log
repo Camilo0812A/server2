@@ -1015,3 +1015,92 @@ java.lang.NullPointerException: null
 [22Apr2025 19:03:37.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Set own game mode to Spectator Mode]
 [22Apr2025 19:04:43.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 was shot by Skeleton
 [22Apr2025 19:05:40.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Set own game mode to Survival Mode]
+[22Apr2025 19:06:21.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Set own game mode to Spectator Mode]
+[22Apr2025 19:06:25.659] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[22Apr2025 19:06:42.819] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2195ms or 43 ticks behind
+[22Apr2025 19:07:55.759] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-850, y=0, z=-3159} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 19:07:55.759] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-850, y=0, z=-3159}
+[22Apr2025 19:07:55.761] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-875, y=0, z=-3156} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 19:07:55.761] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-875, y=0, z=-3156}
+[22Apr2025 19:07:55.761] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-877, y=0, z=-3154} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 19:07:55.761] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-877, y=0, z=-3154}
+[22Apr2025 19:07:55.761] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-875, y=0, z=-3167} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 19:07:55.761] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-875, y=0, z=-3167}
+[22Apr2025 19:07:55.761] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-875, y=0, z=-3159} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 19:07:55.761] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-875, y=0, z=-3159}
+[22Apr2025 19:07:57.426] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-877, y=0, z=-3170} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 19:07:57.427] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-877, y=0, z=-3170}
+[22Apr2025 19:08:00.525] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[22Apr2025 19:08:18.963] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: DARKFIRE moved too quickly! -6.663734985892461,0.0,-7.531737520105253
+[22Apr2025 19:08:19.001] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3177ms or 63 ticks behind
+[22Apr2025 19:08:36.357] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2383ms or 47 ticks behind
+[22Apr2025 19:08:39.908] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1315, y=0, z=-3107} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 19:08:39.908] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1315, y=0, z=-3107}
+[22Apr2025 19:08:39.908] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1315, y=0, z=-3108} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 19:08:39.908] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1315, y=0, z=-3108}
+[22Apr2025 19:08:39.908] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1322, y=0, z=-3117} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 19:08:39.908] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1322, y=0, z=-3117}
+[22Apr2025 19:08:39.908] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1317, y=0, z=-3117} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 19:08:39.909] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1317, y=0, z=-3117}
+[22Apr2025 19:08:39.909] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1315, y=0, z=-3105} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 19:08:39.909] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1315, y=0, z=-3105}
+[22Apr2025 19:08:39.909] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1313, y=0, z=-3106} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 19:08:39.909] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1313, y=0, z=-3106}
+[22Apr2025 19:08:40.210] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1315, y=0, z=-3102} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 19:08:40.210] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1315, y=0, z=-3102}
+[22Apr2025 19:09:01.953] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Killed 230 entities]
+[22Apr2025 19:09:24.790] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: DARKFIRE moved too quickly! -8.662826274266536,1.1255309531715767,-5.913930955179239
+[22Apr2025 19:09:28.420] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: DARKFIRE moved too quickly! -8.10649836149355,0.009911225076237429,-6.705232184535362
+[22Apr2025 19:10:17.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col has made the advancement [Take Aim]
+[22Apr2025 19:10:29.571] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Set own game mode to Survival Mode]
+[22Apr2025 19:11:05.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> kevin puedo tp?
+[22Apr2025 19:11:15.261] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> yo l doy madera
+[22Apr2025 19:11:59.463] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: correcamin0 moved too quickly! -27.151677831955112,-0.03130000000000166,6.960319649855364
+[22Apr2025 19:12:00.283] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: correcamin0 moved too quickly! -14.536577027221938,0.0,3.9778357211887965
+[22Apr2025 19:12:01.245] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: correcamin0 moved too quickly! -15.648589310891111,0.0,4.282130341311472
+[22Apr2025 19:12:32.513] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2389ms or 47 ticks behind
+[22Apr2025 19:12:45.529] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: correcamin0 moved too quickly! -10.978071794459538,-6.2039999999999935,-10.630689085979128
+[22Apr2025 19:12:47.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 was doomed to fall by Vex
+[22Apr2025 19:12:47.255] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: correcamin0 moved wrongly!
+[22Apr2025 19:12:53.730] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[22Apr2025 19:13:27.941] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: correcamin0 moved too quickly! -10.090500326405163,-2.087045657717681,0.23223729028794082
+[22Apr2025 19:13:27.945] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2221ms or 44 ticks behind
+[22Apr2025 19:14:05.080] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[22Apr2025 19:14:43.332] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[22Apr2025 19:15:15.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> yo yo
+[22Apr2025 19:15:23.981] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[22Apr2025 19:15:27.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> pero necesito comida
+[22Apr2025 19:15:43.578] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[22Apr2025 19:15:45.127] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> hay un dragon feo aca
+[22Apr2025 19:16:13.814] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: correcamin0 moved too quickly! -9.604158245304461,0.0,18.882420547323747
+[22Apr2025 19:16:24.691] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: correcamin0 moved too quickly! -4.988919825687844,6.202526219804938,12.04266998556588
+[22Apr2025 19:16:26.647] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: correcamin0 moved too quickly! -7.876230664882769,0.0,7.816168829825983
+[22Apr2025 19:16:26.652] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2178ms or 43 ticks behind
+[22Apr2025 19:16:53.824] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[22Apr2025 19:17:05.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 was burnt to a crisp whilst fighting Fire Dragon
+[22Apr2025 19:17:11.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2302ms or 46 ticks behind
+[22Apr2025 19:17:18.544] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilo0812A was slain by Cave Centipede
+[22Apr2025 19:17:23.572] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3988, y=0, z=550} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 19:17:23.572] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-3988, y=0, z=550}
+[22Apr2025 19:17:27.897] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 fell from a high place
+[22Apr2025 19:17:38.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 fell from a high place
+[22Apr2025 19:17:58.220] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4158, y=0, z=505} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 19:17:58.220] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-4158, y=0, z=505}
+[22Apr2025 19:17:58.220] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4160, y=0, z=507} but found not block entity block Block{minecraft:bedrock} at location
+[22Apr2025 19:17:58.220] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-4160, y=0, z=507}
+[22Apr2025 19:18:12.933] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: correcamin0 moved too quickly! 6.411891805684263,0.0,13.852363971790282
+[22Apr2025 19:18:44.700] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: correcamin0 moved too quickly! 0.3471304690319812,0.5800000131130219,10.043009318405439
+[22Apr2025 19:18:44.711] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2338ms or 46 ticks behind
+[22Apr2025 19:19:37.731] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> regalese 3 diamantes
+[22Apr2025 19:20:47.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to kevin99col]
+[22Apr2025 19:22:00.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kevin99col> y eso
+[22Apr2025 19:22:02.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> si
+[22Apr2025 19:22:11.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> pa un pico
+[22Apr2025 19:22:16.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> ahh
+[22Apr2025 19:22:19.086] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> cierto
+[22Apr2025 19:23:15.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> puedo borrar items?
+[22Apr2025 19:23:20.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Teleported Camilo0812A to kevin99col]
+[22Apr2025 19:23:21.013] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilo0812A has made the advancement [Now this is a Dungeon]
+[22Apr2025 19:23:22.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 was shot by Skeleton
+[22Apr2025 19:23:26.953] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> JODERRRRRRRRRR
+[22Apr2025 19:25:55.252] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilo0812A has made the advancement [Not Today, Thank You]
