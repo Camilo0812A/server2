@@ -567,3 +567,8 @@ java.lang.NullPointerException: null
 [22Apr2025 16:48:24.105] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stick'/15271, l='ServerLevel[world]', x=-1031.79, y=74.00, z=-1936.87]
 [22Apr2025 16:48:24.697] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stick'/15278, l='ServerLevel[world]', x=-1031.79, y=74.00, z=-1936.87]
 [22Apr2025 16:50:02.900] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 has made the advancement [Monster Hunter]
+[22Apr2025 16:51:45.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Set the time to 1000]
+[22Apr2025 16:52:25.916] [Worker-Main-6/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityMoose from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[22Apr2025 16:52:53.630] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: kevin99col moved too quickly! 2.5792206065702885,1.252203340253729,9.776072242603277
+[22Apr2025 16:55:34.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Set the weather to clear]
+[22Apr2025 17:00:31.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col was burnt to a crisp whilst fighting Fire Dragon
