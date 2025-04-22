@@ -761,3 +761,53 @@ java.lang.NullPointerException: null
 [22Apr2025 18:12:44.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> puedo tp?
 [22Apr2025 18:13:00.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> o jeremy
 [22Apr2025 18:13:02.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> el q este
+[22Apr2025 18:15:01.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> quien tiene comida
+[22Apr2025 18:15:20.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DARKFIRE> re pailas
+[22Apr2025 18:16:10.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 has made the advancement [A Seedy Place]
+[22Apr2025 18:18:17.675] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3e63e365
+[22Apr2025 18:18:17.703] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: kevin99col[/127.21.209.171:49925] logged in with entity id 74918 at (389.20607651768427, 65.0, -2021.8740454444192)
+[22Apr2025 18:18:17.711] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col joined the game
+[22Apr2025 18:19:43.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kevin99col> aaaaaaaa
+[22Apr2025 18:19:46.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DARKFIRE> eeeeeeeeeee
+[22Apr2025 18:19:47.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kevin99col> mi mochilaaa
+[22Apr2025 18:19:53.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kevin99col> mi hierrooooo
+[22Apr2025 18:19:55.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DARKFIRE> yaper
+[22Apr2025 18:19:59.485] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-277, y=84, z=-2786} BlockPos{x=-276, y=85, z=-2786}
+[22Apr2025 18:20:10.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to DARKFIRE]
+[22Apr2025 18:20:19.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 has made the advancement [...And My Axe!]
+[22Apr2025 18:20:20.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Teleported Camilo0812A to DARKFIRE]
+[22Apr2025 18:20:26.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kevin99col> pidame perdon
+[22Apr2025 18:20:27.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DARKFIRE> e
+[22Apr2025 18:20:27.652] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DARKFIRE> e
+[22Apr2025 18:20:33.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DARKFIRE> no tengo comida
+[22Apr2025 18:20:36.554] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DARKFIRE> calmate
+[22Apr2025 18:21:11.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kevin99col> porqeuria de juego este
+[22Apr2025 18:21:22.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kevin99col> ponga una mesa
+[22Apr2025 18:21:41.197] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kevin99col> ese bolso suyo se parece al mio
+[22Apr2025 18:21:42.903] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kevin99col> aver
+[22Apr2025 18:21:48.960] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DARKFIRE> ojito
+[22Apr2025 18:22:35.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> alguien me puede dar una mesa de crafteo plis
+[22Apr2025 18:22:48.550] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DARKFIRE> a
+[22Apr2025 18:22:53.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> esq me tire aca
+[22Apr2025 18:22:54.400] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DARKFIRE> ty
+[22Apr2025 18:22:56.852] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> y no tengo como salir xd
+[22Apr2025 18:22:58.427] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-66, y=12, z=-2856} but found not block entity block Block{quark:deepslate}[axis=y] at location
+[22Apr2025 18:22:58.428] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:deepslate}[axis=y] but failed at location BlockPos{x=-66, y=12, z=-2856}
+[22Apr2025 18:23:04.205] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kevin99col> entreho mis pertenencias
+[22Apr2025 18:23:06.814] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <kevin99col> me retiro
+[22Apr2025 18:23:13.252] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilo0812A> ?
+[22Apr2025 18:23:18.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to correcamin0]
+[22Apr2025 18:23:18.579] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityLamprey['Lamprey'/72047, l='ServerLevel[world]', x=-2173.94, y=62.24, z=-226.01]
+[22Apr2025 18:23:18.580] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityLamprey['Lamprey'/71192, l='ServerLevel[world]', x=-2282.52, y=62.35, z=-204.12]
+[22Apr2025 18:23:18.580] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityLamprey['Lamprey'/71326, l='ServerLevel[world]', x=-2259.04, y=61.60, z=-232.85]
+[22Apr2025 18:23:30.904] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> tiene comida?
+[22Apr2025 18:23:37.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> xd
+[22Apr2025 18:23:44.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was doomed to fall by Vex
+[22Apr2025 18:24:11.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <correcamin0> tiene piedra?
+[22Apr2025 18:24:31.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: correcamin0 was killed by Witch using magic
+[22Apr2025 18:24:32.608] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityLamprey['Lamprey'/72047, l='ServerLevel[world]', x=-2173.94, y=62.24, z=-226.01]
+[22Apr2025 18:24:32.609] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityLamprey['Lamprey'/71192, l='ServerLevel[world]', x=-2282.52, y=62.35, z=-204.12]
+[22Apr2025 18:24:32.610] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityLamprey['Lamprey'/71326, l='ServerLevel[world]', x=-2259.04, y=61.60, z=-232.85]
+[22Apr2025 18:24:33.915] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityLamprey['Lamprey'/71192, l='ServerLevel[world]', x=-2282.52, y=62.35, z=-204.12]
+[22Apr2025 18:24:33.916] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityLamprey['Lamprey'/71326, l='ServerLevel[world]', x=-2259.04, y=61.60, z=-232.85]
+[22Apr2025 18:24:33.928] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityLamprey['Lamprey'/72047, l='ServerLevel[world]', x=-2173.94, y=62.24, z=-226.01]

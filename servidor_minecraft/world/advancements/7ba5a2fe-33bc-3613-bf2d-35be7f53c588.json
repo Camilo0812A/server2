@@ -2531,6 +2531,12 @@
     },
     "done": true
   },
+  "spartanweaponry:battleaxe": {
+    "criteria": {
+      "has_battleaxe": "2025-04-22 18:20:19 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/magic_door": {
     "criteria": {
       "has_the_recipe": "2025-04-22 16:35:17 +0000"
@@ -7977,6 +7983,12 @@
     },
     "done": true
   },
+  "spartanweaponry:root": {
+    "criteria": {
+      "has_handle": "2025-04-22 18:19:34 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/blaze_gold_ingot_from_nugget": {
     "criteria": {
       "has_the_recipe": "2025-04-22 16:35:17 +0000"
@@ -8802,6 +8814,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-04-22 18:16:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_the_recipe": "2025-04-22 16:35:17 +0000"
@@ -9188,6 +9206,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "porkchop": "2025-04-22 18:15:30 +0000",
       "bread": "2025-04-22 16:53:30 +0000"
     },
     "done": false
