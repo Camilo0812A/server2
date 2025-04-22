@@ -1592,7 +1592,8 @@
   },
   "betteranimalsplus:animal_head_variants": {
     "criteria": {
-      "boarhead_gray": "2025-04-21 20:13:14 +0000"
+      "boarhead_gray": "2025-04-21 20:13:14 +0000",
+      "head4": "2025-04-22 21:57:35 +0000"
     },
     "done": false
   },
@@ -1838,7 +1839,8 @@
   },
   "betteranimalsplus:animal_head_all": {
     "criteria": {
-      "head16": "2025-04-21 20:13:14 +0000"
+      "head16": "2025-04-21 20:13:14 +0000",
+      "head4": "2025-04-22 21:57:35 +0000"
     },
     "done": false
   },
@@ -3054,6 +3056,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2025-04-22 21:59:03 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/parrying_dagger_diamond": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
@@ -3627,6 +3635,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-04-22 21:58:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
@@ -3876,6 +3890,12 @@
   "cavesandcliffs:recipes/building_blocks/waxed_oxidized_cut_copper_from_waxed_oxidized_copper_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2025-04-22 21:56:16 +0000"
     },
     "done": true
   },
@@ -6702,6 +6722,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/longsword_stone": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-04-22 21:56:27 +0000"
     },
     "done": true
   },
