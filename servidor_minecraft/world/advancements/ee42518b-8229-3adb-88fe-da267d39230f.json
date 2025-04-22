@@ -8771,6 +8771,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2025-04-21 20:08:55 +0000",
+      "minecraft:forest": "2025-04-22 02:56:47 +0000",
       "minecraft:taiga": "2025-04-21 20:08:20 +0000",
       "environmental:marsh": "2025-04-21 20:13:49 +0000",
       "minecraft:giant_tree_taiga": "2025-04-21 19:56:55 +0000",
@@ -8779,6 +8780,7 @@
       "minecraft:beach": "2025-04-21 20:08:48 +0000",
       "minecraft:dark_forest": "2025-04-21 20:10:37 +0000",
       "minecraft:river": "2025-04-21 20:08:52 +0000",
+      "minecraft:wooded_hills": "2025-04-22 02:57:00 +0000",
       "minecraft:giant_tree_taiga_hills": "2025-04-21 19:59:19 +0000",
       "environmental:mushroom_marsh": "2025-04-21 20:13:47 +0000",
       "minecraft:plains": "2025-04-21 20:10:56 +0000"
