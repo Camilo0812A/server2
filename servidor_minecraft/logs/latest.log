@@ -1773,3 +1773,28 @@ java.lang.NullPointerException: null
 [22Apr2025 23:36:31.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col joined the game
 [22Apr2025 23:38:14.023] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Removed effect Mining Fatigue from kevin99col]
 [22Apr2025 23:44:26.051] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to DARKFIRE]
+[22Apr2025 23:50:36.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to DARKFIRE]
+[22Apr2025 23:51:59.205] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Set the time to 1000]
+[22Apr2025 23:53:43.834] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DARKFIRE lost connection: Disconnected
+[22Apr2025 23:53:43.834] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE left the game
+[22Apr2025 23:54:09.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to -5959.64, 63.0, -4353.23]
+[22Apr2025 23:55:57.359] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1b04803
+[22Apr2025 23:55:57.385] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DARKFIRE[/127.9.21.201:55717] logged in with entity id 278382 at (-5963.710840437519, 64.0, -4343.248079332092)
+[22Apr2025 23:55:57.391] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE joined the game
+[22Apr2025 23:55:58.739] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DARKFIRE lost connection: Disconnected
+[22Apr2025 23:55:58.740] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE left the game
+[22Apr2025 23:56:10.899] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@298cce5d
+[22Apr2025 23:56:10.923] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DARKFIRE[/127.9.21.201:51189] logged in with entity id 278436 at (-5963.710840437519, 64.0, -4343.248079332092)
+[22Apr2025 23:56:10.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE joined the game
+[22Apr2025 23:56:12.040] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DARKFIRE lost connection: Disconnected
+[22Apr2025 23:56:12.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE left the game
+[22Apr2025 23:56:24.848] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@56505aca
+[22Apr2025 23:56:24.871] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DARKFIRE[/127.9.21.201:52167] logged in with entity id 278485 at (-5963.710840437519, 64.0, -4343.248079332092)
+[22Apr2025 23:56:24.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE joined the game
+[22Apr2025 23:56:25.891] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DARKFIRE lost connection: Disconnected
+[22Apr2025 23:56:25.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE left the game
+[22Apr2025 23:56:38.946] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6a0e58e3
+[22Apr2025 23:56:38.966] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DARKFIRE[/127.9.21.201:49487] logged in with entity id 278562 at (-5963.710840437519, 64.0, -4343.248079332092)
+[22Apr2025 23:56:38.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE joined the game
+[22Apr2025 23:56:39.988] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DARKFIRE lost connection: Disconnected
+[22Apr2025 23:56:39.988] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE left the game
