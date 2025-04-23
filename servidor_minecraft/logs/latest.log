@@ -1,198 +1,523 @@
-[23Apr2025 00:01:05.890] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to -2619.07, 20.0, -3486.9]
-[23Apr2025 00:01:23.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Set the time to 1000]
-[23Apr2025 00:01:44.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to DARKFIRE]
-[23Apr2025 00:02:18.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to -2619.07, 20.0, -3486.9]
-[23Apr2025 00:03:07.190] [Worker-Main-4/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
-[23Apr2025 00:03:07.191] [Worker-Main-4/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
-[23Apr2025 00:03:07.191] [Worker-Main-4/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
-[23Apr2025 00:03:07.239] [Worker-Main-395/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
-[23Apr2025 00:03:14.618] [Worker-Main-394/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
-[23Apr2025 00:03:14.619] [Worker-Main-394/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
-[23Apr2025 00:03:14.666] [Worker-Main-395/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
-[23Apr2025 00:03:14.666] [Worker-Main-395/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
-[23Apr2025 00:03:20.862] [Worker-Main-394/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
-[23Apr2025 00:03:20.863] [Worker-Main-394/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
-[23Apr2025 00:03:20.863] [Worker-Main-394/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
-[23Apr2025 00:03:20.863] [Worker-Main-394/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
-[23Apr2025 00:03:20.863] [Worker-Main-394/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
-[23Apr2025 00:03:20.864] [Worker-Main-394/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
-[23Apr2025 00:03:20.864] [Worker-Main-394/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
-[23Apr2025 00:03:20.864] [Worker-Main-394/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
-[23Apr2025 00:03:20.865] [Worker-Main-394/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
-[23Apr2025 00:03:20.865] [Worker-Main-394/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
-[23Apr2025 00:03:20.865] [Worker-Main-394/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
-[23Apr2025 00:03:20.865] [Worker-Main-394/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
-[23Apr2025 00:03:20.866] [Worker-Main-394/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
-[23Apr2025 00:03:20.866] [Worker-Main-394/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
-[23Apr2025 00:03:20.866] [Worker-Main-394/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
-[23Apr2025 00:03:20.866] [Worker-Main-394/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
-[23Apr2025 00:03:20.914] [Worker-Main-4/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
-[23Apr2025 00:03:20.915] [Worker-Main-4/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
-[23Apr2025 00:03:20.915] [Worker-Main-4/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
-[23Apr2025 00:03:21.110] [Worker-Main-4/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
-[23Apr2025 00:03:21.111] [Worker-Main-4/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
-[23Apr2025 00:03:21.111] [Worker-Main-4/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
-[23Apr2025 00:03:21.111] [Worker-Main-4/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
-[23Apr2025 00:03:21.112] [Worker-Main-4/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
-[23Apr2025 00:03:21.112] [Worker-Main-4/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
-[23Apr2025 00:03:21.112] [Worker-Main-4/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
-[23Apr2025 00:03:21.112] [Worker-Main-4/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
-[23Apr2025 00:03:21.113] [Worker-Main-4/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
-[23Apr2025 00:03:21.113] [Worker-Main-4/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
-[23Apr2025 00:03:21.113] [Worker-Main-4/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
-[23Apr2025 00:03:21.114] [Worker-Main-4/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
-[23Apr2025 00:03:21.114] [Worker-Main-4/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
-[23Apr2025 00:03:29.929] [Worker-Main-4/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
-[23Apr2025 00:03:29.967] [Worker-Main-394/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
-[23Apr2025 00:04:20.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to DARKFIRE]
-[23Apr2025 00:05:25.264] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: DARKFIRE moved too quickly! -10.516951824904936,0.0,-0.11862589225529518
-[23Apr2025 00:05:45.665] [Worker-Main-394/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityReindeer from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[23Apr2025 00:07:37.187] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/285578, l='ServerLevel[world]', x=-6802.63, y=65.00, z=-3968.28] died, message: 'Villager suffocated in a wall'
-[23Apr2025 00:11:07.296] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Set the time to 1000]
-[23Apr2025 00:13:11.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE has made the advancement [Ice Bucket Challenge]
-[23Apr2025 00:13:11.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE has made the advancement [Blaze Gold]
-[23Apr2025 00:15:03.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to DARKFIRE]
-[23Apr2025 00:15:03.282] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityFlyingFish from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[23Apr2025 00:15:03.282] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityFlyingFish from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
-[23Apr2025 00:15:58.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col has made the advancement [Ice Bucket Challenge]
-[23Apr2025 00:15:58.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col has made the advancement [Who is Cutting Onions?]
-[23Apr2025 00:16:55.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col has made the advancement [Sea? Not a Problem]
-[23Apr2025 00:18:00.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE has made the advancement [We Need to Go Deeper]
-[23Apr2025 00:18:00.766] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col has made the advancement [We Need to Go Deeper]
-[23Apr2025 00:23:48.066] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to kevin99col]
-[23Apr2025 00:25:34.094] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col has made the advancement [Nightmare Fuel]
-[23Apr2025 00:27:22.051] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to DARKFIRE]
-[23Apr2025 00:28:53.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE has made the advancement [Nightmare Fuel]
-[23Apr2025 00:29:31.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to DARKFIRE]
-[23Apr2025 00:30:37.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Killed 61 entities]
-[23Apr2025 00:33:04.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to DARKFIRE]
-[23Apr2025 00:36:15.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col has made the advancement [A Terrible Fortress]
-[23Apr2025 00:36:20.807] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to kevin99col]
-[23Apr2025 00:36:20.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE has made the advancement [A Terrible Fortress]
-[23Apr2025 00:40:58.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE has made the advancement [Into Fire]
-[23Apr2025 00:41:39.386] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was burnt to a crisp whilst fighting Blaze
-[23Apr2025 00:41:47.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col has made the advancement [Into Fire]
-[23Apr2025 00:43:40.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to kevin99col]
-[23Apr2025 00:52:11.738] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DARKFIRE lost connection: Disconnected
-[23Apr2025 00:52:11.739] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE left the game
-[23Apr2025 00:52:27.804] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@781e780f
-[23Apr2025 00:52:27.834] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DARKFIRE[/127.9.21.201:46145] logged in with entity id 310354 at (-1160.699999988079, 66.0, -969.7958639995634)
-[23Apr2025 00:52:27.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE joined the game
-[23Apr2025 00:54:48.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to DARKFIRE]
-[23Apr2025 00:56:19.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE fell from a high place
-[23Apr2025 00:58:16.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to kevin99col]
-[23Apr2025 00:58:42.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col has made the advancement [Those Were the Days]
-[23Apr2025 00:58:44.086] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE has made the advancement [Those Were the Days]
-[23Apr2025 00:58:45.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col has made the advancement [War Pigs]
-[23Apr2025 00:59:01.024] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE has made the advancement [War Pigs]
-[23Apr2025 00:59:47.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was slain by Piglin Brute
-[23Apr2025 01:01:03.086] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DARKFIRE lost connection: Disconnected
-[23Apr2025 01:01:03.087] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE left the game
-[23Apr2025 01:01:16.046] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@77ffb635
-[23Apr2025 01:01:16.068] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DARKFIRE[/127.9.21.201:36325] logged in with entity id 314230 at (-1079.561074351691, 73.0, -1077.9847589274038)
-[23Apr2025 01:01:16.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE joined the game
-[23Apr2025 01:02:55.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to kevin99col]
-[23Apr2025 01:03:23.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was slain by Zombified Piglin
-[23Apr2025 01:03:33.589] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col was slain by Zombified Piglin
-[23Apr2025 01:03:56.006] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to kevin99col]
-[23Apr2025 01:04:17.834] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was fireballed by Ghast
-[23Apr2025 01:04:28.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col has completed the challenge [Return to Sender]
-[23Apr2025 01:04:33.002] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DARKFIRE lost connection: Disconnected
-[23Apr2025 01:04:33.003] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE left the game
-[23Apr2025 01:04:44.611] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@a5494e7
-[23Apr2025 01:04:44.636] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DARKFIRE[/127.9.21.201:38291] logged in with entity id 315559 at (-167.5, 70.0, 79.5)
-[23Apr2025 01:04:44.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE joined the game
-[23Apr2025 01:04:52.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to kevin99col]
-[23Apr2025 01:05:02.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was slain by Zombified Piglin
-[23Apr2025 01:05:27.778] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to kevin99col]
-[23Apr2025 01:06:58.083] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DARKFIRE lost connection: Disconnected
-[23Apr2025 01:06:58.083] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE left the game
-[23Apr2025 01:07:15.448] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4148a39a
-[23Apr2025 01:07:15.471] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DARKFIRE[/127.9.21.201:45931] logged in with entity id 316045 at (-1119.1260335104707, 61.0, -1060.9418647713514)
-[23Apr2025 01:07:15.476] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE joined the game
-[23Apr2025 01:07:47.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to kevin99col]
-[23Apr2025 01:08:35.032] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DARKFIRE lost connection: Disconnected
-[23Apr2025 01:08:35.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE left the game
-[23Apr2025 01:10:31.549] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3b748755
-[23Apr2025 01:10:31.569] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DARKFIRE[/127.9.21.201:54997] logged in with entity id 316700 at (-1114.699999988079, 63.0, -1062.699999988079)
-[23Apr2025 01:10:31.574] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE joined the game
-[23Apr2025 01:13:15.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to -2619.07, 20.0, -3486.9]
-[23Apr2025 01:13:53.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to kevin99col]
-[23Apr2025 01:14:43.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to kevin99col]
-[23Apr2025 01:17:14.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to DARKFIRE]
-[23Apr2025 01:17:16.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was turned to ice by Ice Dragon
-[23Apr2025 01:17:16.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col has made the advancement [Hot Stuff]
-[23Apr2025 01:18:21.406] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to kevin99col]
-[23Apr2025 01:19:31.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to -2619.07, 20.0, -3486.9]
-[23Apr2025 01:20:52.761] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: DARKFIRE moved too quickly! 2.6616550665303293,3.0244240882136815,9.190782522044628
-[23Apr2025 01:26:25.816] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: DARKFIRE moved too quickly! -9.474832135507313,-2.121296840539191,3.2539748817521286
-[23Apr2025 01:28:10.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to DARKFIRE]
-[23Apr2025 01:28:28.320] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Set the weather to clear]
-[23Apr2025 01:28:31.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Set the time to 1000]
-[23Apr2025 01:30:12.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to DARKFIRE]
-[23Apr2025 01:30:33.515] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to -2619.07, 20.0, -3486.9]
-[23Apr2025 01:32:00.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to DARKFIRE]
-[23Apr2025 01:32:10.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col was frozen by Ice Dragon
-[23Apr2025 01:32:10.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to -2619.07, 20.0, -3486.9]
-[23Apr2025 01:33:13.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to -2619.07, 20.0, -3486.9]
-[23Apr2025 01:33:21.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE suffocated in a wall whilst fighting Ice Dragon
-[23Apr2025 01:33:23.265] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+[23Apr2025 03:24:31.959] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[23Apr2025 03:24:31.962] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.26 by Ubuntu
+[23Apr2025 03:24:32.534] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[23Apr2025 03:24:32.608] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/server2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[23Apr2025 03:24:33.347] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[23Apr2025 03:24:33.434] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[23Apr2025 03:24:33.441] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[23Apr2025 03:24:33.447] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[23Apr2025 03:24:33.453] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[23Apr2025 03:24:33.459] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[23Apr2025 03:24:33.464] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[23Apr2025 03:24:33.615] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 1:0 token recognition error at: '~'
+[23Apr2025 03:24:33.622] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 1:0 token recognition error at: '/'
+[23Apr2025 03:24:33.622] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 1:1 token recognition error at: '/'
+[23Apr2025 03:24:34.685] [main/ERROR] [mixin/]: Mixin config rei-jei-internals-workaround.mixins.json does not specify "minVersion" property
+[23Apr2025 03:24:34.718] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[23Apr2025 03:24:34.817] [main/WARN] [mixin/]: Reference map 'RoughlyEnoughItems-jei-internals-workaround-jei-internals-workaround-refmap.json' for rei-jei-internals-workaround.mixins.json could not be read. If this is a development environment you can ignore this message
+[23Apr2025 03:24:35.517] [main/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod META-INF/fieldtomethodtransformers.js function bucketitem
+java.lang.IllegalStateException: Field field_77876_a is not private and an instance field
+	at net.minecraftforge.coremod.api.ASMAPI.redirectFieldToMethod(ASMAPI.java:260) ~[coremods-4.0.6.jar:?]
+	at jdk.nashorn.internal.scripts.Script$Recompilation$101$1332A$\^eval\_$cu1$restOf.initializeCoreMod#transformer-2(<eval>:35) ~[?:?]
+	at jdk.nashorn.internal.runtime.ScriptFunctionData.invoke(ScriptFunctionData.java:657) ~[jdk.scripting.nashorn:?]
+	at jdk.nashorn.internal.runtime.ScriptFunction.invoke(ScriptFunction.java:513) ~[jdk.scripting.nashorn:?]
+	at jdk.nashorn.internal.runtime.ScriptRuntime.apply(ScriptRuntime.java:527) ~[jdk.scripting.nashorn:?]
+	at jdk.nashorn.api.scripting.ScriptObjectMirror.call(ScriptObjectMirror.java:120) ~[jdk.scripting.nashorn:?]
+	at net.minecraftforge.coremod.NashornFactory.lambda$getFunction$0(NashornFactory.java:18) ~[coremods-4.0.6.jar:4.0.6+14+master.c21a551]
+	at net.minecraftforge.coremod.transformer.CoreModClassTransformer.runCoremod(CoreModClassTransformer.java:18) ~[coremods-4.0.6.jar:?]
+	at net.minecraftforge.coremod.transformer.CoreModClassTransformer.runCoremod(CoreModClassTransformer.java:10) ~[coremods-4.0.6.jar:?]
+	at net.minecraftforge.coremod.transformer.CoreModBaseTransformer.transform(CoreModBaseTransformer.java:38) ~[coremods-4.0.6.jar:?]
+	at cpw.mods.modlauncher.TransformerHolder.transform(TransformerHolder.java:41) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.performVote(ClassTransformer.java:179) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:117) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:265) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.buildTransformedClassNodeFor(TransformingClassLoader.java:142) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.LaunchPluginHandler.lambda$null$8(LaunchPluginHandler.java:97) ~[modlauncher-8.1.3.jar:?]
+	at org.spongepowered.asm.launch.MixinLaunchPluginLegacy.getClassNode(MixinLaunchPluginLegacy.java:222) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.launch.MixinLaunchPluginLegacy.getClassNode(MixinLaunchPluginLegacy.java:207) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.transformer.ClassInfo.forName(ClassInfo.java:2005) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.getTargetClass(MixinInfo.java:1017) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargetClasses(MixinInfo.java:1007) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.parseTargets(MixinInfo.java:895) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.prepareMixins(MixinConfig.java:867) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.prepare(MixinConfig.java:775) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.prepareConfigs(MixinProcessor.java:539) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.select(MixinProcessor.java:462) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.checkSelect(MixinProcessor.java:438) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:290) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:250) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.service.modlauncher.MixinTransformationHandler.processClass(MixinTransformationHandler.java:131) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.launch.MixinLaunchPluginLegacy.processClass(MixinLaunchPluginLegacy.java:131) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at cpw.mods.modlauncher.serviceapi.ILaunchPluginService.processClassWithFlags(ILaunchPluginService.java:154) ~[modlauncher-8.1.3.jar:8.1.3+8.1.3+main-8.1.x.c94d18ec]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:85) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:265) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:136) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:98) ~[modlauncher-8.1.3.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:527) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:398) ~[?:?]
+	at net.minecraftforge.fml.loading.FMLServerLaunchProvider.lambda$launchService$0(FMLServerLaunchProvider.java:37) ~[forge-1.16.5-36.2.42.jar:36.2]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:54) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:72) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:82) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66) [modlauncher-8.1.3.jar:?]
+	at net.minecraftforge.server.ServerMain$Runner.runLauncher(ServerMain.java:49) [forge-1.16.5-36.2.42.jar:?]
+	at net.minecraftforge.server.ServerMain$Runner.access$100(ServerMain.java:46) [forge-1.16.5-36.2.42.jar:?]
+	at net.minecraftforge.server.ServerMain.main(ServerMain.java:43) [forge-1.16.5-36.2.42.jar:?]
+[23Apr2025 03:24:35.744] [main/WARN] [mixin/]: Error loading class: com/chaosthedude/naturescompass/util/BiomeSearchWorker (java.lang.ClassNotFoundException: null)
+[23Apr2025 03:24:35.744] [main/WARN] [mixin/]: @Mixin target com.chaosthedude.naturescompass.util.BiomeSearchWorker was not found cavebiomeapi-forge.mixins.json:NatureCompassCompat
+[23Apr2025 03:24:39.033] [main/WARN] [mixin/]: Error loading class: net/minecraft/entity/IChargeableMob (java.lang.ClassNotFoundException: null)
+[23Apr2025 03:24:39.035] [main/WARN] [mixin/]: Error loading class: net/minecraft/entity/IChargeableMob (java.lang.ClassNotFoundException: null)
+[23Apr2025 03:24:39.036] [main/WARN] [mixin/]: Error loading class: net/minecraft/entity/IChargeableMob (java.lang.ClassNotFoundException: null)
+[23Apr2025 03:24:39.045] [main/WARN] [mixin/]: Error loading class: net/minecraft/entity/IChargeableMob (java.lang.ClassNotFoundException: null)
+[23Apr2025 03:24:39.047] [main/WARN] [mixin/]: Error loading class: net/minecraft/entity/IChargeableMob (java.lang.ClassNotFoundException: null)
+[23Apr2025 03:24:39.067] [main/WARN] [mixin/]: @Final field field_82223_h:[I in epicfight.mixins.json:MixinWitherBoss should be final
+[23Apr2025 03:24:39.067] [main/WARN] [mixin/]: @Final field field_82224_i:[I in epicfight.mixins.json:MixinWitherBoss should be final
+[23Apr2025 03:24:42.922] [main/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod META-INF/fieldtomethodtransformers.js function bucketitem
+java.lang.IllegalStateException: Field field_77876_a is not private and an instance field
+	at net.minecraftforge.coremod.api.ASMAPI.redirectFieldToMethod(ASMAPI.java:260) ~[coremods-4.0.6.jar:?]
+	at jdk.nashorn.internal.scripts.Script$Recompilation$101$1332A$\^eval\_.initializeCoreMod#transformer-2(<eval>:35) ~[?:?]
+	at jdk.nashorn.internal.runtime.ScriptFunctionData.invoke(ScriptFunctionData.java:657) ~[jdk.scripting.nashorn:?]
+	at jdk.nashorn.internal.runtime.ScriptFunction.invoke(ScriptFunction.java:513) ~[jdk.scripting.nashorn:?]
+	at jdk.nashorn.internal.runtime.ScriptRuntime.apply(ScriptRuntime.java:527) ~[jdk.scripting.nashorn:?]
+	at jdk.nashorn.api.scripting.ScriptObjectMirror.call(ScriptObjectMirror.java:120) ~[jdk.scripting.nashorn:?]
+	at net.minecraftforge.coremod.NashornFactory.lambda$getFunction$0(NashornFactory.java:18) ~[coremods-4.0.6.jar:4.0.6+14+master.c21a551]
+	at net.minecraftforge.coremod.transformer.CoreModClassTransformer.runCoremod(CoreModClassTransformer.java:18) ~[coremods-4.0.6.jar:?]
+	at net.minecraftforge.coremod.transformer.CoreModClassTransformer.runCoremod(CoreModClassTransformer.java:10) ~[coremods-4.0.6.jar:?]
+	at net.minecraftforge.coremod.transformer.CoreModBaseTransformer.transform(CoreModBaseTransformer.java:38) ~[coremods-4.0.6.jar:?]
+	at cpw.mods.modlauncher.TransformerHolder.transform(TransformerHolder.java:41) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.performVote(ClassTransformer.java:179) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:117) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:265) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:136) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:98) ~[modlauncher-8.1.3.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:527) ~[?:?]
+	at net.minecraft.util.registry.Registry.func_218353_F(Registry.java:159) ~[?:?]
+	at net.minecraft.util.registry.Registry.lambda$static$51(Registry.java:466) ~[?:?]
+	at java.util.LinkedHashMap.forEach(LinkedHashMap.java:684) ~[?:?]
+	at net.minecraft.util.registry.Registry.<clinit>(Registry.java:465) ~[?:?]
+	at net.minecraft.util.registry.Bootstrap.func_151354_b(Bootstrap.java:38) ~[?:?]
+	at net.minecraft.server.Main.main(Main.java:92) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+	at net.minecraftforge.fml.loading.FMLServerLaunchProvider.lambda$launchService$0(FMLServerLaunchProvider.java:37) ~[forge-1.16.5-36.2.42.jar:36.2]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:54) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:72) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:82) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66) [modlauncher-8.1.3.jar:?]
+	at net.minecraftforge.server.ServerMain$Runner.runLauncher(ServerMain.java:49) [forge-1.16.5-36.2.42.jar:?]
+	at net.minecraftforge.server.ServerMain$Runner.access$100(ServerMain.java:46) [forge-1.16.5-36.2.42.jar:?]
+	at net.minecraftforge.server.ServerMain.main(ServerMain.java:43) [forge-1.16.5-36.2.42.jar:?]
+[23Apr2025 03:24:44.930] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[23Apr2025 03:24:44.936] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[23Apr2025 03:24:44.936] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[23Apr2025 03:24:44.936] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[23Apr2025 03:24:45.180] [main/INFO] [PluginManager/]: Scanning classes for titanium
+[23Apr2025 03:24:45.199] [main/INFO] [PluginManager/]: Found FeaturePluginInstance for class DefaultResourceRegistryPlugin for plugin resources
+[23Apr2025 03:24:45.827] [modloading-worker-1/INFO] [STDOUT/]: [net.joefoxe.hexerei.config.HexConfig:loadConfig:60]: config check
+[23Apr2025 03:24:47.001] [modloading-worker-2/INFO] [dev.itsmeow.betteranimalsplus.BetterAnimalsPlusMod/]: Injecting super coyotes...
+[23Apr2025 03:24:47.005] [modloading-worker-3/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[23Apr2025 03:24:47.005] [modloading-worker-3/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[23Apr2025 03:24:47.189] [modloading-worker-3/INFO] [PluginManager/]: Scanning classes for titanium
+[23Apr2025 03:24:47.211] [modloading-worker-3/INFO] [PluginManager/]: Constructed class DefaultResourceRegistryPlugin for plugin resources for mod titanium
+[23Apr2025 03:24:47.215] [modloading-worker-3/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class DefaultResourceRegistryPlugin
+[23Apr2025 03:24:47.859] [modloading-worker-3/INFO] [ironfurnaces.IronFurnaces/]: Initializing Update Checker...
+[23Apr2025 03:24:47.860] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Starting Update Check...
+[23Apr2025 03:24:48.630] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Update Check done!
+[23Apr2025 03:24:48.630] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Iron Furnaces is up to date!
+[23Apr2025 03:24:49.122] [modloading-worker-1/INFO] [REI/]: Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIServerPlugin
+[23Apr2025 03:24:49.139] [modloading-worker-1/INFO] [REI/]: Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIPlugin
+[23Apr2025 03:24:49.141] [modloading-worker-1/INFO] [REI/]: Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
+[23Apr2025 03:24:49.141] [modloading-worker-1/INFO] [REI/]: Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
+[23Apr2025 03:24:49.142] [modloading-worker-1/INFO] [REI/]: Registered plugin provider JEIExtraPlugin [roughlyenoughitems] for REIServerPlugin
+[23Apr2025 03:24:49.142] [modloading-worker-1/INFO] [REI/]: Registered plugin provider JEIExtraPlugin [roughlyenoughitems] for REIPlugin
+[23Apr2025 03:24:49.189] [modloading-worker-1/INFO] [PluginManager/]: Scanning classes for portality
+[23Apr2025 03:24:49.256] [modloading-worker-3/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[23Apr2025 03:24:49.480] [modloading-worker-3/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[23Apr2025 03:24:49.483] [modloading-worker-3/INFO] [Spartan Weaponry/]: Initialising API! Version: 6
+[23Apr2025 03:24:51.158] [modloading-worker-2/INFO] [libIPN/]: [libIPN] libIPN - init in Kotlin
+[23Apr2025 03:24:51.370] [modloading-worker-1/INFO] [Inventory Profiles Next/]: [Inventory Profiles Next] Inventory Profiles Next - init in Kotlin
+[23Apr2025 03:25:04.199] [main/INFO] [net.joefoxe.hexerei.Hexerei/]: HELLO from Register Block
+[23Apr2025 03:25:06.483] [main/INFO] [Spartan Shields/]: Registering Items
+[23Apr2025 03:25:06.485] [main/INFO] [Spartan Shields/]: Registered Items successfully!
+[23Apr2025 03:25:06.605] [main/INFO] [Spartan Weaponry/]: Registering items...
+[23Apr2025 03:25:06.609] [main/INFO] [Spartan Weaponry/]: Items Registered!
+[23Apr2025 03:25:06.684] [main/INFO] [Bookshelf/]: Registered 11 GlobalLootModifierSerializer entries in 3.56ms.
+[23Apr2025 03:25:06.815] [main/INFO] [Spartan Shields/]: Registering Enchantments
+[23Apr2025 03:25:06.815] [main/INFO] [Spartan Shields/]: Registered Enchantments successfully!
+[23Apr2025 03:25:07.028] [main/INFO] [Spartan Weaponry/]: Registering Entities
+[23Apr2025 03:25:07.200] [main/INFO] [Bookshelf/]: Registered 22 ingredient serializers.
+[23Apr2025 03:25:07.200] [main/INFO] [Bookshelf/]: Registered 5 IRecipeSerializer entries in 0.23ms.
+[23Apr2025 03:25:08.135] [main/INFO] [ModdingLegacy/structure_gel/Compat/]: Checking for biome dictionary registry methods in other mods.
+[23Apr2025 03:25:08.700] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[23Apr2025 03:25:08.705] [Thread-0/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[23Apr2025 03:25:08.803] [main/INFO] [quark/]: Loading Module Chain Linkage
+[23Apr2025 03:25:08.805] [main/INFO] [quark/]: Loading Module Chains Connect Blocks
+[23Apr2025 03:25:08.808] [main/INFO] [quark/]: Loading Module Chute
+[23Apr2025 03:25:08.808] [main/INFO] [quark/]: Loading Module Color Slime
+[23Apr2025 03:25:08.808] [main/INFO] [quark/]: Loading Module Dispensers Place Blocks
+[23Apr2025 03:25:08.808] [main/INFO] [quark/]: Loading Module Ender Watcher
+[23Apr2025 03:25:08.808] [main/INFO] [quark/]: Loading Module Endermites Form Shulkers
+[23Apr2025 03:25:08.809] [main/INFO] [quark/]: Loading Module Feeding Trough
+[23Apr2025 03:25:08.810] [main/INFO] [quark/]: Loading Module Gravisand
+[23Apr2025 03:25:08.825] [main/INFO] [quark/]: Loading Module Iron Rod
+[23Apr2025 03:25:08.825] [main/INFO] [quark/]: Loading Module Jukebox Automation
+[23Apr2025 03:25:08.830] [main/INFO] [quark/]: Loading Module Metal Buttons
+[23Apr2025 03:25:08.830] [main/INFO] [quark/]: Loading Module Obsidian Plate
+[23Apr2025 03:25:08.830] [main/INFO] [quark/]: Loading Module Pistons Move Tile Entities
+[23Apr2025 03:25:08.832] [main/INFO] [quark/]: Loading Module Redstone Circuit
+[23Apr2025 03:25:08.833] [main/INFO] [quark/]: Loading Module Weather Sensor
+[23Apr2025 03:25:08.833] [main/INFO] [quark/]: Loading Module Bamboo Mat
+[23Apr2025 03:25:08.833] [main/INFO] [quark/]: Loading Module Burn Vines
+[23Apr2025 03:25:08.834] [main/INFO] [quark/]: Loading Module Celebratory Lamps
+[23Apr2025 03:25:08.834] [main/INFO] [quark/]: Loading Module Cobblestone Bricks
+[23Apr2025 03:25:08.834] [main/INFO] [quark/]: Loading Module Compressed Blocks
+[23Apr2025 03:25:08.834] [main/INFO] [quark/]: Loading Module Duskbound Blocks
+[23Apr2025 03:25:08.835] [main/INFO] [quark/]: Loading Module Framed Glass
+[23Apr2025 03:25:08.835] [main/INFO] [quark/]: Loading Module Gold Bars
+[23Apr2025 03:25:08.835] [main/INFO] [quark/]: Loading Module Grate
+[23Apr2025 03:25:08.835] [main/INFO] [quark/]: Loading Module Hedges
+[23Apr2025 03:25:08.835] [main/INFO] [quark/]: Loading Module Iron Plates
+[23Apr2025 03:25:08.835] [main/INFO] [quark/]: Loading Module Item Frames
+[23Apr2025 03:25:08.835] [main/INFO] [quark/]: Loading Module Leaf Carpet
+[23Apr2025 03:25:08.836] [main/INFO] [quark/]: Loading Module Lit Lamp
+[23Apr2025 03:25:08.836] [main/INFO] [quark/]: Loading Module Midori
+[23Apr2025 03:25:08.836] [main/INFO] [quark/]: Loading Module More Brick Types
+[23Apr2025 03:25:08.836] [main/INFO] [quark/]: Loading Module More Potted Plants
+[23Apr2025 03:25:08.836] [main/INFO] [quark/]: Loading Module More Stone Variants
+[23Apr2025 03:25:08.836] [main/INFO] [quark/]: Loading Module Nether Brick Fence Gate
+[23Apr2025 03:25:08.836] [main/INFO] [quark/]: Loading Module Paper Decor
+[23Apr2025 03:25:08.837] [main/INFO] [quark/]: Loading Module Quilted Wool
+[23Apr2025 03:25:08.837] [main/INFO] [quark/]: Loading Module Rope
+[23Apr2025 03:25:08.837] [main/INFO] [quark/]: Loading Module Shallow Dirt
+[23Apr2025 03:25:08.838] [main/INFO] [quark/]: Loading Module Shingles
+[23Apr2025 03:25:08.838] [main/INFO] [quark/]: Loading Module Soul Sandstone
+[23Apr2025 03:25:08.838] [main/INFO] [quark/]: Loading Module Stained Planks
+[23Apr2025 03:25:08.838] [main/INFO] [quark/]: Loading Module Stools
+[23Apr2025 03:25:08.839] [main/INFO] [quark/]: Loading Module Sturdy Stone
+[23Apr2025 03:25:08.839] [main/INFO] [quark/]: Loading Module Tallow And Candles
+[23Apr2025 03:25:08.840] [main/INFO] [quark/]: Loading Module Thatch
+[23Apr2025 03:25:08.840] [main/INFO] [quark/]: Loading Module Tie Leads To Fences
+[23Apr2025 03:25:08.840] [main/INFO] [quark/]: Loading Module Turf
+[23Apr2025 03:25:08.840] [main/INFO] [quark/]: Loading Module Variant Bookshelves
+[23Apr2025 03:25:08.841] [main/INFO] [quark/]: Loading Module Variant Chests
+[23Apr2025 03:25:08.842] [main/INFO] [quark/]: Loading Module Variant Ladders
+[23Apr2025 03:25:08.843] [main/INFO] [quark/]: Loading Module Vertical Planks
+[23Apr2025 03:25:08.843] [main/INFO] [quark/]: Loading Module Vertical Slabs
+[23Apr2025 03:25:08.843] [main/INFO] [quark/]: Loading Module Wooden Posts
+[23Apr2025 03:25:08.843] [main/INFO] [quark/]: Loading Module Chests In Boats
+[23Apr2025 03:25:08.844] [main/INFO] [quark/]: Loading Module Easy Transfering
+[23Apr2025 03:25:08.845] [main/INFO] [quark/]: Loading Module Hotbar Changer
+[23Apr2025 03:25:08.845] [main/INFO] [quark/]: Loading Module Inventory Sorting
+[23Apr2025 03:25:08.845] [main/INFO] [quark/]: Loading Module Item Sharing
+[23Apr2025 03:25:08.845] [main/INFO] [quark/]: Loading Module Right Click Armor
+[23Apr2025 03:25:08.845] [main/INFO] [quark/]: Loading Module Shulker Box Right Click
+[23Apr2025 03:25:08.846] [main/INFO] [quark/]: Loading Module Endermosh Music Disc
+[23Apr2025 03:25:08.847] [main/INFO] [quark/]: Loading Module Abacus
+[23Apr2025 03:25:08.847] [main/INFO] [quark/]: Loading Module Ambient Discs
+[23Apr2025 03:25:08.847] [main/INFO] [quark/]: Loading Module Ancient Tomes
+[23Apr2025 03:25:08.848] [main/INFO] [quark/]: Loading Module Bottled Cloud
+[23Apr2025 03:25:08.849] [main/INFO] [quark/]: Loading Module Camera
+[23Apr2025 03:25:08.849] [main/INFO] [quark/]: Loading Module Color Runes
+[23Apr2025 03:25:08.850] [main/INFO] [quark/]: Loading Module Pathfinder Maps
+[23Apr2025 03:25:08.851] [main/INFO] [quark/]: Loading Module Pickarang
+[23Apr2025 03:25:08.851] [main/INFO] [quark/]: Loading Module Seed Pouch
+[23Apr2025 03:25:08.852] [main/INFO] [quark/]: Loading Module Slime In A Bucket
+[23Apr2025 03:25:08.853] [main/INFO] [quark/]: Loading Module Trowel
+[23Apr2025 03:25:08.853] [main/INFO] [quark/]: Loading Module Skull Pikes
+[23Apr2025 03:25:08.854] [main/INFO] [quark/]: Loading Module Armed Armor Stands
+[23Apr2025 03:25:08.854] [main/INFO] [quark/]: Loading Module Automatic Recipe Unlock
+[23Apr2025 03:25:08.856] [main/INFO] [quark/]: Loading Module Axe Leaf Harvesting
+[23Apr2025 03:25:08.857] [main/INFO] [quark/]: Loading Module Better Elytra Rocket
+[23Apr2025 03:25:08.857] [main/INFO] [quark/]: Loading Module Campfires Boost Elytra
+[23Apr2025 03:25:08.858] [main/INFO] [quark/]: Loading Module Compasses Work Everywhere
+[23Apr2025 03:25:08.859] [main/INFO] [quark/]: Loading Module Dirt To Path
+[23Apr2025 03:25:08.860] [main/INFO] [quark/]: Loading Module Double Door Opening
+[23Apr2025 03:25:08.860] [main/INFO] [quark/]: Loading Module Dragon Scales
+[23Apr2025 03:25:08.861] [main/INFO] [quark/]: Loading Module Emotes
+[23Apr2025 03:25:08.861] [main/INFO] [quark/]: Loading Module Enhanced Ladders
+[23Apr2025 03:25:08.862] [main/INFO] [quark/]: Loading Module Glass Shard
+[23Apr2025 03:25:08.863] [main/INFO] [quark/]: Loading Module Hoe Harvesting
+[23Apr2025 03:25:08.863] [main/INFO] [quark/]: Loading Module Improved Sleeping
+[23Apr2025 03:25:08.864] [main/INFO] [quark/]: Loading Module Infinity Bucket
+[23Apr2025 03:25:08.865] [main/INFO] [quark/]: Loading Module Lava Bucket As Trash
+[23Apr2025 03:25:08.866] [main/INFO] [quark/]: Loading Module Lock Rotation
+[23Apr2025 03:25:08.868] [main/INFO] [quark/]: Loading Module More Banner Layers
+[23Apr2025 03:25:08.869] [main/INFO] [quark/]: Loading Module Note Block Mob Sounds
+[23Apr2025 03:25:08.869] [main/INFO] [quark/]: Loading Module Pat The Dogs
+[23Apr2025 03:25:08.872] [main/INFO] [quark/]: Loading Module Poison Potato Usage
+[23Apr2025 03:25:08.884] [main/INFO] [quark/]: Loading Module Reacharound Placing
+[23Apr2025 03:25:08.892] [main/INFO] [quark/]: Loading Module Replace Scaffolding
+[23Apr2025 03:25:08.892] [main/INFO] [quark/]: Loading Module Sign Editing
+[23Apr2025 03:25:08.893] [main/INFO] [quark/]: Loading Module Simple Harvest
+[23Apr2025 03:25:08.894] [main/INFO] [quark/]: Loading Module Snow Golem Player Heads
+[23Apr2025 03:25:08.894] [main/INFO] [quark/]: Loading Module Springy Slime
+[23Apr2025 03:25:08.894] [main/INFO] [quark/]: Loading Module Utility Recipes
+[23Apr2025 03:25:08.895] [main/INFO] [quark/]: Loading Module Villagers Follow Emeralds
+[23Apr2025 03:25:08.896] [main/INFO] [quark/]: Loading Module Big Dungeon
+[23Apr2025 03:25:08.897] [main/INFO] [quark/]: Loading Module Big Stone Clusters
+[23Apr2025 03:25:08.897] [main/INFO] [quark/]: Loading Module Biotite
+[23Apr2025 03:25:08.898] [main/INFO] [quark/]: Loading Module Blossom Trees
+[23Apr2025 03:25:08.898] [main/INFO] [quark/]: Loading Module Cave Roots
+[23Apr2025 03:25:08.898] [main/INFO] [quark/]: Loading Module Chorus Vegetation
+[23Apr2025 03:25:08.898] [main/INFO] [quark/]: Loading Module Crevices
+[23Apr2025 03:25:08.898] [main/INFO] [quark/]: Loading Module Deepslate
+[23Apr2025 03:25:08.899] [main/INFO] [quark/]: Loading Module Fairy Rings
+[23Apr2025 03:25:08.899] [main/INFO] [quark/]: Loading Module Mega Caves
+[23Apr2025 03:25:08.899] [main/INFO] [quark/]: Loading Module Monster Box
+[23Apr2025 03:25:08.899] [main/INFO] [quark/]: Loading Module Nether Obsidian Spikes
+[23Apr2025 03:25:08.900] [main/INFO] [quark/]: Loading Module New Stone Types
+[23Apr2025 03:25:08.900] [main/INFO] [quark/]: Loading Module Realistic World Gen
+[23Apr2025 03:25:08.901] [main/INFO] [quark/]: Loading Module Speleothems
+[23Apr2025 03:25:08.901] [main/INFO] [quark/]: Loading Module Spiral Spires
+[23Apr2025 03:25:08.904] [main/INFO] [quark/]: Loading Module Underground Clay
+[23Apr2025 03:25:08.904] [main/INFO] [quark/]: Loading Module Brimstone Underground Biome
+[23Apr2025 03:25:08.904] [main/INFO] [quark/]: Loading Module Cave Crystal Underground Biome
+[23Apr2025 03:25:08.904] [main/INFO] [quark/]: Loading Module Elder Prismarine Underground Biome
+[23Apr2025 03:25:08.904] [main/INFO] [quark/]: Loading Module Glowshroom Underground Biome
+[23Apr2025 03:25:08.904] [main/INFO] [quark/]: Loading Module Lush Underground Biome
+[23Apr2025 03:25:08.905] [main/INFO] [quark/]: Loading Module Overgrown Underground Biome
+[23Apr2025 03:25:08.905] [main/INFO] [quark/]: Loading Module Permafrost Underground Biome
+[23Apr2025 03:25:08.905] [main/INFO] [quark/]: Loading Module Sandstone Underground Biome
+[23Apr2025 03:25:08.905] [main/INFO] [quark/]: Loading Module Slime Underground Biome
+[23Apr2025 03:25:08.905] [main/INFO] [quark/]: Loading Module Spider Nest Underground Biome
+[23Apr2025 03:25:08.906] [main/INFO] [quark/]: Loading Module Crabs
+[23Apr2025 03:25:08.907] [main/INFO] [quark/]: Loading Module Forgotten
+[23Apr2025 03:25:08.907] [main/INFO] [quark/]: Loading Module Foxhound
+[23Apr2025 03:25:08.908] [main/INFO] [quark/]: Loading Module Frogs
+[23Apr2025 03:25:08.909] [main/INFO] [quark/]: Loading Module Stonelings
+[23Apr2025 03:25:08.909] [main/INFO] [quark/]: Loading Module Toretoise
+[23Apr2025 03:25:08.910] [main/INFO] [quark/]: Loading Module Wraith
+[23Apr2025 03:25:08.910] [main/INFO] [quark/]: Loading Module Auto Walk Keybind
+[23Apr2025 03:25:08.910] [main/INFO] [quark/]: Loading Module Back Button Keybind
+[23Apr2025 03:25:08.910] [main/INFO] [quark/]: Loading Module Chest Searching
+[23Apr2025 03:25:08.910] [main/INFO] [quark/]: Loading Module Greener Grass
+[23Apr2025 03:25:08.910] [main/INFO] [quark/]: Loading Module Improved Mount Hud
+[23Apr2025 03:25:08.910] [main/INFO] [quark/]: Loading Module Improved Tooltips
+[23Apr2025 03:25:08.910] [main/INFO] [quark/]: Loading Module Usage Ticker
+[23Apr2025 03:25:08.910] [main/INFO] [quark/]: Loading Module Variant Animal Textures
+[23Apr2025 03:25:08.911] [main/INFO] [quark/]: Loading Module Backpack
+[23Apr2025 03:25:08.911] [main/INFO] [quark/]: Loading Module Crate
+[23Apr2025 03:25:08.911] [main/INFO] [quark/]: Loading Module Magnets
+[23Apr2025 03:25:08.911] [main/INFO] [quark/]: Loading Module Matrix Enchanting
+[23Apr2025 03:25:08.911] [main/INFO] [quark/]: Loading Module Pipes
+[23Apr2025 03:25:08.911] [main/INFO] [quark/]: Loading Module Totem Of Holding
+[23Apr2025 03:25:08.911] [main/INFO] [quark/]: Loading Module Adjustable Chat
+[23Apr2025 03:25:08.911] [main/INFO] [quark/]: Loading Module Custom Underground Biome
+[23Apr2025 03:25:08.911] [main/INFO] [quark/]: Loading Module Game Nerfs
+[23Apr2025 03:25:08.912] [main/INFO] [quark/]: Loading Module Microcrafting Helper
+[23Apr2025 03:25:08.912] [main/INFO] [quark/]: Loading Module Narrator Readout
+[23Apr2025 03:25:08.912] [main/INFO] [quark/]: Loading Module Overlay Shader
+[23Apr2025 03:25:08.912] [main/INFO] [quark/]: Loading Module Pallet
+[23Apr2025 03:25:08.912] [main/INFO] [quark/]: Loading Module Shiba
+[23Apr2025 03:25:09.049] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for hexerei:pigeon, use EntityAttributeCreationEvent instead.
+[23Apr2025 03:25:09.109] [modloading-worker-3/INFO] [dev.itsmeow.betteranimalsplus.BetterAnimalsPlusMod/]: Overspawning lammergeiers...
+[23Apr2025 03:25:09.109] [modloading-worker-3/INFO] [Bookshelf/]: Registering 3 command argument types.
+[23Apr2025 03:25:09.109] [modloading-worker-3/INFO] [Bookshelf/]: Registering 13 loot conditions.
+[23Apr2025 03:25:09.206] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moremcmeta] Starting version check at https://moremcmeta.github.io/update/core.json
+[23Apr2025 03:25:09.292] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[23Apr2025 03:25:09.321] [modloading-worker-3/INFO] [lostcities/]: Creating standard profiles into 'config/lostcities/profiles'
+[23Apr2025 03:25:09.330] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moremcmeta] Found status: UP_TO_DATE Current: 1.16.5-4.4.7 Target: null
+[23Apr2025 03:25:09.335] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[23Apr2025 03:25:09.386] [modloading-worker-3/INFO] [lostcities/]: Reading existing profiles from 'config/lostcities/profiles'
+[23Apr2025 03:25:09.405] [modloading-worker-1/INFO] [gobber2/]: Gobber common setup
+[23Apr2025 03:25:09.408] [modloading-worker-1/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[23Apr2025 03:25:09.457] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 java.lang.NullPointerException: null
-	at net.minecraft.world.server.TicketManager.func_219367_b(TicketManager.java:227) ~[?:?]
-	at net.minecraft.world.server.ChunkManager.func_219183_a(ChunkManager.java:884) ~[?:?]
-	at net.minecraft.world.server.ServerChunkProvider.func_217221_a(ServerChunkProvider.java:450) ~[?:?]
-	at net.minecraft.network.play.ServerPlayNetHandler.func_147347_a(ServerPlayNetHandler.java:845) ~[?:?]
-	at net.minecraft.network.play.client.CPlayerPacket.func_148833_a(SourceFile:122) ~[?:?]
-	at net.minecraft.network.play.client.CPlayerPacket$PositionRotationPacket.func_148833_a(SourceFile:18) ~[?:?]
-	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
-	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
-	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-[23Apr2025 01:33:38.394] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was frozen by Ice Dragon
-[23Apr2025 01:34:13.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was frozen by Ice Dragon
-[23Apr2025 01:34:37.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was slain by Ice Dragon
-[23Apr2025 01:34:46.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to DARKFIRE]
-[23Apr2025 01:35:23.099] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Set the time to 1000]
-[23Apr2025 01:36:31.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to -2619.07, 20.0, -3486.9]
-[23Apr2025 01:36:55.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Set the time to 1000]
-[23Apr2025 01:37:15.498] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to kevin99col]
-[23Apr2025 01:37:41.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to DARKFIRE]
-[23Apr2025 01:38:20.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col has made the advancement [Mine? Mine? Mine?]
-[23Apr2025 01:38:34.098] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Set the weather to clear]
-[23Apr2025 01:38:38.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Set the time to 1000]
-[23Apr2025 01:38:48.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to kevin99col]
-[23Apr2025 01:39:06.974] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to -2619.07, 20.0, -3486.9]
-[23Apr2025 01:40:30.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to kevin99col]
-[23Apr2025 01:40:43.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to DARKFIRE]
-[23Apr2025 01:40:46.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE has made the advancement [Take Aim]
-[23Apr2025 01:41:14.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was turned to ice by Ice Dragon
-[23Apr2025 01:41:38.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to -2619.07, 20.0, -3486.9]
-[23Apr2025 01:41:43.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to kevin99col]
-[23Apr2025 01:42:02.450] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to DARKFIRE]
-[23Apr2025 01:42:22.662] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to DARKFIRE]
-[23Apr2025 01:42:26.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to kevin99col]
-[23Apr2025 01:42:37.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to -2619.07, 20.0, -3486.9]
-[23Apr2025 01:42:44.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to DARKFIRE]
-[23Apr2025 01:42:49.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE has made the advancement [Dragonslayer]
-[23Apr2025 01:43:46.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Set the weather to clear]
-[23Apr2025 01:49:20.234] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Set the weather to clear]
-[23Apr2025 01:49:22.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Set the time to 1000]
-[23Apr2025 01:54:53.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Set the weather to clear]
-[23Apr2025 01:54:57.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Set the time to 1000]
-[23Apr2025 01:55:02.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to kevin99col]
-[23Apr2025 01:55:09.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to kevin99col]
-[23Apr2025 01:59:04.812] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to -6248.94, 66.0, -4243.01]
-[23Apr2025 02:00:03.517] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Set the weather to clear]
-[23Apr2025 02:02:29.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to kevin99col]
-[23Apr2025 02:05:23.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Set the weather to clear]
-[23Apr2025 02:05:31.593] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Set the time to 1000]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:160) ~[forge:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
+[23Apr2025 03:25:09.467] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.16.5
+[23Apr2025 03:25:09.469] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:leash_knot_fake, use EntityAttributeCreationEvent instead.
+[23Apr2025 03:25:09.494] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:stoneling, use EntityAttributeCreationEvent instead.
+[23Apr2025 03:25:09.497] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:shiba, use EntityAttributeCreationEvent instead.
+[23Apr2025 03:25:09.498] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:crab, use EntityAttributeCreationEvent instead.
+[23Apr2025 03:25:09.499] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:wrapped, use EntityAttributeCreationEvent instead.
+[23Apr2025 03:25:09.502] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:toretoise, use EntityAttributeCreationEvent instead.
+[23Apr2025 03:25:09.556] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:foxhound, use EntityAttributeCreationEvent instead.
+[23Apr2025 03:25:09.571] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:frog, use EntityAttributeCreationEvent instead.
+[23Apr2025 03:25:09.572] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:wraith, use EntityAttributeCreationEvent instead.
+[23Apr2025 03:25:09.593] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:forgotten, use EntityAttributeCreationEvent instead.
+[23Apr2025 03:25:09.734] [main/INFO] [journeymap/]: Initializing Packet Registries
+[23Apr2025 03:25:09.845] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 10.4.33 Target: 10.4.33
+[23Apr2025 03:25:09.845] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[23Apr2025 03:25:09.975] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
+[23Apr2025 03:25:09.976] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchantmentdescriptions&gv=1.16.5
+[23Apr2025 03:25:10.015] [modloading-worker-1/INFO] [gobber2/]: Gobber server setup
+[23Apr2025 03:25:10.078] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 7.1.27 Target: 7.1.27
+[23Apr2025 03:25:10.079] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.14/update.json
+[23Apr2025 03:25:10.090] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 4.10.0 Target: null
+[23Apr2025 03:25:10.093] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentgear] Starting version check at https://raw.githubusercontent.com/SilentChaos512/Silent-Gear/1.16.x/update.json
+[23Apr2025 03:25:10.102] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentgear] Found status: UP_TO_DATE Current: 2.6.36 Target: null
+[23Apr2025 03:25:10.103] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://maxhenkel.de/update/gravestone.json
+[23Apr2025 03:25:10.892] [modloading-worker-3/INFO] [gobber2/]: Gobber IMC setup
+[23Apr2025 03:25:10.920] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Attempting to register unregistered biomes to the biome dictionary. This can be disabled via config.
+[23Apr2025 03:25:11.203] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.lang.NullPointerException: null
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:160) ~[forge:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
+[23Apr2025 03:25:11.206] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastleafdecay] Starting version check at http://olafkeijsers.net/fastleafdecay-update.json
+[23Apr2025 03:25:11.625] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastleafdecay] Found status: UP_TO_DATE Current: v25.2 Target: null
+[23Apr2025 03:25:11.679] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered environmental:marsh to structure_gel:[]
+[23Apr2025 03:25:11.679] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered environmental:blossom_woods to structure_gel:[]
+[23Apr2025 03:25:11.679] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered cavesandcliffs:lush_caves to structure_gel:[]
+[23Apr2025 03:25:11.679] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered hexerei:willow_swamp to structure_gel:[]
+[23Apr2025 03:25:11.680] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered cavesandcliffs:meadow to structure_gel:[]
+[23Apr2025 03:25:11.680] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered cavebiomeapi:cave to structure_gel:[]
+[23Apr2025 03:25:11.680] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered environmental:blossom_hills to structure_gel:[]
+[23Apr2025 03:25:11.680] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered environmental:mushroom_marsh to structure_gel:[]
+[23Apr2025 03:25:11.680] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered environmental:blossom_highlands to structure_gel:[]
+[23Apr2025 03:25:11.680] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered cavesandcliffs:grove to structure_gel:[]
+[23Apr2025 03:25:11.680] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered cavesandcliffs:frozen_peaks to structure_gel:[]
+[23Apr2025 03:25:11.680] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered cavesandcliffs:jagged_peaks to structure_gel:[]
+[23Apr2025 03:25:11.680] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered cavesandcliffs:dripstone_caves to structure_gel:[]
+[23Apr2025 03:25:11.680] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered environmental:blossom_valleys to structure_gel:[]
+[23Apr2025 03:25:11.680] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered cavesandcliffs:stony_peaks to structure_gel:[]
+[23Apr2025 03:25:11.681] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered cavesandcliffs:snowy_slopes to structure_gel:[]
+[23Apr2025 03:25:11.681] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_plus:tower
+[23Apr2025 03:25:11.681] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_plus:bigger_dungeon
+[23Apr2025 03:25:11.682] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_plus:leviathan
+[23Apr2025 03:25:11.682] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_plus:snowy_temple
+[23Apr2025 03:25:11.682] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_plus:end_ruins
+[23Apr2025 03:25:11.682] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_plus:warped_garden
+[23Apr2025 03:25:11.682] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_plus:soul_prison
+[23Apr2025 03:25:20.308] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23Apr2025 03:25:21.353] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [mahousummon, treasury, stack, pos, anim_speed, proj_speed, acc, r, g, b, aim] and [mahousummon, treasury, stack, pos, anim_speed, proj_speed, acc, r, g, b, target] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23Apr2025 03:25:21.356] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [mahousummon, wepproj, stack, pos, proj_speed, acc, aim] and [mahousummon, wepproj, stack, pos, proj_speed, acc, target] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23Apr2025 03:25:21.365] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23Apr2025 03:25:21.367] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23Apr2025 03:25:21.371] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23Apr2025 03:25:21.373] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23Apr2025 03:25:21.376] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23Apr2025 03:25:21.379] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [waypoint, create, name, dimension, location, color, announce] and [waypoint, create, name, dimension, location, color, player] with inputs: [true, false]
+[23Apr2025 03:25:21.381] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [waypoint, delete, name, announce] and [waypoint, delete, name, player] with inputs: [true, false]
+[23Apr2025 03:25:21.447] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.42-universal.jar, hexerei-0.1.4.jar, mowziesmobs-1.5.27.jar, moremcmeta-1.16.5-4.4.7-forge.jar, Cucumber-1.16.5-4.1.12.jar, spiders-2.0-1.16.4-1.0.4.jar, abnormals_core-1.16.5-3.3.1.jar, obscure_api-11.jar, Neat 1.7-27.jar, IronJetpacks-1.16.5-4.2.3.jar, epicfight-16.6.5.jar, journeymap-1.16.5-5.8.6.jar, citadel-1.8.1-1.16.5.jar, alexsmobs-1.12.1.jar, environmental-1.16.5-1.1.1.jar, betteranimalsplus-1.16.5-11.0.10-forge.jar, Bookshelf-Forge-1.16.5-10.4.33.jar, sophisticatedbackpacks-1.16.5-3.15.20.755.jar, mahoutsukai-1.16.5-v1.34.62.jar, iceandfire-2.1.12-1.16.5-patch-1.jar, tl_skin_cape_forge_1.16.5-1.19.jar, structure_gel-1.16.5-1.7.8.jar, ironchest-1.16.5-11.2.21.jar, libIPN-forge-1.16-3.0.2.jar, EnchantmentDescriptions-1.16.5-7.1.27.jar, titanium-1.16.5-3.2.8.9-25.jar, silent-lib-1.16.5-4.10.0.jar, BiomesOPlenty-1.16.5-13.1.0.488-universal.jar, ironfurnaces-1.16.5-2.7.7.jar, dungeons_plus-1.16.5-1.1.5.jar, Platform-forge-1.16.5-1.2.5.jar, silent-gear-1.16.5-2.6.36.jar, simplylight-1.16.5-1.4.2-build.32.jar, cavesandcliffs-1.16.5-7.2.0.jar, RoughlyEnoughItems-6.5.436.jar, portality-1.16.5-3.2.5.jar, RoughlyEnoughItems-jei-internals-workaround-6.5.436.jar, curios-forge-1.16.5-4.1.0.0.jar, rereskillable-1.16.5-1.3.6.jar, SpartanShields-1.16.5-2.1.2.jar, gravestone-1.16.5-1.0.7.jar, AutoRegLib-1.6-49.jar, Quark-r2.4-322.jar, lostcities-1.16-4.0.12-beta.jar, elevatorid-1.16.5-1.7.13.jar, Gobber2-Forge-1.16.5-2.3.55.jar, CaveBiomeAPI-forge-2.0.0.jar, SpartanWeaponry-1.16.5-2.2.2.jar, InventoryProfilesNext-forge-1.16-1.10.602.jar, architectury-1.32.68.jar, cleardropsmod-1.0.0.jar, cloth-config-4.17.101-forge.jar, FastLeafDecay-v25.2.jar, CosmeticArmorReworked-1.16.5-v5a.jar, geckolib-forge-1.16.5-3.0.106.jar, aquamirae-5.4.API11.jar
+[23Apr2025 03:25:24.857] [Worker-Main-5/INFO] [com.minecraftabnormals.abnormals_core.core.AbnormalsCore/]: Loot Modification Manager has loaded 0 sets of modifiers
+[23Apr2025 03:25:25.216] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 15 recipes
+[23Apr2025 03:25:25.431] [Worker-Main-5/INFO] [com.minecraftabnormals.abnormals_core.core.AbnormalsCore/]: Advancement Modification Manager has loaded 7 sets of modifiers
+[23Apr2025 03:25:26.070] [Worker-Main-5/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[23Apr2025 03:25:26.280] [Worker-Main-5/INFO] [Silent Gear/]: Injecting loot table 'silentgear:inject/chests/ruined_portal' into 'minecraft:chests/ruined_portal'
+[23Apr2025 03:25:26.523] [Worker-Main-5/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[23Apr2025 03:25:26.674] [Worker-Main-5/INFO] [Silent Gear/]: Injecting loot table 'silentgear:inject/chests/bastion_bridge' into 'minecraft:chests/bastion_bridge'
+[23Apr2025 03:25:26.891] [Worker-Main-5/INFO] [Silent Gear/]: Injecting loot table 'silentgear:inject/chests/bastion_treasure' into 'minecraft:chests/bastion_treasure'
+[23Apr2025 03:25:27.008] [Worker-Main-5/INFO] [Silent Gear/]: Injecting loot table 'silentgear:inject/chests/nether_bridge' into 'minecraft:chests/nether_bridge'
+[23Apr2025 03:25:27.244] [Worker-Main-5/INFO] [Silent Gear/]: Injecting loot table 'silentgear:inject/entities/spider' into 'minecraft:entities/spider'
+[23Apr2025 03:25:27.418] [Worker-Main-5/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[23Apr2025 03:25:27.615] [Worker-Main-5/INFO] [Silent Gear/]: Injecting loot table 'silentgear:inject/entities/cave_spider' into 'minecraft:entities/cave_spider'
+[23Apr2025 03:25:27.789] [Worker-Main-5/INFO] [Silent Gear/]: Injecting loot table 'silentgear:inject/chests/bastion_other' into 'minecraft:chests/bastion_other'
+[23Apr2025 03:25:27.839] [Worker-Main-5/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {alexsmobs:gameplay/seal_reward}.pools[0].entries[1].functions[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
+[23Apr2025 03:25:28.054] [Worker-Main-5/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2245 advancements
+[23Apr2025 03:25:28.112] [Worker-Main-5/INFO] [com.minecraftabnormals.environmental.common.slabfish.SlabfishLoader/]: Loaded 55 Slabfish Types
+[23Apr2025 03:25:28.112] [Worker-Main-5/INFO] [com.minecraftabnormals.environmental.common.slabfish.SlabfishLoader/]: Loaded 16 Sweater Types
+[23Apr2025 03:25:28.112] [Worker-Main-5/INFO] [com.minecraftabnormals.environmental.common.slabfish.SlabfishLoader/]: Loaded 19 Backpack Types
+[23Apr2025 03:25:28.179] [Worker-Main-5/INFO] [Silent Gear/TraitManager]: Reloading trait files
+[23Apr2025 03:25:28.186] [Worker-Main-5/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:not'
+[23Apr2025 03:25:28.188] [Worker-Main-5/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:and'
+[23Apr2025 03:25:28.190] [Worker-Main-5/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:or'
+[23Apr2025 03:25:28.192] [Worker-Main-5/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:gear_type'
+[23Apr2025 03:25:28.195] [Worker-Main-5/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:material_count'
+[23Apr2025 03:25:28.197] [Worker-Main-5/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:material_ratio'
+[23Apr2025 03:25:28.199] [Worker-Main-5/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:primary_material'
+[23Apr2025 03:25:28.203] [Worker-Main-5/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:simple_trait'
+[23Apr2025 03:25:28.204] [Worker-Main-5/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:damage_type_trait'
+[23Apr2025 03:25:28.206] [Worker-Main-5/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:durability_trait'
+[23Apr2025 03:25:28.209] [Worker-Main-5/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:enchantment_trait'
+[23Apr2025 03:25:28.211] [Worker-Main-5/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:nbt_trait'
+[23Apr2025 03:25:28.214] [Worker-Main-5/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:potion_effect_trait'
+[23Apr2025 03:25:28.216] [Worker-Main-5/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:stat_modifier_trait'
+[23Apr2025 03:25:28.220] [Worker-Main-5/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:attribute_trait'
+[23Apr2025 03:25:28.225] [Worker-Main-5/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:block_placer'
+[23Apr2025 03:25:28.228] [Worker-Main-5/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:block_filler'
+[23Apr2025 03:25:28.230] [Worker-Main-5/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:synergy'
+[23Apr2025 03:25:28.237] [Worker-Main-5/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:target_effect'
+[23Apr2025 03:25:28.239] [Worker-Main-5/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:bonus_drops'
+[23Apr2025 03:25:28.244] [Worker-Main-5/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:cancel_effects'
+[23Apr2025 03:25:28.248] [Worker-Main-5/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:self_repair'
+[23Apr2025 03:25:28.250] [Worker-Main-5/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:stellar'
+[23Apr2025 03:25:28.269] [Worker-Main-5/INFO] [Silent Gear/TraitManager]: Registered 67 traits
+[23Apr2025 03:25:28.332] [Worker-Main-5/INFO] [Silent Gear/PartManager]: Reloading part files
+[23Apr2025 03:25:28.350] [Worker-Main-5/INFO] [Silent Gear/PartManager]: Registered part serializer 'silentgear:compound_part'
+[23Apr2025 03:25:28.351] [Worker-Main-5/INFO] [Silent Gear/PartManager]: Registered part serializer 'silentgear:misc_upgrade'
+[23Apr2025 03:25:28.375] [Worker-Main-5/INFO] [Silent Gear/PartManager]: Registered 45 parts
+[23Apr2025 03:25:28.396] [Worker-Main-5/INFO] [Silent Gear/MaterialManager]: Reloading material files
+[23Apr2025 03:25:28.407] [Worker-Main-5/INFO] [Silent Gear/MaterialManager]: Registered material serializer 'silentgear:standard'
+[23Apr2025 03:25:28.409] [Worker-Main-5/INFO] [Silent Gear/MaterialManager]: Registered material serializer 'silentgear:compound'
+[23Apr2025 03:25:28.410] [Worker-Main-5/INFO] [Silent Gear/MaterialManager]: Registered material serializer 'silentgear:custom_compound'
+[23Apr2025 03:25:28.412] [Worker-Main-5/INFO] [Silent Gear/MaterialManager]: Registered material serializer 'silentgear:crafted'
+[23Apr2025 03:25:28.454] [Worker-Main-5/INFO] [Silent Gear/]: Skipped loading 26 material(s), as their conditions were not met. This is usually NOT an error!
+[23Apr2025 03:25:28.455] [Worker-Main-5/INFO] [Silent Gear/]: Skipped materials: silentgear:aluminum, silentgear:aluminum_steel, silentgear:bismuth, silentgear:bismuth_brass, silentgear:bismuth_steel, silentgear:brass, silentgear:bronze, silentgear:compressed_iron, silentgear:electrum, silentgear:enderium, silentgear:invar, silentgear:lead, silentgear:lumium, silentgear:nickel, silentgear:osmium, silentgear:platinum, silentgear:redstone_alloy, silentgear:refined_glowstone, silentgear:refined_iron, silentgear:refined_obsidian, silentgear:signalum, silentgear:steel, silentgear:tin, silentgear:titanium, silentgear:uranium, silentgear:zinc
+[23Apr2025 03:25:28.564] [Worker-Main-5/INFO] [REI/]: Reloading Plugin Manager [REIPlugin] stage [START], registered 3 plugins: DefaultRuntimePlugin [roughlyenoughitems], JEIExtraPlugin [roughlyenoughitems], DefaultPlugin [roughlyenoughitems]
+[23Apr2025 03:25:28.725] [Worker-Main-5/INFO] [REI/]: Reloaded Plugin Manager [REIPlugin] with 2 entry types, 5 item comparators, 0 fluid comparators and 2 fluid support providers in 169ms.
+[23Apr2025 03:25:28.725] [Worker-Main-5/INFO] [REI/]: Reloading Plugin Manager [REIServerPlugin] stage [START], registered 3 plugins: DefaultRuntimePlugin [roughlyenoughitems], JEIExtraPlugin [roughlyenoughitems], DefaultPlugin [roughlyenoughitems]
+[23Apr2025 03:25:28.730] [Worker-Main-5/INFO] [REI/]: Reloaded Plugin Manager [REIServerPlugin] with 0 menu infos in 1ms.
+[23Apr2025 03:25:28.746] [Worker-Main-5/INFO] [REI/]: Reloading Plugin Manager [REIPlugin] stage [END], registered 3 plugins: DefaultRuntimePlugin [roughlyenoughitems], JEIExtraPlugin [roughlyenoughitems], DefaultPlugin [roughlyenoughitems]
+[23Apr2025 03:25:28.829] [Worker-Main-5/INFO] [REI/]: Reloaded Plugin Manager [REIPlugin] with 2 entry types, 5 item comparators, 0 fluid comparators and 2 fluid support providers in 90ms.
+[23Apr2025 03:25:28.832] [Worker-Main-5/INFO] [REI/]: Reloading Plugin Manager [REIServerPlugin] stage [END], registered 3 plugins: DefaultRuntimePlugin [roughlyenoughitems], JEIExtraPlugin [roughlyenoughitems], DefaultPlugin [roughlyenoughitems]
+[23Apr2025 03:25:28.858] [Worker-Main-5/INFO] [REI/]: Reloaded Plugin Manager [REIServerPlugin] with 5 menu infos in 29ms.
+[23Apr2025 03:25:28.876] [Worker-Main-5/INFO] [Cucumber Library/]: Loaded cucumber-tags.json in 5 ms
+[23Apr2025 03:25:35.792] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[23Apr2025 03:25:35.792] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[23Apr2025 03:25:35.792] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[23Apr2025 03:25:35.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[23Apr2025 03:25:35.925] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[23Apr2025 03:25:35.946] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[23Apr2025 03:25:36.020] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23Apr2025 03:25:36.020] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[23Apr2025 03:25:36.020] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23Apr2025 03:25:36.021] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[23Apr2025 03:25:36.047] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[23Apr2025 03:25:36.050] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[23Apr2025 03:25:36.386] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[23Apr2025 03:25:36.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[23Apr2025 03:25:37.416] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[23Apr2025 03:25:37.417] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[23Apr2025 03:25:37.627] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[23Apr2025 03:25:37.879] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 1330 ms
+[23Apr2025 03:25:37.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (1.841s)! For help, type "help"
+[23Apr2025 03:25:37.935] [Server thread/INFO] [net.joefoxe.hexerei.Hexerei/]: HELLO from server starting
+[23Apr2025 03:25:37.935] [Server thread/INFO] [net.joefoxe.hexerei.Hexerei/]: HELLO from server starting
+[23Apr2025 03:25:37.975] [Server thread/INFO] [Spartan Weaponry/]: Starting up Server for Spartan Weaponry!
+[23Apr2025 03:25:37.992] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=false, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, GORGON_TEMPLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, MAUSOLEUM_CF=true, ICE_DRAGON_CAVE_CF=true, GRAVEYARD_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=true, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
+[23Apr2025 03:25:37.992] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[23Apr2025 03:25:37.992] [Server thread/INFO] [Silent Gear/TraitManager]: Traits loaded: 67
+[23Apr2025 03:25:37.993] [Server thread/INFO] [Silent Gear/PartManager]: Parts loaded: 45
+[23Apr2025 03:25:37.993] [Server thread/INFO] [Silent Gear/PartManager]: - Compound: 41
+[23Apr2025 03:25:37.994] [Server thread/INFO] [Silent Gear/PartManager]: - Simple: 4
+[23Apr2025 03:25:37.994] [Server thread/INFO] [Silent Gear/MaterialManager]: Materials loaded: 101
+[23Apr2025 03:25:37.994] [Server thread/INFO] [Silent Gear/MaterialManager]: - Standard: 95
+[23Apr2025 03:27:42.801] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7619c779
+[23Apr2025 03:27:42.848] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: kevin99col[/127.21.209.171:35869] logged in with entity id 28 at (-6243.697545503754, 66.0, -4226.075475232302)
+[23Apr2025 03:27:42.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col joined the game
+[23Apr2025 03:27:43.652] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityJellyfish from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[23Apr2025 03:27:43.653] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityJellyfish from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[23Apr2025 03:27:59.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Set the weather to clear]
+[23Apr2025 03:28:02.493] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Set the time to 1000]
+[23Apr2025 03:28:50.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to -4186.37, 8.0, 1256.7]
+[23Apr2025 03:28:50.872] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityBoar from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[23Apr2025 03:28:51.405] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityGoat from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[23Apr2025 03:28:51.973] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntitySquirrel from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[23Apr2025 03:28:52.185] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityPheasant from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[23Apr2025 03:28:52.659] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityButterfly from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[23Apr2025 03:28:52.659] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityButterfly from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[23Apr2025 03:28:52.842] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityTurkey from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[23Apr2025 03:28:53.075] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntitySongbird from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[23Apr2025 03:28:53.426] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityFeralWolf from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[23Apr2025 03:28:53.533] [Server thread/ERROR] [net.minecraft.world.gen.feature.structure.Structure/]: Unknown structure piece id: minecraft:whpiece
+[23Apr2025 03:29:30.229] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3305c4d4
+[23Apr2025 03:29:30.255] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DARKFIRE[/127.9.21.201:38877] logged in with entity id 699 at (-6247.00110396386, 67.0, -4236.951454570775)
+[23Apr2025 03:29:30.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE joined the game
+[23Apr2025 03:29:30.319] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityDragonfly from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[23Apr2025 03:29:30.320] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityDragonfly from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[23Apr2025 03:30:33.195] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityWhale from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[23Apr2025 03:30:53.295] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityBobbitWorm from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[23Apr2025 03:32:28.295] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityShark from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[23Apr2025 03:32:56.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to DARKFIRE]
+[23Apr2025 03:33:52.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Set the weather to clear]
