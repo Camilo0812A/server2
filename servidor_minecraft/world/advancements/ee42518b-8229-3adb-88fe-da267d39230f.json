@@ -3206,10 +3206,13 @@
       "minecraft:pillager": "2025-04-21 21:30:21 +0000",
       "minecraft:blaze": "2025-04-23 00:39:32 +0000",
       "minecraft:skeleton": "2025-04-21 20:36:58 +0000",
+      "minecraft:ghast": "2025-04-23 01:04:28 +0000",
       "minecraft:hoglin": "2025-04-23 00:26:02 +0000",
       "minecraft:vindicator": "2025-04-21 21:38:00 +0000",
       "minecraft:spider": "2025-04-21 20:08:08 +0000",
+      "minecraft:piglin_brute": "2025-04-23 00:57:54 +0000",
       "minecraft:creeper": "2025-04-22 19:12:41 +0000",
+      "minecraft:zombified_piglin": "2025-04-23 01:03:25 +0000",
       "minecraft:witch": "2025-04-21 20:16:36 +0000",
       "minecraft:wither_skeleton": "2025-04-23 00:37:14 +0000",
       "minecraft:husk": "2025-04-21 21:19:33 +0000",
@@ -7735,6 +7738,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-04-23 00:58:45 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/tyrian_steel_dust": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
@@ -8290,6 +8299,12 @@
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-04-23 01:04:28 +0000"
     },
     "done": true
   },
@@ -9122,6 +9137,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-04-23 00:58:42 +0000"
     },
     "done": true
   },

@@ -3168,8 +3168,10 @@
       "minecraft:hoglin": "2025-04-23 00:33:41 +0000",
       "minecraft:vindicator": "2025-04-22 02:03:21 +0000",
       "minecraft:spider": "2025-04-21 20:31:55 +0000",
+      "minecraft:piglin_brute": "2025-04-23 00:59:55 +0000",
       "minecraft:creeper": "2025-04-21 20:29:03 +0000",
       "minecraft:slime": "2025-04-22 17:52:23 +0000",
+      "minecraft:zombified_piglin": "2025-04-23 01:03:17 +0000",
       "minecraft:witch": "2025-04-22 17:32:21 +0000",
       "minecraft:wither_skeleton": "2025-04-23 00:44:06 +0000",
       "minecraft:husk": "2025-04-21 21:16:20 +0000",
@@ -7673,6 +7675,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-04-23 00:59:01 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/tyrian_steel_dust": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
@@ -9059,6 +9067,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-04-23 00:58:44 +0000"
     },
     "done": true
   },

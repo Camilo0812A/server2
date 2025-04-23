@@ -80,3 +80,34 @@
 [23Apr2025 00:52:27.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE joined the game
 [23Apr2025 00:54:48.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to DARKFIRE]
 [23Apr2025 00:56:19.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE fell from a high place
+[23Apr2025 00:58:16.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to kevin99col]
+[23Apr2025 00:58:42.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col has made the advancement [Those Were the Days]
+[23Apr2025 00:58:44.086] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE has made the advancement [Those Were the Days]
+[23Apr2025 00:58:45.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col has made the advancement [War Pigs]
+[23Apr2025 00:59:01.024] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE has made the advancement [War Pigs]
+[23Apr2025 00:59:47.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was slain by Piglin Brute
+[23Apr2025 01:01:03.086] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DARKFIRE lost connection: Disconnected
+[23Apr2025 01:01:03.087] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE left the game
+[23Apr2025 01:01:16.046] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@77ffb635
+[23Apr2025 01:01:16.068] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DARKFIRE[/127.9.21.201:36325] logged in with entity id 314230 at (-1079.561074351691, 73.0, -1077.9847589274038)
+[23Apr2025 01:01:16.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE joined the game
+[23Apr2025 01:02:55.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to kevin99col]
+[23Apr2025 01:03:23.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was slain by Zombified Piglin
+[23Apr2025 01:03:33.589] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col was slain by Zombified Piglin
+[23Apr2025 01:03:56.006] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to kevin99col]
+[23Apr2025 01:04:17.834] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was fireballed by Ghast
+[23Apr2025 01:04:28.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col has completed the challenge [Return to Sender]
+[23Apr2025 01:04:33.002] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DARKFIRE lost connection: Disconnected
+[23Apr2025 01:04:33.003] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE left the game
+[23Apr2025 01:04:44.611] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@a5494e7
+[23Apr2025 01:04:44.636] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DARKFIRE[/127.9.21.201:38291] logged in with entity id 315559 at (-167.5, 70.0, 79.5)
+[23Apr2025 01:04:44.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE joined the game
+[23Apr2025 01:04:52.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to kevin99col]
+[23Apr2025 01:05:02.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was slain by Zombified Piglin
+[23Apr2025 01:05:27.778] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to kevin99col]
+[23Apr2025 01:06:58.083] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DARKFIRE lost connection: Disconnected
+[23Apr2025 01:06:58.083] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE left the game
+[23Apr2025 01:07:15.448] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4148a39a
+[23Apr2025 01:07:15.471] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DARKFIRE[/127.9.21.201:45931] logged in with entity id 316045 at (-1119.1260335104707, 61.0, -1060.9418647713514)
+[23Apr2025 01:07:15.476] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE joined the game
+[23Apr2025 01:07:47.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to kevin99col]
