@@ -73,3 +73,10 @@
 [23Apr2025 00:41:39.386] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE was burnt to a crisp whilst fighting Blaze
 [23Apr2025 00:41:47.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col has made the advancement [Into Fire]
 [23Apr2025 00:43:40.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to kevin99col]
+[23Apr2025 00:52:11.738] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DARKFIRE lost connection: Disconnected
+[23Apr2025 00:52:11.739] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE left the game
+[23Apr2025 00:52:27.804] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@781e780f
+[23Apr2025 00:52:27.834] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DARKFIRE[/127.9.21.201:46145] logged in with entity id 310354 at (-1160.699999988079, 66.0, -969.7958639995634)
+[23Apr2025 00:52:27.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE joined the game
+[23Apr2025 00:54:48.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to DARKFIRE]
+[23Apr2025 00:56:19.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE fell from a high place
