@@ -6551,6 +6551,12 @@
     },
     "done": true
   },
+  "silentgear:blaze_gold": {
+    "criteria": {
+      "get_item": "2025-04-23 00:13:11 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/rod_blueprint": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
@@ -7532,6 +7538,12 @@
   "cavesandcliffs:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-23 00:13:11 +0000"
     },
     "done": true
   },
@@ -8900,6 +8912,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2025-04-21 21:51:36 +0000",
+      "minecraft:snowy_mountains": "2025-04-23 00:07:35 +0000",
       "minecraft:forest": "2025-04-21 21:42:17 +0000",
       "minecraft:mountains": "2025-04-22 17:27:08 +0000",
       "minecraft:taiga": "2025-04-21 20:16:38 +0000",
@@ -8907,13 +8920,18 @@
       "environmental:marsh": "2025-04-21 20:49:25 +0000",
       "minecraft:giant_tree_taiga": "2025-04-21 19:54:47 +0000",
       "minecraft:deep_cold_ocean": "2025-04-21 22:00:16 +0000",
+      "minecraft:snowy_tundra": "2025-04-23 00:07:24 +0000",
       "minecraft:taiga_hills": "2025-04-21 19:54:13 +0000",
       "minecraft:desert": "2025-04-22 21:04:11 +0000",
+      "minecraft:frozen_river": "2025-04-23 00:09:34 +0000",
       "minecraft:deep_frozen_ocean": "2025-04-21 22:00:09 +0000",
       "minecraft:birch_forest": "2025-04-21 21:42:57 +0000",
+      "minecraft:snowy_beach": "2025-04-23 00:07:08 +0000",
       "minecraft:beach": "2025-04-21 22:08:12 +0000",
       "minecraft:dark_forest": "2025-04-22 19:07:42 +0000",
       "minecraft:river": "2025-04-21 19:59:49 +0000",
+      "minecraft:lukewarm_ocean": "2025-04-23 00:12:51 +0000",
+      "minecraft:snowy_taiga": "2025-04-23 00:10:54 +0000",
       "minecraft:wooded_mountains": "2025-04-22 17:29:24 +0000",
       "minecraft:wooded_hills": "2025-04-21 21:42:07 +0000",
       "minecraft:giant_tree_taiga_hills": "2025-04-21 19:58:45 +0000",
