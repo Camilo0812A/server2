@@ -604,3 +604,5 @@ java.lang.NullPointerException: null
 [23Apr2025 05:11:23.225] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityGoose from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
 [23Apr2025 05:14:18.471] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-2685, y=28, z=-3476} BlockPos{x=-2684, y=27, z=-3476}
 [23Apr2025 05:14:35.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to DARKFIRE]
+[23Apr2025 05:19:52.028] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Set the weather to clear]
+[23Apr2025 05:19:59.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Set the time to 1000]
