@@ -588,3 +588,13 @@ java.lang.NullPointerException: null
 [23Apr2025 04:52:49.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to -6248.06, 72.0, -4239.51]
 [23Apr2025 04:53:53.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to -6248.06, 72.0, -4239.51]
 [23Apr2025 04:54:46.107] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: DARKFIRE moved wrongly!
+[23Apr2025 04:59:54.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to -2619.07, 20.0, -3486.9]
+[23Apr2025 04:59:54.742] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityBadger from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[23Apr2025 05:00:04.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Set the weather to clear]
+[23Apr2025 05:00:13.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Set the time to 1000]
+[23Apr2025 05:00:18.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to kevin99col]
+[23Apr2025 05:03:49.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to -6245.17, 71.0, -4248.23]
+[23Apr2025 05:04:05.574] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to -6245.17, 71.0, -4248.23]
+[23Apr2025 05:04:20.866] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to -6245.17, 71.0, -4248.23]
+[23Apr2025 05:06:05.640] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to -6245.17, 71.0, -4248.23]
+[23Apr2025 05:06:26.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to -6245.17, 71.0, -4248.23]
