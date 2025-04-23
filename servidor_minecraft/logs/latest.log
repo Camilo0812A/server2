@@ -633,3 +633,7 @@ java.lang.NullPointerException: null
 [23Apr2025 05:56:00.517] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Set the weather to clear]
 [23Apr2025 05:56:36.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Set the time to 1000]
 [23Apr2025 05:56:44.837] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to kevin99col]
+[23Apr2025 05:58:12.355] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: kevin99col lost connection: Disconnected
+[23Apr2025 05:58:12.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col left the game
+[23Apr2025 05:58:19.504] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DARKFIRE lost connection: Disconnected
+[23Apr2025 05:58:19.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE left the game
