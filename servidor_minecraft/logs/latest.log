@@ -575,3 +575,16 @@ java.lang.NullPointerException: null
 [23Apr2025 04:42:03.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to -6248.06, 72.0, -4239.51]
 [23Apr2025 04:42:11.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Set the weather to clear]
 [23Apr2025 04:42:12.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to -6248.06, 72.0, -4239.51]
+[23Apr2025 04:47:18.053] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: kevin99col lost connection: You logged in from another location
+[23Apr2025 04:47:18.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col left the game
+[23Apr2025 04:47:18.104] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7b09a895
+[23Apr2025 04:47:18.122] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[23Apr2025 04:47:18.141] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: kevin99col[/127.224.95.251:58039] logged in with entity id 23457 at (-6247.358969780994, 67.0, -4237.690936378487)
+[23Apr2025 04:47:18.148] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col joined the game
+[23Apr2025 04:47:49.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to -6248.06, 72.0, -4239.51]
+[23Apr2025 04:48:34.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Set the weather to clear]
+[23Apr2025 04:48:41.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Set the time to 1000]
+[23Apr2025 04:52:06.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DARKFIRE has made the advancement [Unfriendly Cube]
+[23Apr2025 04:52:49.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to -6248.06, 72.0, -4239.51]
+[23Apr2025 04:53:53.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to -6248.06, 72.0, -4239.51]
+[23Apr2025 04:54:46.107] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: DARKFIRE moved wrongly!

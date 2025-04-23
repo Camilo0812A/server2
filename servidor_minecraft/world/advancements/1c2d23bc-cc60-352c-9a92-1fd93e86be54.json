@@ -5252,6 +5252,12 @@
     },
     "done": true
   },
+  "betteranimalsplus:jellyfish_sting": {
+    "criteria": {
+      "jellyfish_sting": "2025-04-23 04:52:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
