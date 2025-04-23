@@ -192,3 +192,7 @@ java.lang.NullPointerException: null
 [23Apr2025 01:55:02.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to kevin99col]
 [23Apr2025 01:55:09.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to kevin99col]
 [23Apr2025 01:59:04.812] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to -6248.94, 66.0, -4243.01]
+[23Apr2025 02:00:03.517] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Set the weather to clear]
+[23Apr2025 02:02:29.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Teleported DARKFIRE to kevin99col]
+[23Apr2025 02:05:23.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Set the weather to clear]
+[23Apr2025 02:05:31.593] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Set the time to 1000]
