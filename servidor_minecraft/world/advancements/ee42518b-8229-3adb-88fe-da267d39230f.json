@@ -899,6 +899,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-23 05:32:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
@@ -3988,6 +3994,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2025-04-23 05:32:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
@@ -6859,6 +6871,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-04-23 00:18:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-04-23 05:32:23 +0000"
     },
     "done": true
   },

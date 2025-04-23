@@ -606,3 +606,15 @@ java.lang.NullPointerException: null
 [23Apr2025 05:14:35.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to DARKFIRE]
 [23Apr2025 05:19:52.028] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Set the weather to clear]
 [23Apr2025 05:19:59.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Set the time to 1000]
+[23Apr2025 05:30:50.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Set the weather to clear]
+[23Apr2025 05:30:55.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Set the time to 1000]
+[23Apr2025 05:31:53.859] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Mason'/32176, l='ServerLevel[world]', x=-3005.89, y=69.55, z=-177.70] died, message: 'Mason was slain by Fire Dragon'
+[23Apr2025 05:32:03.454] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Mason'/32187, l='ServerLevel[world]', x=-3026.83, y=69.00, z=-166.59] died, message: 'Mason was slain by Fire Dragon'
+[23Apr2025 05:32:06.456] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/32188, l='ServerLevel[world]', x=-3014.99, y=67.00, z=-153.30] died, message: 'Villager was incinerated by Fire Dragon'
+[23Apr2025 05:32:18.011] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Nitwit'/32202, l='ServerLevel[world]', x=-3019.47, y=71.55, z=-137.78] died, message: 'Nitwit was slain by Fire Dragon'
+[23Apr2025 05:32:20.769] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col has made the advancement [Would you Like to Know More?]
+[23Apr2025 05:32:23.066] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kevin99col has made the advancement [Book of Monsters]
+[23Apr2025 05:33:03.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to -6245.17, 71.0, -4248.23]
+[23Apr2025 05:33:37.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to 148.76, 69.5, -206.85]
+[23Apr2025 05:36:40.158] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/34830, l='ServerLevel[world]', x=-1883.10, y=63.00, z=-844.48] died, message: 'Villager burned to death'
+[23Apr2025 05:37:14.821] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to DARKFIRE]
