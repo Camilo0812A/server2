@@ -1243,7 +1243,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-04-23 00:18:01 +0000"
+      "minecraft:crimson_forest": "2025-04-23 00:18:01 +0000",
+      "minecraft:warped_forest": "2025-04-23 00:37:55 +0000"
     },
     "done": false
   },
@@ -2401,6 +2402,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-04-23 00:41:47 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/blazing_dust": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
@@ -3196,12 +3203,14 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-04-21 21:30:21 +0000",
+      "minecraft:blaze": "2025-04-23 00:39:32 +0000",
       "minecraft:skeleton": "2025-04-21 20:36:58 +0000",
       "minecraft:hoglin": "2025-04-23 00:26:02 +0000",
       "minecraft:vindicator": "2025-04-21 21:38:00 +0000",
       "minecraft:spider": "2025-04-21 20:08:08 +0000",
       "minecraft:creeper": "2025-04-22 19:12:41 +0000",
       "minecraft:witch": "2025-04-21 20:16:36 +0000",
+      "minecraft:wither_skeleton": "2025-04-23 00:37:14 +0000",
       "minecraft:husk": "2025-04-21 21:19:33 +0000",
       "minecraft:cave_spider": "2025-04-22 19:13:53 +0000",
       "minecraft:piglin": "2025-04-23 00:25:21 +0000",
@@ -9960,6 +9969,12 @@
   "silentgear:recipes/silentgear/blueprint_paper": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-04-23 00:36:15 +0000"
     },
     "done": true
   },
