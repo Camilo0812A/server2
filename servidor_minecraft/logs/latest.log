@@ -618,3 +618,5 @@ java.lang.NullPointerException: null
 [23Apr2025 05:33:37.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to 148.76, 69.5, -206.85]
 [23Apr2025 05:36:40.158] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/34830, l='ServerLevel[world]', x=-1883.10, y=63.00, z=-844.48] died, message: 'Villager burned to death'
 [23Apr2025 05:37:14.821] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [kevin99col: Teleported kevin99col to DARKFIRE]
+[23Apr2025 05:39:10.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Set the weather to clear]
+[23Apr2025 05:42:18.107] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DARKFIRE: Set the time to 1000]
