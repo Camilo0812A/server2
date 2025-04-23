@@ -683,6 +683,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-04-23 00:25:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
@@ -3191,6 +3197,7 @@
     "criteria": {
       "minecraft:pillager": "2025-04-21 21:30:21 +0000",
       "minecraft:skeleton": "2025-04-21 20:36:58 +0000",
+      "minecraft:hoglin": "2025-04-23 00:26:02 +0000",
       "minecraft:vindicator": "2025-04-21 21:38:00 +0000",
       "minecraft:spider": "2025-04-21 20:08:08 +0000",
       "minecraft:creeper": "2025-04-22 19:12:41 +0000",
@@ -7027,6 +7034,12 @@
       "has_the_recipe": "2025-04-21 19:53:23 +0000"
     },
     "done": true
+  },
+  "silentgear:material_grader": {
+    "criteria": {
+      "get_catalyst": "2025-04-23 00:33:17 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {

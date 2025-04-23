@@ -665,6 +665,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-04-23 00:28:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-04-21 19:54:13 +0000"
@@ -3151,6 +3157,7 @@
     "criteria": {
       "minecraft:pillager": "2025-04-21 22:05:06 +0000",
       "minecraft:skeleton": "2025-04-21 21:00:47 +0000",
+      "minecraft:hoglin": "2025-04-23 00:33:41 +0000",
       "minecraft:vindicator": "2025-04-22 02:03:21 +0000",
       "minecraft:spider": "2025-04-21 20:31:55 +0000",
       "minecraft:creeper": "2025-04-21 20:29:03 +0000",
